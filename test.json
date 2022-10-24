@@ -1,0 +1,582 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Find the stationary distribution of a Markov chain",
+        "totalResults": "2340000",
+        "searchTerms": "Find the stationary distribution of a Markov chain",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "33d96791f7ddc438a"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Find the stationary distribution of a Markov chain",
+        "totalResults": "2340000",
+        "searchTerms": "Find the stationary distribution of a Markov chain",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "33d96791f7ddc438a"
+      }
+    ]
+  },
+  "context": {
+    "title": "CS222"
+  },
+  "searchInformation": {
+    "searchTime": 0.31696,
+    "formattedSearchTime": "0.32",
+    "totalResults": "2340000",
+    "formattedTotalResults": "2,340,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Discrete Markov Chains: Finding the Stationary Distribution",
+      "htmlTitle": "Discrete \u003cb\u003eMarkov Chains\u003c/b\u003e: \u003cb\u003eFinding the Stationary Distribution\u003c/b\u003e",
+      "link": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
+      "displayLink": "stephens999.github.io",
+      "snippet": "May 30, 2021 ... In this note, we illustrate one way of analytically obtaining the stationary distribution for a finite discrete Markov chain. 3x3 example.",
+      "htmlSnippet": "May 30, 2021 \u003cb\u003e...\u003c/b\u003e In this note, we illustrate one way of analytically obtaining the \u003cb\u003estationary distribution\u003c/b\u003e for a finite discrete \u003cb\u003eMarkov chain\u003c/b\u003e. 3x3 example.",
+      "cacheId": "KQWBfsOLa8gJ",
+      "formattedUrl": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
+      "htmlFormattedUrl": "https://stephens999.github.io/fiveMinuteStats/\u003cb\u003estationary\u003c/b\u003e_\u003cb\u003edistribution\u003c/b\u003e.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "date": "2016-01-21",
+            "viewport": "width=device-width, initial-scale=1",
+            "author": "Matt Bonakdarpour; with edits by Matthew Stephens and Jitao David Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stationary and Limiting Distributions",
+      "htmlTitle": "Stationary and \u003cb\u003eLimiting Distributions\u003c/b\u003e",
+      "link": "https://www.probabilitycourse.com/chapter11/11_3_2_stationary_and_limiting_distributions.php",
+      "displayLink": "www.probabilitycourse.com",
+      "snippet": "As in the case of discrete-time Markov chains, for \"nice\" chains, a unique stationary distribution exists and it is equal to the limiting distribution. Remember ...",
+      "htmlSnippet": "As in the case of discrete-time \u003cb\u003eMarkov chains\u003c/b\u003e, for &quot;nice&quot; chains, a unique \u003cb\u003estationary distribution\u003c/b\u003e exists and it is equal to the \u003cb\u003elimiting distribution\u003c/b\u003e. Remember&nbsp;...",
+      "cacheId": "-rXj66I7qi8J",
+      "formattedUrl": "https://www.probabilitycourse.com/.../11_3_2_stationary_and_limiting_ distributions.php",
+      "htmlFormattedUrl": "https://www.probabilitycourse.com/.../11_3_2_\u003cb\u003estationary\u003c/b\u003e_and_\u003cb\u003elimiting\u003c/b\u003e_ \u003cb\u003edistributions\u003c/b\u003e.php",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "section": "11.3.2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "1 Markov Chains - Stationary Distributions",
+      "htmlTitle": "1 \u003cb\u003eMarkov Chains\u003c/b\u003e - \u003cb\u003eStationary Distributions\u003c/b\u003e",
+      "link": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
+      "displayLink": "www.stat.berkeley.edu",
+      "snippet": "was, the proportion of time the chain spends in state j is approximately ψj for all j. Let's try to find the stationary distribution of a Markov Chain with ...",
+      "htmlSnippet": "was, the proportion of time the chain spends in state j is approximately ψj for all j. Let&#39;s try to \u003cb\u003efind the stationary distribution of a Markov Chain\u003c/b\u003e with&nbsp;...",
+      "cacheId": "X9fLHkfjP-QJ",
+      "formattedUrl": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
+      "htmlFormattedUrl": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTee7sjeXOh5RVcBdCRY7orKrXwgkEYd_IfJZXWC_nAkwDpJ1sBOOtPyCQ",
+            "width": "197",
+            "height": "255"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20080220082116-08'00'",
+            "creator": "LaTeX with hyperref package",
+            "creationdate": "D:20080220082116-08'00'",
+            "fullbanner": "This is pdfTeX, Version 3.141592-1.40.3-2.2 (Web2C 7.5.6) kpathsea version 3.5.6",
+            "producer": "pdfTeX-1.40.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///81754dbe34ab05db187a552071e84948dc4bc1fcb06cea5a14a7882e0dce1c33"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Determine stationary distribution of Markov Chain - Mathematics ...",
+      "htmlTitle": "\u003cb\u003eDetermine stationary distribution\u003c/b\u003e of \u003cb\u003eMarkov Chain\u003c/b\u003e - Mathematics ...",
+      "link": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
+      "displayLink": "math.stackexchange.com",
+      "snippet": "Jan 25, 2019 ... Let a row vector X=(x1,x2,x3,x4,x5) be a stationary distribution. Then X=XP holds. Solving it directly, we deduce that there exists a real ...",
+      "htmlSnippet": "Jan 25, 2019 \u003cb\u003e...\u003c/b\u003e Let a row vector X=(x1,x2,x3,x4,x5) be a \u003cb\u003estationary distribution\u003c/b\u003e. Then X=XP holds. Solving it directly, we deduce that there exists a real&nbsp;...",
+      "cacheId": "FDE_4tnjLNwJ",
+      "formattedUrl": "https://math.stackexchange.com/.../determine-stationary-distribution-of- markov-chain",
+      "htmlFormattedUrl": "https://math.stackexchange.com/.../\u003cb\u003edetermine\u003c/b\u003e-\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistribution\u003c/b\u003e-of- \u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbeys3VsT0ys1AtNS65inoFym9D-YWierspYuGmguffGDLJ2HPQsM7tpd7",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "qapage": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+            "primaryimageofpage": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+            "name": "Determine stationary distribution of Markov Chain",
+            "description": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix \\begin{bmatrix}1/3&2/3&0&0&0\\\\ 1/2&1/2&..."
+          }
+        ],
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed",
+            "upvotecount": "0",
+            "commentcount": "1",
+            "answercount": "2",
+            "name": "Determine stationary distribution of Markov Chain",
+            "datecreated": "2019-01-25T08:46:55",
+            "text": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix [1/32/30001/21/200001/201/200001/43/40001/32/3] Since...",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "0",
+            "commentcount": "2",
+            "text": "Let a row vector X=(x1,x2,x3,x4,x5) be a stationary distribution. Then X=XP holds. Solving it directly, we deduce that there exists a real number s and t such that x1=3s,x2=4s,x3=0,x4=4t,x5=9t....",
+            "datecreated": "2019-01-25T08:57:41",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "0",
+            "text": "You can find stationary distributions by solving the equations xP=x for the row vector x where P is th given stochastic matrix. Indeed there are multiple solutions in this case. x=(t,43t,0,s,94s)...",
+            "datecreated": "2019-01-25T08:54:18",
+            "url": "Share"
+          }
+        ],
+        "person": [
+          {
+            "name": "Jonathan Kiersch"
+          },
+          {
+            "name": "NotoriousJuanG"
+          },
+          {
+            "name": "Kavi Rama Murthy"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+            "twitter:app:url:iphone": "se-zaphod://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
+            "twitter:app:id:googleplay": "com.stackexchange.marvin",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Determine stationary distribution of Markov Chain",
+            "og:site_name": "Mathematics Stack Exchange",
+            "twitter:domain": "math.stackexchange.com",
+            "twitter:app:url:ipad": "se-zaphod://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
+            "twitter:app:id:ipad": "871299723",
+            "twitter:app:name:googleplay": "Stack Exchange Android",
+            "twitter:app:id:iphone": "871299723",
+            "twitter:creator": "@StackMath",
+            "twitter:app:url:googleplay": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
+            "twitter:site": "@StackMath",
+            "twitter:app:name:ipad": "Stack Exchange iOS",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:app:country": "US",
+            "twitter:description": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix\n\n\\begin{bmatrix}1/3&amp;2/3&amp;0&amp;0&amp;0\\\\\n1/2&amp;1/2&...",
+            "og:url": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
+            "twitter:app:name:iphone": "Stack Exchange iOS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stationary Distributions of Markov Chains | Brilliant Math & Science ...",
+      "htmlTitle": "\u003cb\u003eStationary Distributions\u003c/b\u003e of \u003cb\u003eMarkov Chains\u003c/b\u003e | Brilliant Math &amp; Science ...",
+      "link": "https://brilliant.org/wiki/stationary-distributions/",
+      "displayLink": "brilliant.org",
+      "snippet": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses.",
+      "htmlSnippet": "A \u003cb\u003estationary distribution of a Markov chain\u003c/b\u003e is a probability distribution that remains unchanged in the \u003cb\u003eMarkov chain\u003c/b\u003e as time progresses.",
+      "cacheId": "Rrte-Cis8fcJ",
+      "formattedUrl": "https://brilliant.org/wiki/stationary-distributions/",
+      "htmlFormattedUrl": "https://brilliant.org/wiki/\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWMFLGXLoniJ1TcEPUvkd13EG-I32bLXUOWtTXIOUTk6hgKBLknvT-Ey4",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
+            "og:type": "website",
+            "og:image:alt": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
+            "twitter:card": "summary_large_image",
+            "al:ios:app_name": "Brilliant.org",
+            "og:title": "Stationary Distributions of Markov Chains | Brilliant Math & Science Wiki",
+            "al:android:package": "org.brilliant.android",
+            "google": "notranslate",
+            "al:ios:url": "com.brilliant.Brilliant://wiki/stationary-distributions/",
+            "og:description": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses. Typically, it is represented as a row vector ...",
+            "al:ios:app_store_id": "913335252",
+            "al:android:url": "https://brilliant.org/wiki/stationary-distributions/",
+            "fb:app_id": "326254770799145",
+            "twitter:site": "@brilliantorg",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0",
+            "og:url": "https://brilliant.org/wiki/stationary-distributions/",
+            "al:android:app_name": "Brilliant"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "13 Introduction to Stationary Distributions",
+      "htmlTitle": "13 Introduction to \u003cb\u003eStationary Distributions\u003c/b\u003e",
+      "link": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "displayLink": "mast.queensu.ca",
+      "snippet": "Here's how we find a stationary distribution for a Markov chain. Proposition: Suppose X is a Markov chain with state space S and transition probability matrix P ...",
+      "htmlSnippet": "Here&#39;s how we \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e for a \u003cb\u003eMarkov chain\u003c/b\u003e. Proposition: Suppose X is a \u003cb\u003eMarkov chain\u003c/b\u003e with state space S and transition probability matrix P&nbsp;...",
+      "cacheId": "XVB6YpesvtEJ",
+      "formattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "htmlFormattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20051118001928-05'00'",
+            "creationdate": "D:20051118001840-05'00'",
+            "creator": "TeX",
+            "producer": "pdfTeX-1.20a"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Infinite Markov Chain and finding the Stationary Distribution? - Cross ...",
+      "htmlTitle": "Infinite \u003cb\u003eMarkov Chain\u003c/b\u003e and \u003cb\u003efinding the Stationary Distribution\u003c/b\u003e? - Cross ...",
+      "link": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
+      "displayLink": "stats.stackexchange.com",
+      "snippet": "Mar 1, 2018 ... There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj.",
+      "htmlSnippet": "Mar 1, 2018 \u003cb\u003e...\u003c/b\u003e There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj.",
+      "cacheId": "_7jg6RnQPB0J",
+      "formattedUrl": "https://stats.stackexchange.com/.../infinite-markov-chain-and-finding-the- stationary-distribution",
+      "htmlFormattedUrl": "https://stats.stackexchange.com/.../infinite-\u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e-and-\u003cb\u003efinding-the- stationary\u003c/b\u003e-\u003cb\u003edistribution\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQngPojnSCBgCXJ9xA5IzCL0o4xbVkCKvHGSs85eSY3mzzEkxBl342CO3e7",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "qapage": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "name": "Infinite Markov Chain and finding the Stationary Distribution?",
+            "description": "I have the following transition matrix for my Markov Chain: $$ P= \\begin{pmatrix} 1/2 & 1/2 & 0&0&0& \\cdots \\\\ 2/3 & 0 & 1/3&0&0&\\cdots \\\\ 3/4..."
+          }
+        ],
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon.png?v=8698dcfb5c72",
+            "upvotecount": "2",
+            "commentcount": "2",
+            "answercount": "1",
+            "name": "Infinite Markov Chain and finding the Stationary Distribution?",
+            "datecreated": "2018-03-01T00:20:45",
+            "text": "I have the following transition matrix for my Markov Chain: P=(1/21/2000⋯2/301/300⋯3/4001/40⋯4/50001/5⋯5/60000⋯⋮⋮⋮⋮⋮⋱) defined by Pij={ii+1,if j=11i+1,j=i+10,otherwise....",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "1",
+            "text": "There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj Then we can have x = (1,x1,x2,...) and π=11+x2+x3+...+x...",
+            "datecreated": "2018-03-01T16:43:13",
+            "url": "Share"
+          }
+        ],
+        "person": [
+          {
+            "name": "Nicklovn"
+          },
+          {
+            "name": "Nicklovn"
+          },
+          {
+            "name": "Nicklovn"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "twitter:app:url:iphone": "se-zaphod://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
+            "twitter:app:id:googleplay": "com.stackexchange.marvin",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Infinite Markov Chain and finding the Stationary Distribution?",
+            "og:site_name": "Cross Validated",
+            "twitter:domain": "stats.stackexchange.com",
+            "twitter:app:url:ipad": "se-zaphod://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
+            "twitter:app:id:ipad": "871299723",
+            "twitter:app:name:googleplay": "Stack Exchange Android",
+            "twitter:app:id:iphone": "871299723",
+            "twitter:creator": "@StackStats",
+            "twitter:app:url:googleplay": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
+            "twitter:site": "@StackStats",
+            "twitter:app:name:ipad": "Stack Exchange iOS",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:app:country": "US",
+            "twitter:description": "I have the following transition matrix for my Markov Chain:\n\n$$\nP=   \\begin{pmatrix}\n    1/2 &amp; 1/2 &amp; 0&amp;0&amp;0&amp; \\cdots \\\\\n    2/3 &amp; 0 &amp; 1/3&amp;0&amp;0&amp;\\cdots \\\\\n    3/4...",
+            "og:url": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
+            "twitter:app:name:iphone": "Stack Exchange iOS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Markov Chain Analysis and Stationary Distribution - MATLAB ...",
+      "htmlTitle": "\u003cb\u003eMarkov Chain\u003c/b\u003e Analysis and \u003cb\u003eStationary Distribution\u003c/b\u003e - MATLAB ...",
+      "link": "https://www.mathworks.com/help/symbolic/markov-chain-analysis-and-stationary-distribution.html",
+      "displayLink": "www.mathworks.com",
+      "snippet": "ans = ( 1 1 c d a + b - 1 e + f - 1 ). Find eigenvalues that are exactly equal to 1. · ans = ( 1 1 d ). Extract the analytical stationary distributions.",
+      "htmlSnippet": "ans = ( 1 1 c d a + b - 1 e + f - 1 ). \u003cb\u003eFind\u003c/b\u003e eigenvalues that are exactly equal to 1. &middot; ans = ( 1 1 d ). Extract the analytical \u003cb\u003estationary distributions\u003c/b\u003e.",
+      "cacheId": "T6ziGTDQsogJ",
+      "formattedUrl": "https://www.mathworks.com/.../markov-chain-analysis-and-stationary- distribution.html",
+      "htmlFormattedUrl": "https://www.mathworks.com/.../\u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e-analysis-and-\u003cb\u003estationary\u003c/b\u003e- \u003cb\u003edistribution\u003c/b\u003e.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpqrxA0SPoGDIvtkz3OnD034PkeIWKW8HHdOSUqNBG9b5rgNYHmJEb1_g",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "breadcrumb": [
+          {
+            "title": "Documentation Home",
+            "url": "Documentation Home"
+          },
+          {
+            "title": "Mathematics and Optimization",
+            "url": "Mathematics and Optimization"
+          },
+          {
+            "title": "Mathematics",
+            "url": "Mathematics"
+          },
+          {
+            "title": "Linear Algebra",
+            "url": "Linear Algebra"
+          }
+        ],
+        "metatags": [
+          {
+            "infotype": "ex",
+            "toctype": "fe",
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.mathworks.com/help/examples/symbolic/win64/MarkovChainExample_02.png"
+          }
+        ],
+        "example": [
+          {
+            "exampleid": "symbolic-MarkovChainExample",
+            "exampletitle": "Markov Chain Analysis and Stationary Distribution"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python code explanation for stationary distribution of a Markov chain ...",
+      "htmlTitle": "Python code explanation for \u003cb\u003estationary distribution of a Markov chain\u003c/b\u003e ...",
+      "link": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
+      "displayLink": "stackoverflow.com",
+      "snippet": "Aug 3, 2015 ... How to find a stationary distribution. Ok, I came to this post looking to see if there was a built-in method to find the stationary ...",
+      "htmlSnippet": "Aug 3, 2015 \u003cb\u003e...\u003c/b\u003e How to \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e. Ok, I came to this post looking to see if there was a built-in method to \u003cb\u003efind the stationary\u003c/b\u003e&nbsp;...",
+      "cacheId": "6Z60XnXNJ44J",
+      "formattedUrl": "https://stackoverflow.com/.../python-code-explanation-for-stationary- distribution-of-a-markov-chain",
+      "htmlFormattedUrl": "https://stackoverflow.com/.../python-code-explanation-for-\u003cb\u003estationary\u003c/b\u003e- \u003cb\u003edistribution-of-a-markov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYl7zuT3cw_BBRAyhdQEbQuBgqdNHXKHIYKL8S8ly8x9L_XA9sdwSmiHs",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "qapage": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "name": "Python code explanation for stationary distribution of a Markov chain",
+            "description": "I have got this code: import numpy as np from scipy.linalg import eig transition_mat = np.matrix([ [.95, .05, 0., 0.],\\ [0., 0.9, 0.09, 0.01],\\ [0., 0.05, 0.9, 0.05],\\ [0.8, 0., ..."
+          }
+        ],
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+            "upvotecount": "5",
+            "commentcount": "12",
+            "answercount": "3",
+            "name": "Python code explanation for stationary distribution of a Markov chain",
+            "datecreated": "2015-08-03T15:56:08",
+            "text": "I have got this code: import numpy as np from scipy.linalg import eig transition_mat = np.matrix([ [.95, .05, 0., 0.],\\ [0., 0.9, 0.09, 0.01],\\ [0., 0.05, 0.9, 0.05],\\ [0.8, 0., 0.05, 0.15]])...",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "11",
+            "text": "How to find a stationary distribution. Ok, I came to this post looking to see if there was a built-in method to find the stationary distribution. It looks like there's not. So, for anyone coming...",
+            "datecreated": "2019-10-11T04:46:29",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "0",
+            "text": "stationary = np.array(U[:,np.where(np.abs(S-1.) \u003c 1e-8)[0][0]].flat) This piece of code is searching for elements in U who's corresponding eigen value - 1 is less than 1e-8",
+            "datecreated": "2015-08-03T16:17:09",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "0",
+            "text": "actually, just do a simple while iteration. I'll use a random P as an example def get_stationary(n): row = n pi = np.full((1, row), 1 / row) T = np.array([[1/4,1/2,1/4], [1/3,0,2/3], [1/2,0,1/2]])...",
+            "datecreated": "2022-05-09T01:56:10",
+            "url": "Share"
+          }
+        ],
+        "person": [
+          {
+            "name": "jhon_wick"
+          },
+          {
+            "name": "jhon_wick"
+          },
+          {
+            "name": "Logan Schelly"
+          },
+          {
+            "name": "DrBwts"
+          },
+          {
+            "name": "Haodong Wu"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "twitter:app:url:iphone": "se-zaphod://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
+            "twitter:app:id:googleplay": "com.stackexchange.marvin",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Python code explanation for stationary distribution of a Markov chain",
+            "og:site_name": "Stack Overflow",
+            "twitter:domain": "stackoverflow.com",
+            "twitter:app:url:ipad": "se-zaphod://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
+            "twitter:app:id:ipad": "871299723",
+            "twitter:app:name:googleplay": "Stack Exchange Android",
+            "twitter:app:id:iphone": "871299723",
+            "twitter:app:url:googleplay": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
+            "twitter:app:name:ipad": "Stack Exchange iOS",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:app:country": "US",
+            "twitter:description": "I have got this code: \n\nimport numpy as np\nfrom scipy.linalg import eig \ntransition_mat = np.matrix([\n    [.95, .05, 0., 0.],\\\n    [0., 0.9, 0.09, 0.01],\\\n    [0., 0.05, 0.9, 0.05],\\\n    [0.8, 0., ...",
+            "og:url": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
+            "twitter:app:name:iphone": "Stack Exchange iOS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stationary distributions and limiting probabilities",
+      "htmlTitle": "\u003cb\u003eStationary distributions\u003c/b\u003e and limiting probabilities",
+      "link": "https://www.sjsu.edu/faculty/guangliang.chen/Math263/lec4LimitingProb.pdf",
+      "displayLink": "www.sjsu.edu",
+      "snippet": "Find the stationary distribution of the Markov chain below: ... For any irreducible Markov chain with state space S and transition matrix P, it has a ...",
+      "htmlSnippet": "\u003cb\u003eFind the stationary distribution\u003c/b\u003e of the \u003cb\u003eMarkov chain\u003c/b\u003e below: ... For any irreducible \u003cb\u003eMarkov chain\u003c/b\u003e with state space S and \u003cb\u003etransition matrix\u003c/b\u003e P, it has a&nbsp;...",
+      "cacheId": "RmkgiZfoZQAJ",
+      "formattedUrl": "https://www.sjsu.edu/faculty/guangliang.chen/.../lec4LimitingProb.pdf",
+      "htmlFormattedUrl": "https://www.sjsu.edu/faculty/guangliang.chen/.../lec4\u003cb\u003eLimiting\u003c/b\u003eProb.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMldBCFn5Dg9mMjOFJ6NZgo_le8nTggs1nqqtpGnL7lRR5eWoUGtQZE38",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20210303085913-08'00'",
+            "creator": "TeX",
+            "creationdate": "D:20210303085913-08'00'",
+            "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) kpathsea version 6.3.1",
+            "producer": "pdfTeX-1.40.20"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///3bf9f467f54d74026b6a89bf2791efc271531192bb74af51cf9c9ff5589d7b3f"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
