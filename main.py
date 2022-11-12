@@ -86,12 +86,14 @@ def parse_gpt_req(gpt_text):
     return [first, second, third, answer]
 
 
-def get_all():
+def get_all(limit=None):
     results = []
     lines = []
     with open("queries.txt") as fhand:
         lines = fhand.readlines()
     for i, line in enumerate(lines):
+        if limit and i >= limit:
+            break
         print(f"On index {i} of {len(lines)}")
         gpt = make_gpt_req(line.rstrip())
         parsed = parse_gpt_req(gpt)
@@ -119,10 +121,10 @@ def write_html(results, output_file, query):
             fhand.write("</div>")
 
 
-def produce(rerun_gpt=False, rerun_search=False):
+def produce(rerun_gpt=False, rerun_search=False, limit=None):
     # Use get_all() to write all of the GPT-3 queries + the original query
     if rerun_gpt:
-        get_all()
+        get_all(limit=limit)
     # Go through the files and search using each query; place the results of each individual query in separate pickle files.
     folders = os.listdir(os.path.join("queries"))
     if rerun_search:
@@ -133,7 +135,7 @@ def produce(rerun_gpt=False, rerun_search=False):
                 lines = fhand.readlines()
                 for i, line in enumerate(lines):
                     line = line.strip()
-                    if line == ERROR_STR or not line:
+                    if line == ERROR_STR or not line or line.strip()=="":
                         continue
                     res = search(line)
                     to_write = open(os.path.join("queries", folder, str(i) + ".pkl"), "wb")
@@ -227,6 +229,7 @@ def make_test_html():
 
 
 # produce(rerun_gpt=True, rerun_search=True)
+# produce(rerun_gpt=True, rerun_search=True, limit=3)
 produce()
 
 make_test_html()

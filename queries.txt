@@ -1,5 +1,4 @@
 python api bearer authentication
-matrix multiplication pytorch
 how to find stationary distribution of Markov chain
 what is monkeypox
 why were chainsaws invented

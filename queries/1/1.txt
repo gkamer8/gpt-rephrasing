@@ -1,6 +1,6 @@
-matrix multiplication pytorch
+how to find stationary distribution of Markov chain
 
-How to do matrix multiplication in Pytorch
-Pytorch code for multiplying matrices
-tutorial matrix multiplication pytorch
+find steady state distribution of Markov chain
+how to calculate limiting distribution from transition matrix
+Markov chains: finding the stationary distribution worked out examples
 <Parse Error>

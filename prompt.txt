@@ -1,20 +1,24 @@
-Please rephrase the following Google search queries 3 times each. The new queries should be noticeably different from the originals but should retain their same essential meanings. They should, among other things, replace certain words with synonyms and jumble the order of the words. Sometimes extra words or commands can be added so that the query is more likely to give useful results. Feel free also to answer the query if you can.
+Please rephrase the following Google search queries 3 times each. The new queries should be noticeably different from the originals but should retain their same essential meanings. They should, among other things, replace certain words with synonyms and jumble the order of the words. Sometimes extra words or commands can be added so that the query is more likely to give useful results.
 
 Example:
 
 Query: "How to set up internet on Samsung smart tv"
 Rephrasings:
 1. "How to connect WiFi to Samsung smart TV"
-2. "connect internet to smart tv, samsung"
+2. "connect internet to smart tv, samsung step by step"
 3. "how to set up wifi connection on samsung tv, easy"
-4. (answer): ""
 
 Query: "What does NP-hard mean?"
 Rephrasings:
 1. "non-deterministic polynomial time meaning explained, simple"
 2. "computer science np-hard significance"
 3. "What is NP and NP-hard CS explained"
-4. (answer): “A problem is NP-hard means that a problem is at least as hard to solve computationally as the most difficult problems in the class of problems NP.”
+
+Query: "matrix multiplication pytorch"
+Rephrasings:
+1. "How to do matrix multiplication in Pytorch"
+2. "Pytorch matrix multiply code example"
+3. "matrix product pytorch tensor operations"
 
 Query: "{query}"
 Rephrasings:

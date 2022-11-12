@@ -7,9 +7,9 @@
   "queries": {
     "request": [
       {
-        "title": "Google Custom Search - How many days does it take to recover from coronavirus?",
-        "totalResults": "1290000000",
-        "searchTerms": "How many days does it take to recover from coronavirus?",
+        "title": "Google Custom Search - Markov chains: finding the stationary distribution worked out examples",
+        "totalResults": "2960000",
+        "searchTerms": "Markov chains: finding the stationary distribution worked out examples",
         "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
     ],
     "nextPage": [
       {
-        "title": "Google Custom Search - How many days does it take to recover from coronavirus?",
-        "totalResults": "1290000000",
-        "searchTerms": "How many days does it take to recover from coronavirus?",
+        "title": "Google Custom Search - Markov chains: finding the stationary distribution worked out examples",
+        "totalResults": "2960000",
+        "searchTerms": "Markov chains: finding the stationary distribution worked out examples",
         "count": 10,
         "startIndex": 11,
         "inputEncoding": "utf8",
@@ -36,532 +36,369 @@
     "title": "CS222"
   },
   "searchInformation": {
-    "searchTime": 0.588377,
+    "searchTime": 0.585664,
     "formattedSearchTime": "0.59",
-    "totalResults": "1290000000",
-    "formattedTotalResults": "1,290,000,000"
+    "totalResults": "2960000",
+    "formattedTotalResults": "2,960,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Coronavirus Diagnosis: What Should I Expect? | Johns Hopkins ...",
-      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e Diagnosis: What \u003cb\u003eShould\u003c/b\u003e I Expect? | Johns Hopkins ...",
-      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect",
-      "displayLink": "www.hopkinsmedicine.org",
-      "snippet": "Jan 24, 2022 ... How long do COVID symptoms last? ... Those with a mild case of COVID-19 usually recover in one to two weeks. For severe cases, recovery can take ...",
-      "htmlSnippet": "Jan 24, 2022 \u003cb\u003e...\u003c/b\u003e How \u003cb\u003elong do COVID\u003c/b\u003e symptoms last? ... Those with a mild case of \u003cb\u003eCOVID\u003c/b\u003e-19 usually \u003cb\u003erecover\u003c/b\u003e in one to two weeks. For severe cases, \u003cb\u003erecovery\u003c/b\u003e can \u003cb\u003etake\u003c/b\u003e&nbsp;...",
-      "cacheId": "ei111HvFxY0J",
-      "formattedUrl": "https://www.hopkinsmedicine.org/health/.../coronavirus/diagnosed-with- covid-19-what-to-expect",
-      "htmlFormattedUrl": "https://www.hopkinsmedicine.org/\u003cb\u003eheal\u003c/b\u003eth/.../\u003cb\u003ecoronavirus\u003c/b\u003e/diagnosed-with- \u003cb\u003ecovid\u003c/b\u003e-19-what-to-expect",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT8HLZv-VY9PvA-k5EK5i9hLGjrblcy_P-qT43jYkKV2tFK6JKu9mL4Q",
-            "width": "297",
-            "height": "170"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx",
-            "article:published_time": "2022-03-07",
-            "og:type": "article",
-            "twitter:card": "summary_large_image",
-            "twitter:title": "Coronavirus Diagnosis: What Should I Expect?",
-            "twitter:url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect",
-            "og:title": "Coronavirus Diagnosis: What Should I Expect?",
-            "og:description": "Find out what to expect if you've been diagnosed with the new coronavirus, COVID-19.",
-            "twitter:image": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx",
-            "fb:app_id": "1869607593310096",
-            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
-            "twitter:description": "Find out what to expect if you've been diagnosed with the new coronavirus, COVID-19.",
-            "og:url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Coronavirus Recovery: Rate, Time, and Outlook",
-      "htmlTitle": "\u003cb\u003eCoronavirus Recovery\u003c/b\u003e: Rate, Time, and Outlook",
-      "link": "https://www.webmd.com/lung/covid-recovery-overview",
-      "displayLink": "www.webmd.com",
-      "snippet": "Jan 25, 2022 ... Early research suggested that it could take 2 weeks for your body to get over a mild illness, or up to 6 weeks for severe or critical cases.",
-      "htmlSnippet": "Jan 25, 2022 \u003cb\u003e...\u003c/b\u003e Early research suggested that it \u003cb\u003ecould take\u003c/b\u003e 2 weeks for your body to \u003cb\u003eget over\u003c/b\u003e a mild illness, or up to 6 weeks for severe or critical cases.",
-      "cacheId": "wuWPYdvYlU8J",
-      "formattedUrl": "https://www.webmd.com/lung/covid-recovery-overview",
-      "htmlFormattedUrl": "https://www.webmd.com/lung/\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003erecovery\u003c/b\u003e-overview",
+      "title": "Discrete Markov Chains: Finding the Stationary Distribution",
+      "htmlTitle": "Discrete \u003cb\u003eMarkov Chains\u003c/b\u003e: \u003cb\u003eFinding the Stationary Distribution\u003c/b\u003e",
+      "link": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
+      "displayLink": "stephens999.github.io",
+      "snippet": "May 30, 2021 ... 3x3 example. Assume our probability transition matrix is: P=[0.7 ...",
+      "htmlSnippet": "May 30, 2021 \u003cb\u003e...\u003c/b\u003e 3x3 \u003cb\u003eexample\u003c/b\u003e. Assume our probability transition matrix is: P=[0.7&nbsp;...",
+      "cacheId": "KQWBfsOLa8gJ",
+      "formattedUrl": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
+      "htmlFormattedUrl": "https://stephens999.github.io/fiveMinuteStats/\u003cb\u003estationary\u003c/b\u003e_\u003cb\u003edistribution\u003c/b\u003e.html",
       "pagemap": {
         "metatags": [
           {
-            "og:image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_drinking_water_other/1800x1200_mature_man_drinking_water_other.jpg",
-            "og:image:alt": "photo of mature man drinking glass of water",
-            "og:type": "article",
-            "og:site_name": "WebMD",
-            "og:title": "Coronavirus Recovery",
-            "fb:pages": "11736558481",
-            "og:description": "Most people who get COVID-19 will have mild illness. But it’ll still take time to recover. Learn more recovery and tips for feeling better after COVID-19.",
-            "article:author": "https://www.facebook.com/WebMD",
-            "article:publisher": "https://www.facebook.com/WebMD",
-            "fb:app_id": "385978254785998",
+            "date": "2016-01-21",
             "viewport": "width=device-width, initial-scale=1",
-            "og:locale": "en_US",
-            "s_1stimp": "4303",
-            "og:url": "https://www.webmd.com/lung/covid-recovery-overview"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_drinking_water_other/1800x1200_mature_man_drinking_water_other.jpg"
-          }
-        ],
-        "sitenavigationelement": [
-          {
-            "name": "ADD/ADHD",
-            "url": "ADD/ADHD"
-          }
-        ],
-        "listitem": [
-          {
-            "item": "Lung Disease & Respiratory Health",
-            "name": "Lung Disease & Respiratory Health",
-            "position": "1"
-          },
-          {
-            "item": "Coronavirus",
-            "name": "Coronavirus",
-            "position": "2"
-          },
-          {
-            "item": "Reference",
-            "name": "Reference",
-            "position": "3"
+            "author": "Matt Bonakdarpour; with edits by Matthew Stephens and Jitao David Zhang"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Life After Recovering From COVID-19: The 3 Things You Need to ...",
-      "htmlTitle": "Life After \u003cb\u003eRecovering\u003c/b\u003e From \u003cb\u003eCOVID\u003c/b\u003e-19: The 3 Things You Need to ...",
-      "link": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/",
-      "displayLink": "www.houstonmethodist.org",
-      "snippet": "Jan 5, 2022 ... \"Most studies show that by the end of 10 days of infection, your body has cleared the active virus,\" says Dr. Septimus. \"A person with COVID-19 ...",
-      "htmlSnippet": "Jan 5, 2022 \u003cb\u003e...\u003c/b\u003e &quot;Most studies show that by the end of 10 \u003cb\u003edays\u003c/b\u003e of infection, your body has cleared the active virus,&quot; says Dr. Septimus. &quot;A person with \u003cb\u003eCOVID\u003c/b\u003e-19&nbsp;...",
-      "cacheId": "0xzBYCap6jkJ",
-      "formattedUrl": "https://www.houstonmethodist.org/.../3-things-to-know-about-life-after- recovering-from-covid-19/",
-      "htmlFormattedUrl": "https://www.houstonmethodist.org/.../3-things-to-know-about-life-after- \u003cb\u003erecovering-from-covid\u003c/b\u003e-19/",
+      "title": "Stationary and Limiting Distributions",
+      "htmlTitle": "Stationary and \u003cb\u003eLimiting Distributions\u003c/b\u003e",
+      "link": "https://www.probabilitycourse.com/chapter11/11_3_2_stationary_and_limiting_distributions.php",
+      "displayLink": "www.probabilitycourse.com",
+      "snippet": "Find the limiting distribution for X(t). jump-chain-1 Figure 11.23 - The jump chain for the Markov chain of Example 11.19. Solution.",
+      "htmlSnippet": "\u003cb\u003eFind\u003c/b\u003e the \u003cb\u003elimiting distribution\u003c/b\u003e for X(t). jump-chain-1 \u003cb\u003eFigure\u003c/b\u003e 11.23 - The jump chain for the \u003cb\u003eMarkov chain\u003c/b\u003e of \u003cb\u003eExample\u003c/b\u003e 11.19. Solution.",
+      "cacheId": "-rXj66I7qi8J",
+      "formattedUrl": "https://www.probabilitycourse.com/.../11_3_2_stationary_and_limiting_ distributions.php",
+      "htmlFormattedUrl": "https://www.probabilitycourse.com/.../11_3_2_\u003cb\u003estationary\u003c/b\u003e_and_\u003cb\u003elimiting\u003c/b\u003e_ \u003cb\u003edistributions\u003c/b\u003e.php",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "section": "11.3.2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stochastic Processes I4",
+      "htmlTitle": "Stochastic Processes I4",
+      "link": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
+      "displayLink": "www.stat.berkeley.edu",
+      "snippet": "(a) Give the transition matrix P for this Markov chain. (b) Show that it is irreducible but not aperiodic. (c) Find the stationary distribution (d) Now suppose ...",
+      "htmlSnippet": "(a) Give the transition matrix P for this \u003cb\u003eMarkov chain\u003c/b\u003e. (b) Show that it is irreducible but not aperiodic. (c) \u003cb\u003eFind the stationary distribution\u003c/b\u003e (d) Now suppose&nbsp;...",
+      "cacheId": "EB9BjWWHfacJ",
+      "formattedUrl": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
+      "htmlFormattedUrl": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpd7YN52muvKcqp6iUxD-NL0E1c4125fkagYiILisMkUbZfqQtXg0nUQs",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-faiLmySp7fGNtY_HuVIbzmYzL1demm3ycRAxDxeGgoAjuV8GUJyrS0KM",
+            "width": "225",
+            "height": "224"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20080303120221",
+            "creationdate": "D:20080303120221",
+            "producer": "ESP Ghostscript 815.04"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///7b60dea1c61a61ebda4c5df03f5b2b326c9f114574a6723df4f933e605184d54"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Solved Problems",
+      "htmlTitle": "\u003cb\u003eSolved Problems\u003c/b\u003e",
+      "link": "https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php",
+      "displayLink": "www.probabilitycourse.com",
+      "snippet": "11.2.7 Solved Problems. Problem. Consider the Markov chain with three states, S={1,2,3}, ... Find the stationary distribution for this chain.",
+      "htmlSnippet": "11.2.7 \u003cb\u003eSolved Problems\u003c/b\u003e. Problem. Consider the \u003cb\u003eMarkov chain\u003c/b\u003e with three states, S={1,2,3}, ... \u003cb\u003eFind the stationary distribution\u003c/b\u003e for this chain.",
+      "cacheId": "uTVdEWnFs1oJ",
+      "formattedUrl": "https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php",
+      "htmlFormattedUrl": "https://www.probabilitycourse.com/chapter11/11_2_7_\u003cb\u003esolved\u003c/b\u003e_probs.php",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "section": "11.2.7"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Markov chain - Wikipedia",
+      "htmlTitle": "\u003cb\u003eMarkov chain\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Markov_chain",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the ...",
+      "htmlSnippet": "A \u003cb\u003eMarkov chain\u003c/b\u003e or \u003cb\u003eMarkov process\u003c/b\u003e is a stochastic model describing a sequence of possible events in which the probability of each event depends only \u003cb\u003eon\u003c/b\u003e the&nbsp;...",
+      "cacheId": "tjByMtb7vncJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Markov_chain",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMarkov\u003c/b\u003e_\u003cb\u003echain\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/1200px-Markovkate_01.svg.png",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Markov chain - Wikipedia",
+            "og:image:height": "1200",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "1. Markov chains",
+      "htmlTitle": "1. \u003cb\u003eMarkov chains\u003c/b\u003e",
+      "link": "http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-MarkovChains.pdf",
+      "displayLink": "www.stat.yale.edu",
+      "snippet": "Computing stationary distributions is an algebra problem. (1.12) Example. Let's find the stationary distribution for the frog chain, whose probability.",
+      "htmlSnippet": "Computing \u003cb\u003estationary distributions\u003c/b\u003e is an algebra problem. (1.12) \u003cb\u003eExample\u003c/b\u003e. Let&#39;s \u003cb\u003efind the stationary distribution\u003c/b\u003e for the frog \u003cb\u003echain\u003c/b\u003e, whose probability.",
+      "cacheId": "LFogSgsc7VoJ",
+      "formattedUrl": "www.stat.yale.edu/~pollard/Courses/.../Handouts/Chang-MarkovChains.pdf",
+      "htmlFormattedUrl": "www.stat.yale.edu/~pollard/Courses/.../Hand\u003cb\u003eouts\u003c/b\u003e/Chang-\u003cb\u003eMarkovChains\u003c/b\u003e.pdf",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20130110103327-05'00'",
+            "creationdate": "D:20130110103242-05'00'",
+            "creator": "LaTeX with hyperref package",
+            "producer": "dvips + AFPL Ghostscript 8.51"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "markov process - What is the difference between \"limiting\" and ...",
+      "htmlTitle": "\u003cb\u003emarkov process\u003c/b\u003e - What is the difference between &quot;\u003cb\u003elimiting\u003c/b\u003e&quot; and ...",
+      "link": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
+      "displayLink": "stats.stackexchange.com",
+      "snippet": "Let Π=(π0,π1,...,πn) be the stationary distribution....\" But I guarantee you to calculate the limiting distribution in the question before, they solved it like ...",
+      "htmlSnippet": "Let Π=(π0,π1,...,πn) be the \u003cb\u003estationary distribution\u003c/b\u003e....&quot; But I guarantee you to \u003cb\u003ecalculate the limiting distribution\u003c/b\u003e in the question before, they \u003cb\u003esolved\u003c/b\u003e it like&nbsp;...",
+      "cacheId": "R_I-wdz3UjgJ",
+      "formattedUrl": "https://stats.stackexchange.com/.../what-is-the-difference-between-limiting- and-stationary-distributions",
+      "htmlFormattedUrl": "https://stats.stackexchange.com/.../what-is-the-difference-between-\u003cb\u003elimiting\u003c/b\u003e- and-\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQngPojnSCBgCXJ9xA5IzCL0o4xbVkCKvHGSs85eSY3mzzEkxBl342CO3e7",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "qapage": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "name": "What is the difference between \"limiting\" and \"stationary\" distributions?",
+            "description": "I'm doing a question on Markov chains and the last two parts say this: Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your"
+          }
+        ],
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon.png?v=8698dcfb5c72",
+            "upvotecount": "30",
+            "commentcount": "5",
+            "answercount": "3",
+            "name": "What is the difference between \"limiting\" and \"stationary\" distributions?",
+            "datecreated": "2013-01-22T16:34:02",
+            "text": "I'm doing a question on Markov chains and the last two parts say this: Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your...",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "27",
+            "commentcount": "5",
+            "text": "From An Introduction to Stochastic Modeling by Pinsky and Karlin (2011): A limiting distribution, when it exists, is always a stationary distribution, but the converse is not true. There may...",
+            "datecreated": "2014-07-01T05:38:40",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "19",
+            "commentcount": "3",
+            "text": "A stationary distribution is such a distribution π that if the distribution over states at step k is π, then also the distribution over states at step k+1 is π. That is, π=πP. A limiting...",
+            "datecreated": "2014-07-01T08:10:24",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "14",
+            "commentcount": "4",
+            "text": "Putting notation aside, the word \"stationary\" means \"once you get there, you will stay there\"; while the word \"limiting\" implies \"you will eventually get there if you go far enough\". Just thought...",
+            "datecreated": "2015-07-28T01:05:40",
+            "url": "Share"
+          }
+        ],
+        "person": [
+          {
+            "name": "Kaish"
+          },
+          {
+            "name": "shadowtalker"
+          },
+          {
+            "name": "Juho Kokkala"
+          },
+          {
+            "name": "Khoa"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
+            "twitter:app:url:iphone": "se-zaphod://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
+            "twitter:app:id:googleplay": "com.stackexchange.marvin",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "What is the difference between \"limiting\" and \"stationary\" distributions?",
+            "og:site_name": "Cross Validated",
+            "twitter:domain": "stats.stackexchange.com",
+            "twitter:app:url:ipad": "se-zaphod://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
+            "twitter:app:id:ipad": "871299723",
+            "twitter:app:name:googleplay": "Stack Exchange Android",
+            "twitter:app:id:iphone": "871299723",
+            "twitter:creator": "@StackStats",
+            "twitter:app:url:googleplay": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
+            "twitter:site": "@StackStats",
+            "twitter:app:name:ipad": "Stack Exchange iOS",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:app:country": "US",
+            "twitter:description": "I'm doing a question on Markov chains and the last two parts say this:\r\n  \n  Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your",
+            "og:url": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
+            "twitter:app:name:iphone": "Stack Exchange iOS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "11.1. Balance and Detailed Balance — Data 140 Textbook",
+      "htmlTitle": "11.1. Balance and Detailed Balance — Data 140 Textbook",
+      "link": "http://prob140.org/textbook/content/Chapter_11/01_Balance_and_Detailed_Balance.html",
+      "displayLink": "prob140.org",
+      "snippet": "The stationary distribution of a chain is the unique probability distribution ... As before, assume that we have an irreducible, aperiodic Markov chain on a ...",
+      "htmlSnippet": "The \u003cb\u003estationary distribution\u003c/b\u003e of a chain is the unique probability distribution ... As before, assume that we have an irreducible, aperiodic \u003cb\u003eMarkov chain on\u003c/b\u003e a&nbsp;...",
+      "cacheId": "eRtCWxrBI4AJ",
+      "formattedUrl": "prob140.org/textbook/content/.../01_Balance_and_Detailed_Balance.html",
+      "htmlFormattedUrl": "prob140.org/textbook/content/.../01_Balance_and_Detailed_Balance.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5bJjuO0bTt4XGftHb3GZT_A-n5Ur3r3D0aVmh9CWderZo7L0vdbk1g5T",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "docsearch:language": "None"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://prob140.org/textbook/_static/sp22_ugarte_logo.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stationary Distributions of Markov Chains | Brilliant Math & Science ...",
+      "htmlTitle": "\u003cb\u003eStationary Distributions\u003c/b\u003e of \u003cb\u003eMarkov Chains\u003c/b\u003e | Brilliant Math &amp; Science ...",
+      "link": "https://brilliant.org/wiki/stationary-distributions/",
+      "displayLink": "brilliant.org",
+      "snippet": "A stationary distribution of a Markov chain is a probability distribution that ... Note that the limiting distribution does not depend on the number of fans ...",
+      "htmlSnippet": "A \u003cb\u003estationary distribution\u003c/b\u003e of a \u003cb\u003eMarkov chain\u003c/b\u003e is a probability distribution that ... Note that the \u003cb\u003elimiting distribution\u003c/b\u003e does not depend \u003cb\u003eon\u003c/b\u003e the number of fans&nbsp;...",
+      "cacheId": "Rrte-Cis8fcJ",
+      "formattedUrl": "https://brilliant.org/wiki/stationary-distributions/",
+      "htmlFormattedUrl": "https://brilliant.org/wiki/\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWMFLGXLoniJ1TcEPUvkd13EG-I32bLXUOWtTXIOUTk6hgKBLknvT-Ey4",
             "width": "311",
             "height": "162"
           }
         ],
         "metatags": [
           {
-            "vicurrentdatetime": "638035317902708499",
-            "og:image": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5",
+            "og:image": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
             "og:type": "website",
-            "og:image:width": "1200",
+            "og:image:alt": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
             "twitter:card": "summary_large_image",
-            "twitter:title": "3 Things to Know About Life After Recovering From COVID-19",
-            "twitter:url": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/",
-            "og:title": "3 Things to Know About Life After Recovering From COVID-19",
-            "og:image:height": "628",
-            "og:description": "So you're finally on the road to recovery. Here's what may come next.",
-            "twitter:image": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5",
-            "viewport": "width=device-width, initial-scale=1",
-            "twitter:description": "So you're finally on the road to recovery. Here's what may come next.",
-            "og:url": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/"
+            "al:ios:app_name": "Brilliant.org",
+            "og:title": "Stationary Distributions of Markov Chains | Brilliant Math & Science Wiki",
+            "al:android:package": "org.brilliant.android",
+            "google": "notranslate",
+            "al:ios:url": "com.brilliant.Brilliant://wiki/stationary-distributions/",
+            "og:description": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses. Typically, it is represented as a row vector ...",
+            "al:ios:app_store_id": "913335252",
+            "al:android:url": "https://brilliant.org/wiki/stationary-distributions/",
+            "fb:app_id": "326254770799145",
+            "twitter:site": "@brilliantorg",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0",
+            "og:url": "https://brilliant.org/wiki/stationary-distributions/",
+            "al:android:app_name": "Brilliant"
           }
         ],
         "cse_image": [
           {
-            "src": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5"
+            "src": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Coronavirus: How long does it take to recover? - BBC News",
-      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e: How \u003cb\u003elong does\u003c/b\u003e it \u003cb\u003etake\u003c/b\u003e to \u003cb\u003erecover\u003c/b\u003e? - BBC News",
-      "link": "https://www.bbc.com/news/health-52301633",
-      "displayLink": "www.bbc.com",
-      "snippet": "May 1, 2020 ... The fever should settle in less than a week, although the cough may linger. A World Health Organization (WHO) analysis of Chinese data says it ...",
-      "htmlSnippet": "May 1, 2020 \u003cb\u003e...\u003c/b\u003e The fever \u003cb\u003eshould\u003c/b\u003e settle in less than a week, although the cough may linger. A World Health Organization (WHO) analysis of Chinese data says \u003cb\u003eit\u003c/b\u003e&nbsp;...",
-      "cacheId": "kZxbL30VOPQJ",
-      "formattedUrl": "https://www.bbc.com/news/health-52301633",
-      "htmlFormattedUrl": "https://www.bbc.com/news/\u003cb\u003eheal\u003c/b\u003eth-52301633",
+      "title": "13 Introduction to Stationary Distributions",
+      "htmlTitle": "13 Introduction to \u003cb\u003eStationary Distributions\u003c/b\u003e",
+      "link": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "displayLink": "mast.queensu.ca",
+      "snippet": "Example: Suppose we have the following transition matrix: 1 2 3 4 5 6 7 8 910 ... Here's how we find a stationary distribution for a Markov chain.",
+      "htmlSnippet": "\u003cb\u003eExample\u003c/b\u003e: Suppose we have the following transition matrix: 1 2 3 4 5 6 7 8 910 ... Here&#39;s how we \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e for a \u003cb\u003eMarkov chain\u003c/b\u003e.",
+      "cacheId": "XVB6YpesvtEJ",
+      "formattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "htmlFormattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
       "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJM6Ea0zlUWJ1gdRPdBsxYybzRWkmLReqjyCtWiZ3idN_Ebg1nnDgjkzWv",
-            "width": "300",
-            "height": "168"
-          }
-        ],
         "metatags": [
           {
-            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png",
-            "theme-color": "#FFFFFF",
-            "twitter:card": "summary_large_image",
-            "og:site_name": "BBC News",
-            "cleartype": "on",
-            "msapplication-tileimage": "BBC News",
-            "og:description": "Recovery from Covid-19 can be a lengthy process, depending on how seriously people get the virus.",
-            "twitter:creator": "@BBCWorld",
-            "twitter:image:alt": "Graphic of woman in a wheelchair",
-            "twitter:site": "@BBCWorld",
-            "fb:admins": "100004154058350",
-            "application-name": "BBC News",
-            "msapplication-tilecolor": "#bb1919",
-            "og:image:alt": "Graphic of woman in a wheelchair",
-            "og:type": "article",
-            "article:section": "Health",
-            "twitter:title": "Coronavirus: How long does it take to recover?",
-            "twitter:domain": "www.bbc.com",
-            "og:title": "Coronavirus: How long does it take to recover?",
-            "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
-            "article:author": "https://www.facebook.com/bbcnews",
-            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png",
-            "fb:app_id": "1609039196070050",
-            "viewport": "width=device-width, initial-scale=1",
-            "twitter:description": "Recovery from Covid-19 can be a lengthy process, depending on how seriously people get the virus.",
-            "og:locale": "en_GB",
-            "mobile-web-app-capable": "yes",
-            "og:url": "https://www.bbc.com/news/health-52301633"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png"
+            "moddate": "D:20051118001928-05'00'",
+            "creationdate": "D:20051118001840-05'00'",
+            "creator": "TeX",
+            "producer": "pdfTeX-1.20a"
           }
         ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Coronavirus and the Nervous System | National Institute of ...",
-      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e and the Nervous System | National Institute of ...",
-      "link": "https://www.ninds.nih.gov/current-research/coronavirus-and-ninds/coronavirus-and-nervous-system",
-      "displayLink": "www.ninds.nih.gov",
-      "snippet": "Jul 25, 2022 ... How do the long-term effects of SARS-CoV-2 infection/COVID-19 relate ... mild to moderate symptoms typically recover in a few days or weeks.",
-      "htmlSnippet": "Jul 25, 2022 \u003cb\u003e...\u003c/b\u003e How \u003cb\u003edo\u003c/b\u003e the \u003cb\u003elong\u003c/b\u003e-term effects of SARS-CoV-2 infection/\u003cb\u003eCOVID\u003c/b\u003e-19 relate ... mild to moderate symptoms typically \u003cb\u003erecover\u003c/b\u003e in \u003cb\u003ea few days\u003c/b\u003e or weeks.",
-      "cacheId": "WdlI_3SvwhYJ",
-      "formattedUrl": "https://www.ninds.nih.gov/.../coronavirus.../coronavirus-and-nervous-system",
-      "htmlFormattedUrl": "https://www.ninds.nih.gov/.../\u003cb\u003ecoronavirus\u003c/b\u003e.../\u003cb\u003ecoronavirus\u003c/b\u003e-and-nervous-system",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0rzxkCHhcWLWw3JCSv8xkkEBd01QmMjQ9eaLBxllr0RUnQpxnSYIu48",
-            "width": "369",
-            "height": "136"
-          }
-        ],
-        "metatags": [
-          {
-            "handheldfriendly": "true",
-            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
-            "mobileoptimized": "width"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.ninds.nih.gov/sites/default/files/styles/full_width_small/public/migrate-images/neurological_complications_banner.jpg?itok=Dt1ptJN9"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
-      "htmlTitle": "\u003cb\u003eCOVID Recovery\u003c/b\u003e Time: Will I Get Better and How \u003cb\u003eLong\u003c/b\u003e Will It \u003cb\u003eTake\u003c/b\u003e?",
-      "link": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and-how-long-will-it-take/",
-      "displayLink": "responsumhealth.com",
-      "snippet": "Data from the National Institutes of Health indicate that COVID recovery times for mild to moderate cases range from a couple of days to around two weeks.",
-      "htmlSnippet": "Data from the National Institutes of Health indicate that \u003cb\u003eCOVID recovery\u003c/b\u003e times for mild to moderate cases range from a couple of \u003cb\u003edays\u003c/b\u003e to around two weeks.",
-      "cacheId": "GsjATu-M7eAJ",
-      "formattedUrl": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and- how-long-will-it-take/",
-      "htmlFormattedUrl": "https://responsum\u003cb\u003eheal\u003c/b\u003eth.com/\u003cb\u003ecovid\u003c/b\u003e/\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003erecovery\u003c/b\u003e-time-will-i-get-better-and- how-\u003cb\u003elong\u003c/b\u003e-will-it-\u003cb\u003etake\u003c/b\u003e/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyQ0CcUf0VmiqbQ9x4JRCf6MXP79kPeH077FKfw0W5tdnsCgEDhJBQLrLf",
-            "width": "275",
-            "height": "183"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg",
-            "og:type": "article",
-            "article:published_time": "2021-10-30T20:30:54+00:00",
-            "twitter:card": "summary_large_image",
-            "twitter:title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
-            "og:image:width": "1000",
-            "og:site_name": "Responsum Health",
-            "og:title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
-            "og:image:height": "667",
-            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
-            "og:updated_time": "2022-08-24T20:54:25+00:00",
-            "og:description": "Learn what to expect from your COVID-19 recovery time and how you can keep yourself safe and comfortable as you heal.",
-            "twitter:image": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg",
-            "framework": "Redux 4.2.11",
-            "article:modified_time": "2022-08-24T20:54:25+00:00",
-            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
-            "twitter:description": "Learn what to expect from your COVID-19 recovery time and how you can keep yourself safe and comfortable as you heal.",
-            "mobileoptimized": "320",
-            "og:locale": "en_US",
-            "og:url": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and-how-long-will-it-take/",
-            "apple-touch-fullscreen": "yes"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical ...",
-      "htmlTitle": "Mild to moderate \u003cb\u003eCOVID\u003c/b\u003e-19 - discharge: MedlinePlus Medical ...",
-      "link": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
-      "displayLink": "medlineplus.gov",
-      "snippet": "Aug 5, 2022 ... Recovery from COVID-19 may take 10 to 14 days or longer depending on your symptoms. Some people have symptoms that go on for months even after ...",
-      "htmlSnippet": "Aug 5, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRecovery\u003c/b\u003e from \u003cb\u003eCOVID\u003c/b\u003e-19 may \u003cb\u003etake\u003c/b\u003e 10 to 14 \u003cb\u003edays\u003c/b\u003e or longer depending on your symptoms. Some people have symptoms that go on for months even after&nbsp;...",
-      "cacheId": "nIINHVw_SXUJ",
-      "formattedUrl": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
-      "htmlFormattedUrl": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7vdtClphhBnAsC-kXYtwji5rxLa-mfqr8gAB52VqiDXhA425FZ9Y3Oo0",
-            "width": "310",
-            "height": "163"
-          }
-        ],
-        "metatags": [
-          {
-            "ac-dictionary": "medlineplus-ac-dictionary",
-            "og:image": "https://medlineplus.gov/images/share_ency_1.jpg",
-            "fb:app_id": "1042245625821448",
-            "expires": "Fri, 02 12 2022",
-            "twitter:title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical Encyclopedia",
-            "twitter:card": "summary_large_image",
-            "viewport": "width=device-width, initial-scale=1",
-            "twitter:description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
-            "og:title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical Encyclopedia",
-            "og:url": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
-            "og:description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
-            "twitter:image": "https://medlineplus.gov/images/share_ency_1.jpg"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://medlineplus.gov/images/share_ency_1.jpg"
-          }
-        ],
-        "medicalwebpage": [
-          {
-            "audience": "http://schema.org/Patient",
-            "name": "Mild to moderate COVID-19 - discharge",
-            "description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
-            "url": "https://medlineplus.gov/ency/patientinstructions/000976.htm"
-          }
-        ],
-        "listitem": [
-          {
-            "item": "Home",
-            "name": "Home",
-            "position": "1"
-          },
-          {
-            "item": "Medical Encyclopedia",
-            "name": "Medical Encyclopedia",
-            "position": "2"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "How Long Does COVID-19 Last? What To Expect if You Get It",
-      "htmlTitle": "How \u003cb\u003eLong Does COVID\u003c/b\u003e-19 Last? What To Expect if You Get It",
-      "link": "https://www.health.com/condition/infectious-diseases/coronavirus/how-long-does-coronavirus-last",
-      "displayLink": "www.health.com",
-      "snippet": "May 20, 2022 ... 3 Researchers analyzed 99 relevant studies published from January 2020 to January 2021 and found that, on average, it takes just over six days ...",
-      "htmlSnippet": "May 20, 2022 \u003cb\u003e...\u003c/b\u003e 3 Researchers analyzed 99 relevant studies published from January 2020 to January 2021 and found that, on average, \u003cb\u003eit takes\u003c/b\u003e just over six \u003cb\u003edays\u003c/b\u003e&nbsp;...",
-      "cacheId": "ldK34iNHpigJ",
-      "formattedUrl": "https://www.health.com/.../coronavirus/how-long-does-coronavirus-last",
-      "htmlFormattedUrl": "https://www.\u003cb\u003eheal\u003c/b\u003eth.com/.../\u003cb\u003ecoronavirus\u003c/b\u003e/how-\u003cb\u003elong\u003c/b\u003e-\u003cb\u003edoes\u003c/b\u003e-\u003cb\u003ecoronavirus\u003c/b\u003e-last",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyOt4Vl-JGW07oHIUCWUhhC8mcWNcZhFYwrovki8bHweJpG_9YfGergo",
-            "width": "275",
-            "height": "183"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg",
-            "twitter:card": "summary_large_image",
-            "msapplication-square70x70logo": "/static/1.57.0/icons/favicons/mstile-70x70.png",
-            "sailthru.tags": "diseases-conditions",
-            "og:site_name": "Health",
-            "msapplication-wide310x150logo": "/static/1.57.0/icons/favicons/mstile-310x150.png",
-            "msapplication-tileimage": "/static/1.57.0/icons/favicons/mstile-144x144.png",
-            "og:description": "How long does COVID-19 last? Find out the COVID-19 symptoms to expect day by day if you contract the virus, according to experts.",
-            "twitter:image": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg",
-            "twitter:site": "@health_com_",
-            "msapplication-square310x310logo": "/static/1.57.0/icons/favicons/mstile-310x310.png",
-            "emailcontenttype": "STRUCTUREDCONTENT",
-            "msapplication-tilecolor": "#F4F4F4",
-            "article:section": "Health",
-            "og:type": "article",
-            "twitter:title": "How Long Does COVID-19 Last? What To Expect if You Contract the Virus",
-            "emailvertical": "HEALTH",
-            "og:title": "How Long Does COVID-19 Last? What To Expect if You Contract the Virus",
-            "msapplication-square150x150logo": "/static/1.57.0/icons/favicons/mstile-150x150.png",
-            "fb:pages": "14482400667",
-            "article:author": "https://www.facebook.com/Health/",
-            "fb:app_id": "979081782488298",
-            "viewport": "width=device-width, initial-scale=1.0",
-            "twitter:description": "How long does COVID-19 last? Find out the COVID-19 symptoms to expect day by day if you contract the virus, according to experts.",
-            "og:url": "https://www.health.com/condition/infectious-diseases/coronavirus/how-long-does-coronavirus-last",
-            "sailthru.author": "Claire Gillespie",
-            "article:opinion": "false"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Ending Isolation and Precautions for People with COVID-19: Interim ...",
-      "htmlTitle": "Ending Isolation and Precautions for People with \u003cb\u003eCOVID\u003c/b\u003e-19: Interim ...",
-      "link": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html",
-      "displayLink": "www.cdc.gov",
-      "snippet": "Key Points. People who are infected but asymptomatic or people with mild COVID-19 should isolate through at least day 5 (day 0 is the day symptoms ...",
-      "htmlSnippet": "Key Points. People who are infected but asymptomatic or people with mild \u003cb\u003eCOVID\u003c/b\u003e-19 \u003cb\u003eshould\u003c/b\u003e isolate through at least \u003cb\u003eday\u003c/b\u003e 5 (\u003cb\u003eday\u003c/b\u003e 0 is the \u003cb\u003eday\u003c/b\u003e symptoms&nbsp;...",
-      "cacheId": "FEtu8SSPW6UJ",
-      "formattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html",
-      "htmlFormattedUrl": "https://www.cdc.gov/\u003cb\u003ecoronavirus\u003c/b\u003e/2019-ncov/hcp/duration-isolation.html",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf0r72lSlwWNZ2Q2YnnsuG30rnnjUtHSD90RS69UL3FFagxsZg813aDxs",
-            "width": "300",
-            "height": "168"
-          }
-        ],
-        "organization": [
-          {
-            "telephone": "Call 800-232-4636",
-            "url": "Email Us"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png",
-            "theme-color": "#075290",
-            "cdc:content_id": "96021",
-            "article:published_time": "2020-02-11",
-            "twitter:card": "summary_large_image",
-            "og:site_name": "Centers for Disease Control and Prevention",
-            "cdc:maintained_by": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES",
-            "cdc:first_published": "July 17, 2020",
-            "og:image:type": "image/jpeg",
-            "og:description": "COVID-19 guidance, tools, and resources for healthcare workers.",
-            "twitter:creator": "@CDCgov",
-            "cdc:last_published": "2022-08-31T19:12:10Z",
-            "twitter:site": "@CDCgov",
-            "cdc:last_reviewed": "Aug. 31, 2022",
-            "cdc:content_source": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES; DIVISION OF VIRAL DISEASES",
-            "og:type": "article",
-            "twitter:title": "Healthcare Workers",
-            "og:title": "Healthcare Workers",
-            "cdc:last_updated": "Aug. 31, 2022",
-            "dc.date": "2022-08-31T05:37:43Z",
-            "article:author": "CDC",
-            "cdc:wcms_build": "4.22.8 - b.1570",
-            "twitter:image:src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png",
-            "cdc:template_version": "4.0",
-            "fb:app_id": "205691699516606",
-            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
-            "apple-mobile-web-app-capable": "yes",
-            "og:author": "CDC",
-            "twitter:description": "COVID-19 guidance, tools, and resources for healthcare workers.",
-            "mobile-web-app-capable": "yes"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Recovery and returning to normal activities after COVID-19 ...",
-      "htmlTitle": "\u003cb\u003eRecovery\u003c/b\u003e and returning to normal activities after \u003cb\u003eCOVID\u003c/b\u003e-19 ...",
-      "link": "https://www.healthdirect.gov.au/covid-19/recovery-and-returning-to-normal-activities",
-      "displayLink": "www.healthdirect.gov.au",
-      "snippet": "People at higher risk of serious illness may take weeks to recover. If a person develops long-term health problems caused by COVID-19, symptoms most commonly ...",
-      "htmlSnippet": "People at higher risk of serious illness may \u003cb\u003etake\u003c/b\u003e weeks to \u003cb\u003erecover\u003c/b\u003e. If a person develops \u003cb\u003elong\u003c/b\u003e-term health problems caused by \u003cb\u003eCOVID\u003c/b\u003e-19, symptoms most commonly&nbsp;...",
-      "cacheId": "OcdOuDzNISkJ",
-      "formattedUrl": "https://www.healthdirect.gov.au/covid.../recovery-and-returning-to-normal- activities",
-      "htmlFormattedUrl": "https://www.\u003cb\u003eheal\u003c/b\u003ethdirect.gov.au/\u003cb\u003ecovid\u003c/b\u003e.../\u003cb\u003erecovery\u003c/b\u003e-and-returning-to-normal- activities",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8Yk0aSmYunUG7rHdNIHX0xPkaxLOyV86OiwXUlHenLLwMrZsLmscEKYs",
-            "width": "310",
-            "height": "163"
-          }
-        ],
-        "metatags": [
-          {
-            "dc.publisher": "Healthdirect Australia",
-            "apple-itunes-app": "app-id=1021494621",
-            "og:image": "https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png",
-            "dc.description": "Learn about what happens after you’ve recovered from COVID-19, and when it’s recommended to leave self-isolation and return to normal activities.",
-            "og:type": "article",
-            "og:title": "Recovery and returning to normal activities after COVID-19",
-            "dc.format": "text/html",
-            "dc.rights": "Healthdirect Australia",
-            "dc.date": "2022-11-06T01:28:29.010Z",
-            "referrer": "always",
-            "dc.type": "text/html",
-            "viewport": "width=device-width, initial-scale=1.0",
-            "dc.creator": "Healthdirect Australia",
-            "dc.title": "Recovery and returning to normal activities after COVID-19",
-            "dc.subject": "Living with COVID-19,Coronavirus (COVID-19),Exercise",
-            "dc.language": "en-AU",
-            "og:url": "https://www.healthdirect.gov.au/covid-19/recovery-and-returning-to-normal-activities"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png"
-          }
-        ]
-      }
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
     }
   ]
 }

@@ -1,6 +1,6 @@
 python api bearer authentication
 
-Python API: OAuth2 Bearer Authentication
-Python bearer authentication tutorial
-how to do Python API bearer token auth
-
+how to use bearer authentication with python api
+python api request bearer authorization
+Using Bearer Authentication with the Python API
+<Parse Error>

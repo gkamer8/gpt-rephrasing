@@ -39,11 +39,15 @@
                 margin-right: 20px;
             }
             #container {
-                display: inline-block;
+                display: block;
                 text-align: center;
             }
         </style>
         <script type="text/javascript">
+
+            window.onbeforeunload = function() {
+            return "Data will be lost if you leave the page, are you sure?";
+            };
 
             var index = 0;
             // list of [query, agg html, orig html]
@@ -78,13 +82,14 @@
 
             }
             function next(){
+                index++
                 if (index >= options.length){
                     document.getElementById("leftResults").innerHTML = ""
                     document.getElementById("rightResults").innerHTML = ""
                     document.getElementById("score").innerHTML = JSON.stringify(results)
                     document.getElementById("query").innerHTML = "SEND RESULTS TEXT TO GORDON"
-                    document.getElementById("score").style.display = "block"
-                    document.getElementById("results-header").style.display = "block"
+                    document.getElementById("score").style.display = "inline-block"
+                    document.getElementById("results-header").style.display = "inline-block"
                 }
                 else {
                     loadIndex()

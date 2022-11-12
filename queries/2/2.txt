@@ -1,6 +1,6 @@
-how to find stationary distribution of Markov chain
+what is monkeypox
 
-what is the stationary distribution of a Markov chain?
-How to find the equilibrium distribution of a Markov chain
-What is an example of a stationary distribution for continuous time Markov chains?
-
+What are the symptoms of monkeypox?
+How is monkeypox treated?
+Is there a vaccine for monkeypox?
+<Parse Error>

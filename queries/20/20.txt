@@ -1,6 +1,0 @@
-find i'th instance of character in list python
-
-find the nth instance of a character in a list using python
-discover position of letter in data structure, Python language
-code to uncover i'th element location within sequence, Python
-<Parse Error>
