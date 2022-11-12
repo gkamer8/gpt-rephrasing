@@ -1,0 +1,148 @@
+<html>
+    <head>
+        <style>
+            #query {
+                font-size: 30px;
+                text-decoration: underline;
+                text-align: center;
+                margin-top: 20px;
+            }
+            body {
+                margin: 0px;
+                padding: 10px;
+            }
+            .res {
+                font-size: 22px;
+                margin-top: 20px;
+            }
+            #right, #left {
+                display: inline-block;
+                padding: 0px;
+                margin: 0px;
+                width: 40%;
+                text-align: left;
+            }
+            input {
+                font-size: 25px;
+            }
+            #results-header{
+                font-size: 40px;
+                display: none;
+            }
+            #score {
+                display: none;
+            }
+            #buttons {
+                text-align: center;
+            }
+            #buttons input {
+                margin-right: 20px;
+            }
+            #container {
+                display: inline-block;
+                text-align: center;
+            }
+        </style>
+        <script type="text/javascript">
+
+            var index = 0;
+            // list of [query, agg html, orig html]
+            VAR_OPTIONS_ADD
+
+            var results = {}
+
+            var aggOnLeft = true;
+
+            function shuffleArray(array) {
+                for (var i = array.length - 1; i > 0; i--) {
+                    var j = Math.floor(Math.random() * (i + 1));
+                    var temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+                }
+            }
+            shuffleArray(options)
+
+            function loadIndex(){
+                document.getElementById("query").innerHTML = "Query: " + options[index][0]
+                if (Math.random() < .5){
+                    document.getElementById("leftResults").innerHTML = options[index][1]
+                    document.getElementById("rightResults").innerHTML = options[index][2]
+                    aggOnLeft = true;
+                }
+                else {
+                    document.getElementById("leftResults").innerHTML = options[index][2]
+                    document.getElementById("rightResults").innerHTML = options[index][1]
+                    aggOnLeft = false;
+                }
+
+            }
+            function next(){
+                if (index >= options.length){
+                    document.getElementById("leftResults").innerHTML = ""
+                    document.getElementById("rightResults").innerHTML = ""
+                    document.getElementById("score").innerHTML = JSON.stringify(results)
+                    document.getElementById("query").innerHTML = "SEND RESULTS TEXT TO GORDON"
+                    document.getElementById("score").style.display = "block"
+                    document.getElementById("results-header").style.display = "block"
+                }
+                else {
+                    loadIndex()
+                }
+            }
+            function chooseSame(){
+                let query = options[index][0]
+                results[query] = "same"
+                next()
+            }
+            function chooseLeft(){
+                let query = options[index][0]
+                if (aggOnLeft){
+                    results[query] = "agg"
+                }
+                else {
+                    results[query] = "orig"
+                }
+                next()
+            }
+            function chooseRight(){
+                let query = options[index][0]
+                if (aggOnLeft){
+                    results[query] = "orig"
+                }
+                else {
+                    results[query] = "agg"
+                }
+                next()
+            }
+
+        </script>
+    </head>
+    <body onload="loadIndex()">
+        <div id="container">
+        <h2>Do not refresh the page</h2>
+        <div id='query'></div><br/><br/>
+        <div id="buttons">
+            <input type="button" value="Left is better" onclick="chooseLeft()"></input>
+            <input type="button" value="Basically the same" onclick="chooseSame()"></input>
+            <input type="button" value="Right is better" onclick="chooseRight()"></input>
+
+        </div>
+        <div id="left">
+            <div id="leftResults">
+            </div>
+        </div>
+        <div id="right">
+            <div id="rightResults">
+            </div>
+        </div>
+        <br/><br/>
+        <div id="results-header">
+            <b>Final results string (copy+paste and send to Gordon):</b>
+        </div>
+        <br/><br/>
+        <div id="score">
+        </div>
+        </div>
+    </body>
+</html>

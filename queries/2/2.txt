@@ -1,4 +1,6 @@
-find the equilibrium distribution of a markov process
-how to find long run behavior of Markov Chain
-obtaining limiting distribution from transition matrix
-<Parse Error>
+how to find stationary distribution of Markov chain
+
+what is the stationary distribution of a Markov chain?
+How to find the equilibrium distribution of a Markov chain
+What is an example of a stationary distribution for continuous time Markov chains?
+

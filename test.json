@@ -7,9 +7,9 @@
   "queries": {
     "request": [
       {
-        "title": "Google Custom Search - Find the stationary distribution of a Markov chain",
-        "totalResults": "2340000",
-        "searchTerms": "Find the stationary distribution of a Markov chain",
+        "title": "Google Custom Search - How many days does it take to recover from coronavirus?",
+        "totalResults": "1290000000",
+        "searchTerms": "How many days does it take to recover from coronavirus?",
         "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
     ],
     "nextPage": [
       {
-        "title": "Google Custom Search - Find the stationary distribution of a Markov chain",
-        "totalResults": "2340000",
-        "searchTerms": "Find the stationary distribution of a Markov chain",
+        "title": "Google Custom Search - How many days does it take to recover from coronavirus?",
+        "totalResults": "1290000000",
+        "searchTerms": "How many days does it take to recover from coronavirus?",
         "count": 10,
         "startIndex": 11,
         "inputEncoding": "utf8",
@@ -36,547 +36,532 @@
     "title": "CS222"
   },
   "searchInformation": {
-    "searchTime": 0.31696,
-    "formattedSearchTime": "0.32",
-    "totalResults": "2340000",
-    "formattedTotalResults": "2,340,000"
+    "searchTime": 0.588377,
+    "formattedSearchTime": "0.59",
+    "totalResults": "1290000000",
+    "formattedTotalResults": "1,290,000,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Discrete Markov Chains: Finding the Stationary Distribution",
-      "htmlTitle": "Discrete \u003cb\u003eMarkov Chains\u003c/b\u003e: \u003cb\u003eFinding the Stationary Distribution\u003c/b\u003e",
-      "link": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
-      "displayLink": "stephens999.github.io",
-      "snippet": "May 30, 2021 ... In this note, we illustrate one way of analytically obtaining the stationary distribution for a finite discrete Markov chain. 3x3 example.",
-      "htmlSnippet": "May 30, 2021 \u003cb\u003e...\u003c/b\u003e In this note, we illustrate one way of analytically obtaining the \u003cb\u003estationary distribution\u003c/b\u003e for a finite discrete \u003cb\u003eMarkov chain\u003c/b\u003e. 3x3 example.",
-      "cacheId": "KQWBfsOLa8gJ",
-      "formattedUrl": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
-      "htmlFormattedUrl": "https://stephens999.github.io/fiveMinuteStats/\u003cb\u003estationary\u003c/b\u003e_\u003cb\u003edistribution\u003c/b\u003e.html",
+      "title": "Coronavirus Diagnosis: What Should I Expect? | Johns Hopkins ...",
+      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e Diagnosis: What \u003cb\u003eShould\u003c/b\u003e I Expect? | Johns Hopkins ...",
+      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect",
+      "displayLink": "www.hopkinsmedicine.org",
+      "snippet": "Jan 24, 2022 ... How long do COVID symptoms last? ... Those with a mild case of COVID-19 usually recover in one to two weeks. For severe cases, recovery can take ...",
+      "htmlSnippet": "Jan 24, 2022 \u003cb\u003e...\u003c/b\u003e How \u003cb\u003elong do COVID\u003c/b\u003e symptoms last? ... Those with a mild case of \u003cb\u003eCOVID\u003c/b\u003e-19 usually \u003cb\u003erecover\u003c/b\u003e in one to two weeks. For severe cases, \u003cb\u003erecovery\u003c/b\u003e can \u003cb\u003etake\u003c/b\u003e&nbsp;...",
+      "cacheId": "ei111HvFxY0J",
+      "formattedUrl": "https://www.hopkinsmedicine.org/health/.../coronavirus/diagnosed-with- covid-19-what-to-expect",
+      "htmlFormattedUrl": "https://www.hopkinsmedicine.org/\u003cb\u003eheal\u003c/b\u003eth/.../\u003cb\u003ecoronavirus\u003c/b\u003e/diagnosed-with- \u003cb\u003ecovid\u003c/b\u003e-19-what-to-expect",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT8HLZv-VY9PvA-k5EK5i9hLGjrblcy_P-qT43jYkKV2tFK6JKu9mL4Q",
+            "width": "297",
+            "height": "170"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx",
+            "article:published_time": "2022-03-07",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Coronavirus Diagnosis: What Should I Expect?",
+            "twitter:url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect",
+            "og:title": "Coronavirus Diagnosis: What Should I Expect?",
+            "og:description": "Find out what to expect if you've been diagnosed with the new coronavirus, COVID-19.",
+            "twitter:image": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx",
+            "fb:app_id": "1869607593310096",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:description": "Find out what to expect if you've been diagnosed with the new coronavirus, COVID-19.",
+            "og:url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/coronavirus/what-if-i-feel-sick-teaser.ashx"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Coronavirus Recovery: Rate, Time, and Outlook",
+      "htmlTitle": "\u003cb\u003eCoronavirus Recovery\u003c/b\u003e: Rate, Time, and Outlook",
+      "link": "https://www.webmd.com/lung/covid-recovery-overview",
+      "displayLink": "www.webmd.com",
+      "snippet": "Jan 25, 2022 ... Early research suggested that it could take 2 weeks for your body to get over a mild illness, or up to 6 weeks for severe or critical cases.",
+      "htmlSnippet": "Jan 25, 2022 \u003cb\u003e...\u003c/b\u003e Early research suggested that it \u003cb\u003ecould take\u003c/b\u003e 2 weeks for your body to \u003cb\u003eget over\u003c/b\u003e a mild illness, or up to 6 weeks for severe or critical cases.",
+      "cacheId": "wuWPYdvYlU8J",
+      "formattedUrl": "https://www.webmd.com/lung/covid-recovery-overview",
+      "htmlFormattedUrl": "https://www.webmd.com/lung/\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003erecovery\u003c/b\u003e-overview",
       "pagemap": {
         "metatags": [
           {
-            "date": "2016-01-21",
+            "og:image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_drinking_water_other/1800x1200_mature_man_drinking_water_other.jpg",
+            "og:image:alt": "photo of mature man drinking glass of water",
+            "og:type": "article",
+            "og:site_name": "WebMD",
+            "og:title": "Coronavirus Recovery",
+            "fb:pages": "11736558481",
+            "og:description": "Most people who get COVID-19 will have mild illness. But it’ll still take time to recover. Learn more recovery and tips for feeling better after COVID-19.",
+            "article:author": "https://www.facebook.com/WebMD",
+            "article:publisher": "https://www.facebook.com/WebMD",
+            "fb:app_id": "385978254785998",
             "viewport": "width=device-width, initial-scale=1",
-            "author": "Matt Bonakdarpour; with edits by Matthew Stephens and Jitao David Zhang"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Stationary and Limiting Distributions",
-      "htmlTitle": "Stationary and \u003cb\u003eLimiting Distributions\u003c/b\u003e",
-      "link": "https://www.probabilitycourse.com/chapter11/11_3_2_stationary_and_limiting_distributions.php",
-      "displayLink": "www.probabilitycourse.com",
-      "snippet": "As in the case of discrete-time Markov chains, for \"nice\" chains, a unique stationary distribution exists and it is equal to the limiting distribution. Remember ...",
-      "htmlSnippet": "As in the case of discrete-time \u003cb\u003eMarkov chains\u003c/b\u003e, for &quot;nice&quot; chains, a unique \u003cb\u003estationary distribution\u003c/b\u003e exists and it is equal to the \u003cb\u003elimiting distribution\u003c/b\u003e. Remember&nbsp;...",
-      "cacheId": "-rXj66I7qi8J",
-      "formattedUrl": "https://www.probabilitycourse.com/.../11_3_2_stationary_and_limiting_ distributions.php",
-      "htmlFormattedUrl": "https://www.probabilitycourse.com/.../11_3_2_\u003cb\u003estationary\u003c/b\u003e_and_\u003cb\u003elimiting\u003c/b\u003e_ \u003cb\u003edistributions\u003c/b\u003e.php",
-      "pagemap": {
-        "metatags": [
-          {
-            "viewport": "width=device-width, initial-scale=1.0",
-            "section": "11.3.2"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "1 Markov Chains - Stationary Distributions",
-      "htmlTitle": "1 \u003cb\u003eMarkov Chains\u003c/b\u003e - \u003cb\u003eStationary Distributions\u003c/b\u003e",
-      "link": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
-      "displayLink": "www.stat.berkeley.edu",
-      "snippet": "was, the proportion of time the chain spends in state j is approximately ψj for all j. Let's try to find the stationary distribution of a Markov Chain with ...",
-      "htmlSnippet": "was, the proportion of time the chain spends in state j is approximately ψj for all j. Let&#39;s try to \u003cb\u003efind the stationary distribution of a Markov Chain\u003c/b\u003e with&nbsp;...",
-      "cacheId": "X9fLHkfjP-QJ",
-      "formattedUrl": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
-      "htmlFormattedUrl": "https://www.stat.berkeley.edu/~mgoldman/Section0220.pdf",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTee7sjeXOh5RVcBdCRY7orKrXwgkEYd_IfJZXWC_nAkwDpJ1sBOOtPyCQ",
-            "width": "197",
-            "height": "255"
-          }
-        ],
-        "metatags": [
-          {
-            "moddate": "D:20080220082116-08'00'",
-            "creator": "LaTeX with hyperref package",
-            "creationdate": "D:20080220082116-08'00'",
-            "fullbanner": "This is pdfTeX, Version 3.141592-1.40.3-2.2 (Web2C 7.5.6) kpathsea version 3.5.6",
-            "producer": "pdfTeX-1.40.3"
+            "og:locale": "en_US",
+            "s_1stimp": "4303",
+            "og:url": "https://www.webmd.com/lung/covid-recovery-overview"
           }
         ],
         "cse_image": [
           {
-            "src": "x-raw-image:///81754dbe34ab05db187a552071e84948dc4bc1fcb06cea5a14a7882e0dce1c33"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Determine stationary distribution of Markov Chain - Mathematics ...",
-      "htmlTitle": "\u003cb\u003eDetermine stationary distribution\u003c/b\u003e of \u003cb\u003eMarkov Chain\u003c/b\u003e - Mathematics ...",
-      "link": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
-      "displayLink": "math.stackexchange.com",
-      "snippet": "Jan 25, 2019 ... Let a row vector X=(x1,x2,x3,x4,x5) be a stationary distribution. Then X=XP holds. Solving it directly, we deduce that there exists a real ...",
-      "htmlSnippet": "Jan 25, 2019 \u003cb\u003e...\u003c/b\u003e Let a row vector X=(x1,x2,x3,x4,x5) be a \u003cb\u003estationary distribution\u003c/b\u003e. Then X=XP holds. Solving it directly, we deduce that there exists a real&nbsp;...",
-      "cacheId": "FDE_4tnjLNwJ",
-      "formattedUrl": "https://math.stackexchange.com/.../determine-stationary-distribution-of- markov-chain",
-      "htmlFormattedUrl": "https://math.stackexchange.com/.../\u003cb\u003edetermine\u003c/b\u003e-\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistribution\u003c/b\u003e-of- \u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbeys3VsT0ys1AtNS65inoFym9D-YWierspYuGmguffGDLJ2HPQsM7tpd7",
-            "width": "225",
-            "height": "225"
+            "src": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_drinking_water_other/1800x1200_mature_man_drinking_water_other.jpg"
           }
         ],
-        "qapage": [
+        "sitenavigationelement": [
           {
-            "image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
-            "primaryimageofpage": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
-            "name": "Determine stationary distribution of Markov Chain",
-            "description": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix \\begin{bmatrix}1/3&2/3&0&0&0\\\\ 1/2&1/2&..."
+            "name": "ADD/ADHD",
+            "url": "ADD/ADHD"
           }
         ],
-        "question": [
+        "listitem": [
           {
-            "image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed",
-            "upvotecount": "0",
-            "commentcount": "1",
-            "answercount": "2",
-            "name": "Determine stationary distribution of Markov Chain",
-            "datecreated": "2019-01-25T08:46:55",
-            "text": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix [1/32/30001/21/200001/201/200001/43/40001/32/3] Since...",
-            "url": "Share"
-          }
-        ],
-        "answer": [
-          {
-            "upvotecount": "0",
-            "commentcount": "2",
-            "text": "Let a row vector X=(x1,x2,x3,x4,x5) be a stationary distribution. Then X=XP holds. Solving it directly, we deduce that there exists a real number s and t such that x1=3s,x2=4s,x3=0,x4=4t,x5=9t....",
-            "datecreated": "2019-01-25T08:57:41",
-            "url": "Share"
+            "item": "Lung Disease & Respiratory Health",
+            "name": "Lung Disease & Respiratory Health",
+            "position": "1"
           },
           {
-            "upvotecount": "0",
-            "text": "You can find stationary distributions by solving the equations xP=x for the row vector x where P is th given stochastic matrix. Indeed there are multiple solutions in this case. x=(t,43t,0,s,94s)...",
-            "datecreated": "2019-01-25T08:54:18",
-            "url": "Share"
-          }
-        ],
-        "person": [
-          {
-            "name": "Jonathan Kiersch"
+            "item": "Coronavirus",
+            "name": "Coronavirus",
+            "position": "2"
           },
           {
-            "name": "NotoriousJuanG"
-          },
-          {
-            "name": "Kavi Rama Murthy"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1",
-            "twitter:app:url:iphone": "se-zaphod://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
-            "twitter:app:id:googleplay": "com.stackexchange.marvin",
-            "og:type": "website",
-            "twitter:card": "summary",
-            "twitter:title": "Determine stationary distribution of Markov Chain",
-            "og:site_name": "Mathematics Stack Exchange",
-            "twitter:domain": "math.stackexchange.com",
-            "twitter:app:url:ipad": "se-zaphod://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
-            "twitter:app:id:ipad": "871299723",
-            "twitter:app:name:googleplay": "Stack Exchange Android",
-            "twitter:app:id:iphone": "871299723",
-            "twitter:creator": "@StackMath",
-            "twitter:app:url:googleplay": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
-            "twitter:site": "@StackMath",
-            "twitter:app:name:ipad": "Stack Exchange iOS",
-            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
-            "twitter:app:country": "US",
-            "twitter:description": "I am struggling with finding the stationary distribution(s) for a discrete Markov chain with the following transition probability matrix\n\n\\begin{bmatrix}1/3&amp;2/3&amp;0&amp;0&amp;0\\\\\n1/2&amp;1/2&...",
-            "og:url": "https://math.stackexchange.com/questions/3086885/determine-stationary-distribution-of-markov-chain",
-            "twitter:app:name:iphone": "Stack Exchange iOS"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1"
+            "item": "Reference",
+            "name": "Reference",
+            "position": "3"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Stationary Distributions of Markov Chains | Brilliant Math & Science ...",
-      "htmlTitle": "\u003cb\u003eStationary Distributions\u003c/b\u003e of \u003cb\u003eMarkov Chains\u003c/b\u003e | Brilliant Math &amp; Science ...",
-      "link": "https://brilliant.org/wiki/stationary-distributions/",
-      "displayLink": "brilliant.org",
-      "snippet": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses.",
-      "htmlSnippet": "A \u003cb\u003estationary distribution of a Markov chain\u003c/b\u003e is a probability distribution that remains unchanged in the \u003cb\u003eMarkov chain\u003c/b\u003e as time progresses.",
-      "cacheId": "Rrte-Cis8fcJ",
-      "formattedUrl": "https://brilliant.org/wiki/stationary-distributions/",
-      "htmlFormattedUrl": "https://brilliant.org/wiki/\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e/",
+      "title": "Life After Recovering From COVID-19: The 3 Things You Need to ...",
+      "htmlTitle": "Life After \u003cb\u003eRecovering\u003c/b\u003e From \u003cb\u003eCOVID\u003c/b\u003e-19: The 3 Things You Need to ...",
+      "link": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/",
+      "displayLink": "www.houstonmethodist.org",
+      "snippet": "Jan 5, 2022 ... \"Most studies show that by the end of 10 days of infection, your body has cleared the active virus,\" says Dr. Septimus. \"A person with COVID-19 ...",
+      "htmlSnippet": "Jan 5, 2022 \u003cb\u003e...\u003c/b\u003e &quot;Most studies show that by the end of 10 \u003cb\u003edays\u003c/b\u003e of infection, your body has cleared the active virus,&quot; says Dr. Septimus. &quot;A person with \u003cb\u003eCOVID\u003c/b\u003e-19&nbsp;...",
+      "cacheId": "0xzBYCap6jkJ",
+      "formattedUrl": "https://www.houstonmethodist.org/.../3-things-to-know-about-life-after- recovering-from-covid-19/",
+      "htmlFormattedUrl": "https://www.houstonmethodist.org/.../3-things-to-know-about-life-after- \u003cb\u003erecovering-from-covid\u003c/b\u003e-19/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWMFLGXLoniJ1TcEPUvkd13EG-I32bLXUOWtTXIOUTk6hgKBLknvT-Ey4",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpd7YN52muvKcqp6iUxD-NL0E1c4125fkagYiILisMkUbZfqQtXg0nUQs",
             "width": "311",
             "height": "162"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
+            "vicurrentdatetime": "638035317902708499",
+            "og:image": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5",
             "og:type": "website",
-            "og:image:alt": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
+            "og:image:width": "1200",
             "twitter:card": "summary_large_image",
-            "al:ios:app_name": "Brilliant.org",
-            "og:title": "Stationary Distributions of Markov Chains | Brilliant Math & Science Wiki",
-            "al:android:package": "org.brilliant.android",
-            "google": "notranslate",
-            "al:ios:url": "com.brilliant.Brilliant://wiki/stationary-distributions/",
-            "og:description": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses. Typically, it is represented as a row vector ...",
-            "al:ios:app_store_id": "913335252",
-            "al:android:url": "https://brilliant.org/wiki/stationary-distributions/",
-            "fb:app_id": "326254770799145",
-            "twitter:site": "@brilliantorg",
-            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0",
-            "og:url": "https://brilliant.org/wiki/stationary-distributions/",
-            "al:android:app_name": "Brilliant"
+            "twitter:title": "3 Things to Know About Life After Recovering From COVID-19",
+            "twitter:url": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/",
+            "og:title": "3 Things to Know About Life After Recovering From COVID-19",
+            "og:image:height": "628",
+            "og:description": "So you're finally on the road to recovery. Here's what may come next.",
+            "twitter:image": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "So you're finally on the road to recovery. Here's what may come next.",
+            "og:url": "https://www.houstonmethodist.org/blog/articles/2020/jul/3-things-to-know-about-life-after-recovering-from-covid-19/"
           }
         ],
         "cse_image": [
           {
-            "src": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png"
+            "src": "https://www.houstonmethodist.org/-/media/images/contenthub/article-images/coronavirus/hub_lifeaftercovid_social.jpg?mw=1382&hash=695A10D5A4B0C473FD0512C74A930EF5"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "13 Introduction to Stationary Distributions",
-      "htmlTitle": "13 Introduction to \u003cb\u003eStationary Distributions\u003c/b\u003e",
-      "link": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
-      "displayLink": "mast.queensu.ca",
-      "snippet": "Here's how we find a stationary distribution for a Markov chain. Proposition: Suppose X is a Markov chain with state space S and transition probability matrix P ...",
-      "htmlSnippet": "Here&#39;s how we \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e for a \u003cb\u003eMarkov chain\u003c/b\u003e. Proposition: Suppose X is a \u003cb\u003eMarkov chain\u003c/b\u003e with state space S and transition probability matrix P&nbsp;...",
-      "cacheId": "XVB6YpesvtEJ",
-      "formattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
-      "htmlFormattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
-      "pagemap": {
-        "metatags": [
-          {
-            "moddate": "D:20051118001928-05'00'",
-            "creationdate": "D:20051118001840-05'00'",
-            "creator": "TeX",
-            "producer": "pdfTeX-1.20a"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Infinite Markov Chain and finding the Stationary Distribution? - Cross ...",
-      "htmlTitle": "Infinite \u003cb\u003eMarkov Chain\u003c/b\u003e and \u003cb\u003efinding the Stationary Distribution\u003c/b\u003e? - Cross ...",
-      "link": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
-      "displayLink": "stats.stackexchange.com",
-      "snippet": "Mar 1, 2018 ... There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj.",
-      "htmlSnippet": "Mar 1, 2018 \u003cb\u003e...\u003c/b\u003e There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj.",
-      "cacheId": "_7jg6RnQPB0J",
-      "formattedUrl": "https://stats.stackexchange.com/.../infinite-markov-chain-and-finding-the- stationary-distribution",
-      "htmlFormattedUrl": "https://stats.stackexchange.com/.../infinite-\u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e-and-\u003cb\u003efinding-the- stationary\u003c/b\u003e-\u003cb\u003edistribution\u003c/b\u003e",
+      "title": "Coronavirus: How long does it take to recover? - BBC News",
+      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e: How \u003cb\u003elong does\u003c/b\u003e it \u003cb\u003etake\u003c/b\u003e to \u003cb\u003erecover\u003c/b\u003e? - BBC News",
+      "link": "https://www.bbc.com/news/health-52301633",
+      "displayLink": "www.bbc.com",
+      "snippet": "May 1, 2020 ... The fever should settle in less than a week, although the cough may linger. A World Health Organization (WHO) analysis of Chinese data says it ...",
+      "htmlSnippet": "May 1, 2020 \u003cb\u003e...\u003c/b\u003e The fever \u003cb\u003eshould\u003c/b\u003e settle in less than a week, although the cough may linger. A World Health Organization (WHO) analysis of Chinese data says \u003cb\u003eit\u003c/b\u003e&nbsp;...",
+      "cacheId": "kZxbL30VOPQJ",
+      "formattedUrl": "https://www.bbc.com/news/health-52301633",
+      "htmlFormattedUrl": "https://www.bbc.com/news/\u003cb\u003eheal\u003c/b\u003eth-52301633",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQngPojnSCBgCXJ9xA5IzCL0o4xbVkCKvHGSs85eSY3mzzEkxBl342CO3e7",
-            "width": "225",
-            "height": "225"
-          }
-        ],
-        "qapage": [
-          {
-            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "name": "Infinite Markov Chain and finding the Stationary Distribution?",
-            "description": "I have the following transition matrix for my Markov Chain: $$ P= \\begin{pmatrix} 1/2 & 1/2 & 0&0&0& \\cdots \\\\ 2/3 & 0 & 1/3&0&0&\\cdots \\\\ 3/4..."
-          }
-        ],
-        "question": [
-          {
-            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon.png?v=8698dcfb5c72",
-            "upvotecount": "2",
-            "commentcount": "2",
-            "answercount": "1",
-            "name": "Infinite Markov Chain and finding the Stationary Distribution?",
-            "datecreated": "2018-03-01T00:20:45",
-            "text": "I have the following transition matrix for my Markov Chain: P=(1/21/2000⋯2/301/300⋯3/4001/40⋯4/50001/5⋯5/60000⋯⋮⋮⋮⋮⋮⋱) defined by Pij={ii+1,if j=11i+1,j=i+10,otherwise....",
-            "url": "Share"
-          }
-        ],
-        "answer": [
-          {
-            "upvotecount": "1",
-            "text": "There is a technique to reduce the number of equations to solve by one. Note that if x satisfies xP=x then (cx)P = cx, ∀c. Let c = 1∑jxj Then we can have x = (1,x1,x2,...) and π=11+x2+x3+...+x...",
-            "datecreated": "2018-03-01T16:43:13",
-            "url": "Share"
-          }
-        ],
-        "person": [
-          {
-            "name": "Nicklovn"
-          },
-          {
-            "name": "Nicklovn"
-          },
-          {
-            "name": "Nicklovn"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJM6Ea0zlUWJ1gdRPdBsxYybzRWkmLReqjyCtWiZ3idN_Ebg1nnDgjkzWv",
+            "width": "300",
+            "height": "168"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "twitter:app:url:iphone": "se-zaphod://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
-            "twitter:app:id:googleplay": "com.stackexchange.marvin",
-            "og:type": "website",
-            "twitter:card": "summary",
-            "twitter:title": "Infinite Markov Chain and finding the Stationary Distribution?",
-            "og:site_name": "Cross Validated",
-            "twitter:domain": "stats.stackexchange.com",
-            "twitter:app:url:ipad": "se-zaphod://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
-            "twitter:app:id:ipad": "871299723",
-            "twitter:app:name:googleplay": "Stack Exchange Android",
-            "twitter:app:id:iphone": "871299723",
-            "twitter:creator": "@StackStats",
-            "twitter:app:url:googleplay": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
-            "twitter:site": "@StackStats",
-            "twitter:app:name:ipad": "Stack Exchange iOS",
-            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
-            "twitter:app:country": "US",
-            "twitter:description": "I have the following transition matrix for my Markov Chain:\n\n$$\nP=   \\begin{pmatrix}\n    1/2 &amp; 1/2 &amp; 0&amp;0&amp;0&amp; \\cdots \\\\\n    2/3 &amp; 0 &amp; 1/3&amp;0&amp;0&amp;\\cdots \\\\\n    3/4...",
-            "og:url": "https://stats.stackexchange.com/questions/331128/infinite-markov-chain-and-finding-the-stationary-distribution",
-            "twitter:app:name:iphone": "Stack Exchange iOS"
+            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png",
+            "theme-color": "#FFFFFF",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "BBC News",
+            "cleartype": "on",
+            "msapplication-tileimage": "BBC News",
+            "og:description": "Recovery from Covid-19 can be a lengthy process, depending on how seriously people get the virus.",
+            "twitter:creator": "@BBCWorld",
+            "twitter:image:alt": "Graphic of woman in a wheelchair",
+            "twitter:site": "@BBCWorld",
+            "fb:admins": "100004154058350",
+            "application-name": "BBC News",
+            "msapplication-tilecolor": "#bb1919",
+            "og:image:alt": "Graphic of woman in a wheelchair",
+            "og:type": "article",
+            "article:section": "Health",
+            "twitter:title": "Coronavirus: How long does it take to recover?",
+            "twitter:domain": "www.bbc.com",
+            "og:title": "Coronavirus: How long does it take to recover?",
+            "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+            "article:author": "https://www.facebook.com/bbcnews",
+            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png",
+            "fb:app_id": "1609039196070050",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Recovery from Covid-19 can be a lengthy process, depending on how seriously people get the virus.",
+            "og:locale": "en_GB",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.bbc.com/news/health-52301633"
           }
         ],
         "cse_image": [
           {
-            "src": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc"
+            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/530E/production/_111926212_index_recovery_976.png"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Markov Chain Analysis and Stationary Distribution - MATLAB ...",
-      "htmlTitle": "\u003cb\u003eMarkov Chain\u003c/b\u003e Analysis and \u003cb\u003eStationary Distribution\u003c/b\u003e - MATLAB ...",
-      "link": "https://www.mathworks.com/help/symbolic/markov-chain-analysis-and-stationary-distribution.html",
-      "displayLink": "www.mathworks.com",
-      "snippet": "ans = ( 1 1 c d a + b - 1 e + f - 1 ). Find eigenvalues that are exactly equal to 1. · ans = ( 1 1 d ). Extract the analytical stationary distributions.",
-      "htmlSnippet": "ans = ( 1 1 c d a + b - 1 e + f - 1 ). \u003cb\u003eFind\u003c/b\u003e eigenvalues that are exactly equal to 1. &middot; ans = ( 1 1 d ). Extract the analytical \u003cb\u003estationary distributions\u003c/b\u003e.",
-      "cacheId": "T6ziGTDQsogJ",
-      "formattedUrl": "https://www.mathworks.com/.../markov-chain-analysis-and-stationary- distribution.html",
-      "htmlFormattedUrl": "https://www.mathworks.com/.../\u003cb\u003emarkov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e-analysis-and-\u003cb\u003estationary\u003c/b\u003e- \u003cb\u003edistribution\u003c/b\u003e.html",
+      "title": "Coronavirus and the Nervous System | National Institute of ...",
+      "htmlTitle": "\u003cb\u003eCoronavirus\u003c/b\u003e and the Nervous System | National Institute of ...",
+      "link": "https://www.ninds.nih.gov/current-research/coronavirus-and-ninds/coronavirus-and-nervous-system",
+      "displayLink": "www.ninds.nih.gov",
+      "snippet": "Jul 25, 2022 ... How do the long-term effects of SARS-CoV-2 infection/COVID-19 relate ... mild to moderate symptoms typically recover in a few days or weeks.",
+      "htmlSnippet": "Jul 25, 2022 \u003cb\u003e...\u003c/b\u003e How \u003cb\u003edo\u003c/b\u003e the \u003cb\u003elong\u003c/b\u003e-term effects of SARS-CoV-2 infection/\u003cb\u003eCOVID\u003c/b\u003e-19 relate ... mild to moderate symptoms typically \u003cb\u003erecover\u003c/b\u003e in \u003cb\u003ea few days\u003c/b\u003e or weeks.",
+      "cacheId": "WdlI_3SvwhYJ",
+      "formattedUrl": "https://www.ninds.nih.gov/.../coronavirus.../coronavirus-and-nervous-system",
+      "htmlFormattedUrl": "https://www.ninds.nih.gov/.../\u003cb\u003ecoronavirus\u003c/b\u003e.../\u003cb\u003ecoronavirus\u003c/b\u003e-and-nervous-system",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpqrxA0SPoGDIvtkz3OnD034PkeIWKW8HHdOSUqNBG9b5rgNYHmJEb1_g",
-            "width": "259",
-            "height": "194"
-          }
-        ],
-        "breadcrumb": [
-          {
-            "title": "Documentation Home",
-            "url": "Documentation Home"
-          },
-          {
-            "title": "Mathematics and Optimization",
-            "url": "Mathematics and Optimization"
-          },
-          {
-            "title": "Mathematics",
-            "url": "Mathematics"
-          },
-          {
-            "title": "Linear Algebra",
-            "url": "Linear Algebra"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0rzxkCHhcWLWw3JCSv8xkkEBd01QmMjQ9eaLBxllr0RUnQpxnSYIu48",
+            "width": "369",
+            "height": "136"
           }
         ],
         "metatags": [
           {
-            "infotype": "ex",
-            "toctype": "fe",
-            "viewport": "width=device-width, initial-scale=1.0"
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "mobileoptimized": "width"
           }
         ],
         "cse_image": [
           {
-            "src": "https://www.mathworks.com/help/examples/symbolic/win64/MarkovChainExample_02.png"
-          }
-        ],
-        "example": [
-          {
-            "exampleid": "symbolic-MarkovChainExample",
-            "exampletitle": "Markov Chain Analysis and Stationary Distribution"
+            "src": "https://www.ninds.nih.gov/sites/default/files/styles/full_width_small/public/migrate-images/neurological_complications_banner.jpg?itok=Dt1ptJN9"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Python code explanation for stationary distribution of a Markov chain ...",
-      "htmlTitle": "Python code explanation for \u003cb\u003estationary distribution of a Markov chain\u003c/b\u003e ...",
-      "link": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
-      "displayLink": "stackoverflow.com",
-      "snippet": "Aug 3, 2015 ... How to find a stationary distribution. Ok, I came to this post looking to see if there was a built-in method to find the stationary ...",
-      "htmlSnippet": "Aug 3, 2015 \u003cb\u003e...\u003c/b\u003e How to \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e. Ok, I came to this post looking to see if there was a built-in method to \u003cb\u003efind the stationary\u003c/b\u003e&nbsp;...",
-      "cacheId": "6Z60XnXNJ44J",
-      "formattedUrl": "https://stackoverflow.com/.../python-code-explanation-for-stationary- distribution-of-a-markov-chain",
-      "htmlFormattedUrl": "https://stackoverflow.com/.../python-code-explanation-for-\u003cb\u003estationary\u003c/b\u003e- \u003cb\u003edistribution-of-a-markov\u003c/b\u003e-\u003cb\u003echain\u003c/b\u003e",
+      "title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
+      "htmlTitle": "\u003cb\u003eCOVID Recovery\u003c/b\u003e Time: Will I Get Better and How \u003cb\u003eLong\u003c/b\u003e Will It \u003cb\u003eTake\u003c/b\u003e?",
+      "link": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and-how-long-will-it-take/",
+      "displayLink": "responsumhealth.com",
+      "snippet": "Data from the National Institutes of Health indicate that COVID recovery times for mild to moderate cases range from a couple of days to around two weeks.",
+      "htmlSnippet": "Data from the National Institutes of Health indicate that \u003cb\u003eCOVID recovery\u003c/b\u003e times for mild to moderate cases range from a couple of \u003cb\u003edays\u003c/b\u003e to around two weeks.",
+      "cacheId": "GsjATu-M7eAJ",
+      "formattedUrl": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and- how-long-will-it-take/",
+      "htmlFormattedUrl": "https://responsum\u003cb\u003eheal\u003c/b\u003eth.com/\u003cb\u003ecovid\u003c/b\u003e/\u003cb\u003ecovid\u003c/b\u003e-\u003cb\u003erecovery\u003c/b\u003e-time-will-i-get-better-and- how-\u003cb\u003elong\u003c/b\u003e-will-it-\u003cb\u003etake\u003c/b\u003e/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYl7zuT3cw_BBRAyhdQEbQuBgqdNHXKHIYKL8S8ly8x9L_XA9sdwSmiHs",
-            "width": "225",
-            "height": "225"
-          }
-        ],
-        "qapage": [
-          {
-            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-            "name": "Python code explanation for stationary distribution of a Markov chain",
-            "description": "I have got this code: import numpy as np from scipy.linalg import eig transition_mat = np.matrix([ [.95, .05, 0., 0.],\\ [0., 0.9, 0.09, 0.01],\\ [0., 0.05, 0.9, 0.05],\\ [0.8, 0., ..."
-          }
-        ],
-        "question": [
-          {
-            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
-            "upvotecount": "5",
-            "commentcount": "12",
-            "answercount": "3",
-            "name": "Python code explanation for stationary distribution of a Markov chain",
-            "datecreated": "2015-08-03T15:56:08",
-            "text": "I have got this code: import numpy as np from scipy.linalg import eig transition_mat = np.matrix([ [.95, .05, 0., 0.],\\ [0., 0.9, 0.09, 0.01],\\ [0., 0.05, 0.9, 0.05],\\ [0.8, 0., 0.05, 0.15]])...",
-            "url": "Share"
-          }
-        ],
-        "answer": [
-          {
-            "upvotecount": "11",
-            "text": "How to find a stationary distribution. Ok, I came to this post looking to see if there was a built-in method to find the stationary distribution. It looks like there's not. So, for anyone coming...",
-            "datecreated": "2019-10-11T04:46:29",
-            "url": "Share"
-          },
-          {
-            "upvotecount": "0",
-            "text": "stationary = np.array(U[:,np.where(np.abs(S-1.) \u003c 1e-8)[0][0]].flat) This piece of code is searching for elements in U who's corresponding eigen value - 1 is less than 1e-8",
-            "datecreated": "2015-08-03T16:17:09",
-            "url": "Share"
-          },
-          {
-            "upvotecount": "0",
-            "text": "actually, just do a simple while iteration. I'll use a random P as an example def get_stationary(n): row = n pi = np.full((1, row), 1 / row) T = np.array([[1/4,1/2,1/4], [1/3,0,2/3], [1/2,0,1/2]])...",
-            "datecreated": "2022-05-09T01:56:10",
-            "url": "Share"
-          }
-        ],
-        "person": [
-          {
-            "name": "jhon_wick"
-          },
-          {
-            "name": "jhon_wick"
-          },
-          {
-            "name": "Logan Schelly"
-          },
-          {
-            "name": "DrBwts"
-          },
-          {
-            "name": "Haodong Wu"
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyQ0CcUf0VmiqbQ9x4JRCf6MXP79kPeH077FKfw0W5tdnsCgEDhJBQLrLf",
+            "width": "275",
+            "height": "183"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-            "twitter:app:url:iphone": "se-zaphod://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
-            "twitter:app:id:googleplay": "com.stackexchange.marvin",
-            "og:type": "website",
-            "twitter:card": "summary",
-            "twitter:title": "Python code explanation for stationary distribution of a Markov chain",
-            "og:site_name": "Stack Overflow",
-            "twitter:domain": "stackoverflow.com",
-            "twitter:app:url:ipad": "se-zaphod://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
-            "twitter:app:id:ipad": "871299723",
-            "twitter:app:name:googleplay": "Stack Exchange Android",
-            "twitter:app:id:iphone": "871299723",
-            "twitter:app:url:googleplay": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
-            "twitter:app:name:ipad": "Stack Exchange iOS",
-            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
-            "twitter:app:country": "US",
-            "twitter:description": "I have got this code: \n\nimport numpy as np\nfrom scipy.linalg import eig \ntransition_mat = np.matrix([\n    [.95, .05, 0., 0.],\\\n    [0., 0.9, 0.09, 0.01],\\\n    [0., 0.05, 0.9, 0.05],\\\n    [0.8, 0., ...",
-            "og:url": "https://stackoverflow.com/questions/31791728/python-code-explanation-for-stationary-distribution-of-a-markov-chain",
-            "twitter:app:name:iphone": "Stack Exchange iOS"
+            "og:image": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg",
+            "og:type": "article",
+            "article:published_time": "2021-10-30T20:30:54+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
+            "og:image:width": "1000",
+            "og:site_name": "Responsum Health",
+            "og:title": "COVID Recovery Time: Will I Get Better and How Long Will It Take?",
+            "og:image:height": "667",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "og:updated_time": "2022-08-24T20:54:25+00:00",
+            "og:description": "Learn what to expect from your COVID-19 recovery time and how you can keep yourself safe and comfortable as you heal.",
+            "twitter:image": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg",
+            "framework": "Redux 4.2.11",
+            "article:modified_time": "2022-08-24T20:54:25+00:00",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "Learn what to expect from your COVID-19 recovery time and how you can keep yourself safe and comfortable as you heal.",
+            "mobileoptimized": "320",
+            "og:locale": "en_US",
+            "og:url": "https://responsumhealth.com/covid/covid-recovery-time-will-i-get-better-and-how-long-will-it-take/",
+            "apple-touch-fullscreen": "yes"
           }
         ],
         "cse_image": [
           {
-            "src": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+            "src": "https://responsumhealth.com/wp-content/uploads/2022/08/shutterstock_732055678.jpg"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Stationary distributions and limiting probabilities",
-      "htmlTitle": "\u003cb\u003eStationary distributions\u003c/b\u003e and limiting probabilities",
-      "link": "https://www.sjsu.edu/faculty/guangliang.chen/Math263/lec4LimitingProb.pdf",
-      "displayLink": "www.sjsu.edu",
-      "snippet": "Find the stationary distribution of the Markov chain below: ... For any irreducible Markov chain with state space S and transition matrix P, it has a ...",
-      "htmlSnippet": "\u003cb\u003eFind the stationary distribution\u003c/b\u003e of the \u003cb\u003eMarkov chain\u003c/b\u003e below: ... For any irreducible \u003cb\u003eMarkov chain\u003c/b\u003e with state space S and \u003cb\u003etransition matrix\u003c/b\u003e P, it has a&nbsp;...",
-      "cacheId": "RmkgiZfoZQAJ",
-      "formattedUrl": "https://www.sjsu.edu/faculty/guangliang.chen/.../lec4LimitingProb.pdf",
-      "htmlFormattedUrl": "https://www.sjsu.edu/faculty/guangliang.chen/.../lec4\u003cb\u003eLimiting\u003c/b\u003eProb.pdf",
+      "title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical ...",
+      "htmlTitle": "Mild to moderate \u003cb\u003eCOVID\u003c/b\u003e-19 - discharge: MedlinePlus Medical ...",
+      "link": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
+      "displayLink": "medlineplus.gov",
+      "snippet": "Aug 5, 2022 ... Recovery from COVID-19 may take 10 to 14 days or longer depending on your symptoms. Some people have symptoms that go on for months even after ...",
+      "htmlSnippet": "Aug 5, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRecovery\u003c/b\u003e from \u003cb\u003eCOVID\u003c/b\u003e-19 may \u003cb\u003etake\u003c/b\u003e 10 to 14 \u003cb\u003edays\u003c/b\u003e or longer depending on your symptoms. Some people have symptoms that go on for months even after&nbsp;...",
+      "cacheId": "nIINHVw_SXUJ",
+      "formattedUrl": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
+      "htmlFormattedUrl": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMldBCFn5Dg9mMjOFJ6NZgo_le8nTggs1nqqtpGnL7lRR5eWoUGtQZE38",
-            "width": "259",
-            "height": "194"
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7vdtClphhBnAsC-kXYtwji5rxLa-mfqr8gAB52VqiDXhA425FZ9Y3Oo0",
+            "width": "310",
+            "height": "163"
           }
         ],
         "metatags": [
           {
-            "moddate": "D:20210303085913-08'00'",
-            "creator": "TeX",
-            "creationdate": "D:20210303085913-08'00'",
-            "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) kpathsea version 6.3.1",
-            "producer": "pdfTeX-1.40.20"
+            "ac-dictionary": "medlineplus-ac-dictionary",
+            "og:image": "https://medlineplus.gov/images/share_ency_1.jpg",
+            "fb:app_id": "1042245625821448",
+            "expires": "Fri, 02 12 2022",
+            "twitter:title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical Encyclopedia",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
+            "og:title": "Mild to moderate COVID-19 - discharge: MedlinePlus Medical Encyclopedia",
+            "og:url": "https://medlineplus.gov/ency/patientinstructions/000976.htm",
+            "og:description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
+            "twitter:image": "https://medlineplus.gov/images/share_ency_1.jpg"
           }
         ],
         "cse_image": [
           {
-            "src": "x-raw-image:///3bf9f467f54d74026b6a89bf2791efc271531192bb74af51cf9c9ff5589d7b3f"
+            "src": "https://medlineplus.gov/images/share_ency_1.jpg"
+          }
+        ],
+        "medicalwebpage": [
+          {
+            "audience": "http://schema.org/Patient",
+            "name": "Mild to moderate COVID-19 - discharge",
+            "description": "You have recently been diagnosed with coronavirus disease 2019 (COVID-19). COVID-19 causes an infection in your lungs and may cause problems with other organs, including the kidneys, heart, and liver.",
+            "url": "https://medlineplus.gov/ency/patientinstructions/000976.htm"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Medical Encyclopedia",
+            "name": "Medical Encyclopedia",
+            "position": "2"
           }
         ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How Long Does COVID-19 Last? What To Expect if You Get It",
+      "htmlTitle": "How \u003cb\u003eLong Does COVID\u003c/b\u003e-19 Last? What To Expect if You Get It",
+      "link": "https://www.health.com/condition/infectious-diseases/coronavirus/how-long-does-coronavirus-last",
+      "displayLink": "www.health.com",
+      "snippet": "May 20, 2022 ... 3 Researchers analyzed 99 relevant studies published from January 2020 to January 2021 and found that, on average, it takes just over six days ...",
+      "htmlSnippet": "May 20, 2022 \u003cb\u003e...\u003c/b\u003e 3 Researchers analyzed 99 relevant studies published from January 2020 to January 2021 and found that, on average, \u003cb\u003eit takes\u003c/b\u003e just over six \u003cb\u003edays\u003c/b\u003e&nbsp;...",
+      "cacheId": "ldK34iNHpigJ",
+      "formattedUrl": "https://www.health.com/.../coronavirus/how-long-does-coronavirus-last",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eheal\u003c/b\u003eth.com/.../\u003cb\u003ecoronavirus\u003c/b\u003e/how-\u003cb\u003elong\u003c/b\u003e-\u003cb\u003edoes\u003c/b\u003e-\u003cb\u003ecoronavirus\u003c/b\u003e-last",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyOt4Vl-JGW07oHIUCWUhhC8mcWNcZhFYwrovki8bHweJpG_9YfGergo",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg",
+            "twitter:card": "summary_large_image",
+            "msapplication-square70x70logo": "/static/1.57.0/icons/favicons/mstile-70x70.png",
+            "sailthru.tags": "diseases-conditions",
+            "og:site_name": "Health",
+            "msapplication-wide310x150logo": "/static/1.57.0/icons/favicons/mstile-310x150.png",
+            "msapplication-tileimage": "/static/1.57.0/icons/favicons/mstile-144x144.png",
+            "og:description": "How long does COVID-19 last? Find out the COVID-19 symptoms to expect day by day if you contract the virus, according to experts.",
+            "twitter:image": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg",
+            "twitter:site": "@health_com_",
+            "msapplication-square310x310logo": "/static/1.57.0/icons/favicons/mstile-310x310.png",
+            "emailcontenttype": "STRUCTUREDCONTENT",
+            "msapplication-tilecolor": "#F4F4F4",
+            "article:section": "Health",
+            "og:type": "article",
+            "twitter:title": "How Long Does COVID-19 Last? What To Expect if You Contract the Virus",
+            "emailvertical": "HEALTH",
+            "og:title": "How Long Does COVID-19 Last? What To Expect if You Contract the Virus",
+            "msapplication-square150x150logo": "/static/1.57.0/icons/favicons/mstile-150x150.png",
+            "fb:pages": "14482400667",
+            "article:author": "https://www.facebook.com/Health/",
+            "fb:app_id": "979081782488298",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "How long does COVID-19 last? Find out the COVID-19 symptoms to expect day by day if you contract the virus, according to experts.",
+            "og:url": "https://www.health.com/condition/infectious-diseases/coronavirus/how-long-does-coronavirus-last",
+            "sailthru.author": "Claire Gillespie",
+            "article:opinion": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.health.com/thmb/5wYEURmirbheU60LcDik5lx4HyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fever-GettyImages-1084312966-2000-0ff70d81c8734a3288550c5313bd422f.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ending Isolation and Precautions for People with COVID-19: Interim ...",
+      "htmlTitle": "Ending Isolation and Precautions for People with \u003cb\u003eCOVID\u003c/b\u003e-19: Interim ...",
+      "link": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html",
+      "displayLink": "www.cdc.gov",
+      "snippet": "Key Points. People who are infected but asymptomatic or people with mild COVID-19 should isolate through at least day 5 (day 0 is the day symptoms ...",
+      "htmlSnippet": "Key Points. People who are infected but asymptomatic or people with mild \u003cb\u003eCOVID\u003c/b\u003e-19 \u003cb\u003eshould\u003c/b\u003e isolate through at least \u003cb\u003eday\u003c/b\u003e 5 (\u003cb\u003eday\u003c/b\u003e 0 is the \u003cb\u003eday\u003c/b\u003e symptoms&nbsp;...",
+      "cacheId": "FEtu8SSPW6UJ",
+      "formattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html",
+      "htmlFormattedUrl": "https://www.cdc.gov/\u003cb\u003ecoronavirus\u003c/b\u003e/2019-ncov/hcp/duration-isolation.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf0r72lSlwWNZ2Q2YnnsuG30rnnjUtHSD90RS69UL3FFagxsZg813aDxs",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "organization": [
+          {
+            "telephone": "Call 800-232-4636",
+            "url": "Email Us"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png",
+            "theme-color": "#075290",
+            "cdc:content_id": "96021",
+            "article:published_time": "2020-02-11",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Centers for Disease Control and Prevention",
+            "cdc:maintained_by": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES",
+            "cdc:first_published": "July 17, 2020",
+            "og:image:type": "image/jpeg",
+            "og:description": "COVID-19 guidance, tools, and resources for healthcare workers.",
+            "twitter:creator": "@CDCgov",
+            "cdc:last_published": "2022-08-31T19:12:10Z",
+            "twitter:site": "@CDCgov",
+            "cdc:last_reviewed": "Aug. 31, 2022",
+            "cdc:content_source": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES; DIVISION OF VIRAL DISEASES",
+            "og:type": "article",
+            "twitter:title": "Healthcare Workers",
+            "og:title": "Healthcare Workers",
+            "cdc:last_updated": "Aug. 31, 2022",
+            "dc.date": "2022-08-31T05:37:43Z",
+            "article:author": "CDC",
+            "cdc:wcms_build": "4.22.8 - b.1570",
+            "twitter:image:src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png",
+            "cdc:template_version": "4.0",
+            "fb:app_id": "205691699516606",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:author": "CDC",
+            "twitter:description": "COVID-19 guidance, tools, and resources for healthcare workers.",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/covid-hcp-sm.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Recovery and returning to normal activities after COVID-19 ...",
+      "htmlTitle": "\u003cb\u003eRecovery\u003c/b\u003e and returning to normal activities after \u003cb\u003eCOVID\u003c/b\u003e-19 ...",
+      "link": "https://www.healthdirect.gov.au/covid-19/recovery-and-returning-to-normal-activities",
+      "displayLink": "www.healthdirect.gov.au",
+      "snippet": "People at higher risk of serious illness may take weeks to recover. If a person develops long-term health problems caused by COVID-19, symptoms most commonly ...",
+      "htmlSnippet": "People at higher risk of serious illness may \u003cb\u003etake\u003c/b\u003e weeks to \u003cb\u003erecover\u003c/b\u003e. If a person develops \u003cb\u003elong\u003c/b\u003e-term health problems caused by \u003cb\u003eCOVID\u003c/b\u003e-19, symptoms most commonly&nbsp;...",
+      "cacheId": "OcdOuDzNISkJ",
+      "formattedUrl": "https://www.healthdirect.gov.au/covid.../recovery-and-returning-to-normal- activities",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eheal\u003c/b\u003ethdirect.gov.au/\u003cb\u003ecovid\u003c/b\u003e.../\u003cb\u003erecovery\u003c/b\u003e-and-returning-to-normal- activities",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8Yk0aSmYunUG7rHdNIHX0xPkaxLOyV86OiwXUlHenLLwMrZsLmscEKYs",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "Healthdirect Australia",
+            "apple-itunes-app": "app-id=1021494621",
+            "og:image": "https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png",
+            "dc.description": "Learn about what happens after you’ve recovered from COVID-19, and when it’s recommended to leave self-isolation and return to normal activities.",
+            "og:type": "article",
+            "og:title": "Recovery and returning to normal activities after COVID-19",
+            "dc.format": "text/html",
+            "dc.rights": "Healthdirect Australia",
+            "dc.date": "2022-11-06T01:28:29.010Z",
+            "referrer": "always",
+            "dc.type": "text/html",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "dc.creator": "Healthdirect Australia",
+            "dc.title": "Recovery and returning to normal activities after COVID-19",
+            "dc.subject": "Living with COVID-19,Coronavirus (COVID-19),Exercise",
+            "dc.language": "en-AU",
+            "og:url": "https://www.healthdirect.gov.au/covid-19/recovery-and-returning-to-normal-activities"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.healthdirect.org.au/images/inline/original/healthdirect_logo.png"
+          }
+        ]
+      }
     }
   ]
 }

@@ -4,6 +4,7 @@ import requests
 import openai
 import os
 import pickle
+from make_test import gen_test
 
 BASE_URL = "https://www.googleapis.com/customsearch/v1"
 SEARCH_ENG_ID = "33d96791f7ddc438a"  # The author's search engine, which is just a full web Google search; you can replace this with your own
@@ -25,9 +26,11 @@ following instructions from https://beta.openai.com/.""")
 
 ERROR_STR = "<Parse Error>"
 
+FINAL_RESULTS_N = 10
+
     
 
-def search(query, output_file="res.html"):
+def search(query):
     url = BASE_URL + "?key=" + GOOG_API_KEY + "&q=" + query + "&cx=" + SEARCH_ENG_ID
     x = requests.get(url)
     
@@ -35,7 +38,9 @@ def search(query, output_file="res.html"):
         fhand.write(x.text)
 
     x = x.json()
-
+    if 'error' in x:
+        print(x)
+        print(query)
     results = [{"displayLink": y["displayLink"], "link": y["link"], "snippet": y["snippet"], "title": y["title"]} for y in x["items"]]
     return results
 
@@ -94,55 +99,134 @@ def get_all():
     
     # Output to files
     for i, res in enumerate(results):
-        os.mkdir(os.path.join("queries", str(i)))
+        try:
+            os.mkdir(os.path.join("queries", str(i)))
+        except FileExistsError:
+            pass
         with open(os.path.join("queries", str(i), str(i) + ".txt"), "w") as fhand:
-            fhand.write(lines[i])  # the first output line is the original query
+            fhand.write(lines[i] + "\n")  # the first output line is the original query
             for r in res:
                 fhand.write(r + "\n")
 
 
-def write_html(result, output_file, query):
+def write_html(results, output_file, query):
     with open(output_file, "w") as fhand:
-        fhand.write("<html>\n")
-        fhand.write("""
-        <head>
-            <link rel="stylesheet" href="results.css">
-        </head>
-        """)
-        fhand.write("<body>\n")
-        fhand.write("<div class='query'>Query: " + query + "</div>")
-        for item in result:
+        for item in results:
             fhand.write("<div class='res'>")
-            fhand.write("<div class=res-link>" + result["displayLink"] + "</div>")
-            fhand.write("<div class=res-title><a href=" + result["link"] + "/>" + result["title"] + "</a></div>")
-            fhand.write("<div class=res-snippet>" + result["snippet"] + "</div>")
+            fhand.write("<div class=res-link>" + item["displayLink"] + "</div>")
+            fhand.write("<div class=res-title><a href=" + item["link"] + ">" + item["title"] + "</a></div>")
+            fhand.write("<div class=res-snippet>" + item["snippet"] + "</div>")
             fhand.write("</div>")
-        fhand.write("</body>\n")
-        fhand.write("</html>\n")
 
 
-def produce():
+def produce(rerun_gpt=False, rerun_search=False):
     # Use get_all() to write all of the GPT-3 queries + the original query
-    get_all()
+    if rerun_gpt:
+        get_all()
     # Go through the files and search using each query; place the results of each individual query in separate pickle files.
     folders = os.listdir(os.path.join("queries"))
-    for folder in folders:
-        p = os.path.join(folder, folder + ".txt")
-        with open(p, "r") as fhand:
-            lines = fhand.readlines(p)
-            for i, line in enumerate(lines):
-                line = line.strip()
-                if line == ERROR_STR:
-                    continue
-                res = search(line)
-                to_write = open(os.path.join(p, str(i) + ".pkl"), "wb")
-                pickle.dump(res, to_write)
+    if rerun_search:
+        for folder in folders:
+            print(f"On folder {folder}")
+            p = os.path.join("queries", folder, folder + ".txt")
+            with open(p, "r") as fhand:
+                lines = fhand.readlines()
+                for i, line in enumerate(lines):
+                    line = line.strip()
+                    if line == ERROR_STR or not line:
+                        continue
+                    res = search(line)
+                    to_write = open(os.path.join("queries", folder, str(i) + ".pkl"), "wb")
+                    pickle.dump(res, to_write)
     
     # Produce a ranking of results
-    # TODO
+    link_to_res = {}
+    for folder in folders:
+        files = os.listdir(os.path.join("queries", folder))
+        bordas = {}
+        for f in files:
+            # for all the pickle files
+            if '.pkl' not in f:
+                continue
+            with open(os.path.join('queries', folder, f), 'rb') as fhand:
+                i = 0
+                while True:
+                    try:
+                        pick = pickle.load(fhand)
+                    except:
+                        break
+                    if not pick:
+                        continue
+                    for i, res in enumerate(pick):
+                        if res['link'] in bordas:
+                            bordas[res['link']] += len(pick) - i
+                        else:
+                            bordas[res['link']] = len(pick) - i
+                            link_to_res[res['link']] = res
+        
+        # Produce re-ranked results
+        sorted_bordas = sorted(bordas.items(), key=lambda item: item[1], reverse=True)
+        final_results = [link_to_res[sorted_bordas[i][0]] for i in range(FINAL_RESULTS_N)]
+        with open(os.path.join('queries', folder, 'aggregated.pkl'), 'wb') as fhand:
+            pickle.dump(final_results, fhand)
 
-    # Write HTML for the original results and the re-ranked results
-    # TODO
+    for folder in folders:
+        query = ""
+        with open(os.path.join("queries", folder, folder + '.txt')) as fhand:
+            txt = fhand.readline().rstrip()
+            query = txt
+
+        aggregated_path = os.path.join("queries", folder, 'aggregated.pkl')
+        orig_path = os.path.join("queries", folder, '0.pkl')
+        with open(orig_path, 'rb') as fhand:
+            try:
+                pick = pickle.load(fhand)
+            except:
+                break
+            if not pick:
+                continue
+            write_html(pick, os.path.join("queries", folder, 'orig.html'), query)
+
+        with open(aggregated_path, 'rb') as fhand:
+            try:
+                pick = pickle.load(fhand)
+            except:
+                break
+            if not pick:
+                continue
+            write_html(pick, os.path.join("queries", folder, 'aggregated.html'), query)
 
 
+def make_test_html():
+    # go through html files
+    # add to query dict, which is of the form:
+    # {'query': query, 'agg': agghtml, 'orig': orightml}
+    # call gen_test(query dict)
+    folders = os.listdir(os.path.join("queries"))
+    queries = []
+    for folder in folders:
+        query = ""
+        agg = ""
+        orig = ""
+        with open(os.path.join("queries", folder, folder + '.txt')) as fhand:
+            txt = fhand.readline().rstrip()
+            query = txt
+
+        aggregated_path = os.path.join("queries", folder, 'aggregated.html')
+        orig_path = os.path.join("queries", folder, 'orig.html')
+        with open(orig_path, 'r') as fhand:
+            orig = fhand.read()
+
+        with open(aggregated_path, 'r') as fhand:
+            agg = fhand.read()
+        
+        to_add = {'query': query, 'agg': agg, 'orig': orig}
+        queries.append(to_add)
+
+    gen_test(queries)
+
+
+# produce(rerun_gpt=True, rerun_search=True)
 produce()
+
+make_test_html()
