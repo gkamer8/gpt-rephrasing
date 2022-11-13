@@ -1,0 +1,6 @@
+find i'th instance of character in list python
+
+How to find the index of a character in a list in Python
+Python program to get the i'th occurrence of a character in a list
+index function python find element in list example code
+<Parse Error>
