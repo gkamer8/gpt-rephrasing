@@ -7,9 +7,9 @@
   "queries": {
     "request": [
       {
-        "title": "Google Custom Search - Markov chains: finding the stationary distribution worked out examples",
-        "totalResults": "2960000",
-        "searchTerms": "Markov chains: finding the stationary distribution worked out examples",
+        "title": "Google Custom Search - How did Robert Lane 'Bob' Saget die?",
+        "totalResults": "233000",
+        "searchTerms": "How did Robert Lane 'Bob' Saget die?",
         "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
     ],
     "nextPage": [
       {
-        "title": "Google Custom Search - Markov chains: finding the stationary distribution worked out examples",
-        "totalResults": "2960000",
-        "searchTerms": "Markov chains: finding the stationary distribution worked out examples",
+        "title": "Google Custom Search - How did Robert Lane 'Bob' Saget die?",
+        "totalResults": "233000",
+        "searchTerms": "How did Robert Lane 'Bob' Saget die?",
         "count": 10,
         "startIndex": 11,
         "inputEncoding": "utf8",
@@ -36,130 +36,44 @@
     "title": "CS222"
   },
   "searchInformation": {
-    "searchTime": 0.585664,
-    "formattedSearchTime": "0.59",
-    "totalResults": "2960000",
-    "formattedTotalResults": "2,960,000"
+    "searchTime": 0.530315,
+    "formattedSearchTime": "0.53",
+    "totalResults": "233000",
+    "formattedTotalResults": "233,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Discrete Markov Chains: Finding the Stationary Distribution",
-      "htmlTitle": "Discrete \u003cb\u003eMarkov Chains\u003c/b\u003e: \u003cb\u003eFinding the Stationary Distribution\u003c/b\u003e",
-      "link": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
-      "displayLink": "stephens999.github.io",
-      "snippet": "May 30, 2021 ... 3x3 example. Assume our probability transition matrix is: P=[0.7 ...",
-      "htmlSnippet": "May 30, 2021 \u003cb\u003e...\u003c/b\u003e 3x3 \u003cb\u003eexample\u003c/b\u003e. Assume our probability transition matrix is: P=[0.7&nbsp;...",
-      "cacheId": "KQWBfsOLa8gJ",
-      "formattedUrl": "https://stephens999.github.io/fiveMinuteStats/stationary_distribution.html",
-      "htmlFormattedUrl": "https://stephens999.github.io/fiveMinuteStats/\u003cb\u003estationary\u003c/b\u003e_\u003cb\u003edistribution\u003c/b\u003e.html",
-      "pagemap": {
-        "metatags": [
-          {
-            "date": "2016-01-21",
-            "viewport": "width=device-width, initial-scale=1",
-            "author": "Matt Bonakdarpour; with edits by Matthew Stephens and Jitao David Zhang"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Stationary and Limiting Distributions",
-      "htmlTitle": "Stationary and \u003cb\u003eLimiting Distributions\u003c/b\u003e",
-      "link": "https://www.probabilitycourse.com/chapter11/11_3_2_stationary_and_limiting_distributions.php",
-      "displayLink": "www.probabilitycourse.com",
-      "snippet": "Find the limiting distribution for X(t). jump-chain-1 Figure 11.23 - The jump chain for the Markov chain of Example 11.19. Solution.",
-      "htmlSnippet": "\u003cb\u003eFind\u003c/b\u003e the \u003cb\u003elimiting distribution\u003c/b\u003e for X(t). jump-chain-1 \u003cb\u003eFigure\u003c/b\u003e 11.23 - The jump chain for the \u003cb\u003eMarkov chain\u003c/b\u003e of \u003cb\u003eExample\u003c/b\u003e 11.19. Solution.",
-      "cacheId": "-rXj66I7qi8J",
-      "formattedUrl": "https://www.probabilitycourse.com/.../11_3_2_stationary_and_limiting_ distributions.php",
-      "htmlFormattedUrl": "https://www.probabilitycourse.com/.../11_3_2_\u003cb\u003estationary\u003c/b\u003e_and_\u003cb\u003elimiting\u003c/b\u003e_ \u003cb\u003edistributions\u003c/b\u003e.php",
-      "pagemap": {
-        "metatags": [
-          {
-            "viewport": "width=device-width, initial-scale=1.0",
-            "section": "11.3.2"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Stochastic Processes I4",
-      "htmlTitle": "Stochastic Processes I4",
-      "link": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
-      "displayLink": "www.stat.berkeley.edu",
-      "snippet": "(a) Give the transition matrix P for this Markov chain. (b) Show that it is irreducible but not aperiodic. (c) Find the stationary distribution (d) Now suppose ...",
-      "htmlSnippet": "(a) Give the transition matrix P for this \u003cb\u003eMarkov chain\u003c/b\u003e. (b) Show that it is irreducible but not aperiodic. (c) \u003cb\u003eFind the stationary distribution\u003c/b\u003e (d) Now suppose&nbsp;...",
-      "cacheId": "EB9BjWWHfacJ",
-      "formattedUrl": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
-      "htmlFormattedUrl": "https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-faiLmySp7fGNtY_HuVIbzmYzL1demm3ycRAxDxeGgoAjuV8GUJyrS0KM",
-            "width": "225",
-            "height": "224"
-          }
-        ],
-        "metatags": [
-          {
-            "moddate": "D:20080303120221",
-            "creationdate": "D:20080303120221",
-            "producer": "ESP Ghostscript 815.04"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "x-raw-image:///7b60dea1c61a61ebda4c5df03f5b2b326c9f114574a6723df4f933e605184d54"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Solved Problems",
-      "htmlTitle": "\u003cb\u003eSolved Problems\u003c/b\u003e",
-      "link": "https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php",
-      "displayLink": "www.probabilitycourse.com",
-      "snippet": "11.2.7 Solved Problems. Problem. Consider the Markov chain with three states, S={1,2,3}, ... Find the stationary distribution for this chain.",
-      "htmlSnippet": "11.2.7 \u003cb\u003eSolved Problems\u003c/b\u003e. Problem. Consider the \u003cb\u003eMarkov chain\u003c/b\u003e with three states, S={1,2,3}, ... \u003cb\u003eFind the stationary distribution\u003c/b\u003e for this chain.",
-      "cacheId": "uTVdEWnFs1oJ",
-      "formattedUrl": "https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php",
-      "htmlFormattedUrl": "https://www.probabilitycourse.com/chapter11/11_2_7_\u003cb\u003esolved\u003c/b\u003e_probs.php",
-      "pagemap": {
-        "metatags": [
-          {
-            "viewport": "width=device-width, initial-scale=1.0",
-            "section": "11.2.7"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Markov chain - Wikipedia",
-      "htmlTitle": "\u003cb\u003eMarkov chain\u003c/b\u003e - Wikipedia",
-      "link": "https://en.wikipedia.org/wiki/Markov_chain",
+      "title": "Bob Saget - Wikipedia",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bob_Saget",
       "displayLink": "en.wikipedia.org",
-      "snippet": "A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the ...",
-      "htmlSnippet": "A \u003cb\u003eMarkov chain\u003c/b\u003e or \u003cb\u003eMarkov process\u003c/b\u003e is a stochastic model describing a sequence of possible events in which the probability of each event depends only \u003cb\u003eon\u003c/b\u003e the&nbsp;...",
-      "cacheId": "tjByMtb7vncJ",
-      "formattedUrl": "https://en.wikipedia.org/wiki/Markov_chain",
-      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMarkov\u003c/b\u003e_\u003cb\u003echain\u003c/b\u003e",
+      "snippet": "Robert Lane Saget (May 17, 1956 – January 9, 2022) was an American stand-up comedian, actor, and television host. From 1987 to 1995, Saget played Danny ...",
+      "htmlSnippet": "\u003cb\u003eRobert Lane Saget\u003c/b\u003e (May 17, 1956 – January 9, 2022) was an American stand-up comedian, actor, and television host. From 1987 to 1995, \u003cb\u003eSaget\u003c/b\u003e played Danny&nbsp;...",
+      "cacheId": "UDcGzd8EikEJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Bob_Saget",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBob\u003c/b\u003e_\u003cb\u003eSaget\u003c/b\u003e",
       "pagemap": {
+        "hcard": [
+          {
+            "url_text": "bobsaget.com",
+            "bday": "1956-05-17",
+            "fn": "Bob Saget",
+            "nickname": "Robert Lane Saget",
+            "category": "Stand-uptelevisionfilm",
+            "url": "bobsaget.com"
+          }
+        ],
         "metatags": [
           {
             "referrer": "origin",
-            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/1200px-Markovkate_01.svg.png",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob_Saget%2C_Behind_The_Velvet_Rope_TV_.05.jpg",
             "theme-color": "#eaecf0",
             "og:image:width": "1200",
             "og:type": "website",
             "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "Markov chain - Wikipedia",
-            "og:image:height": "1200",
+            "og:title": "Bob Saget - Wikipedia",
+            "og:image:height": "1608",
             "format-detection": "telephone=no"
           }
         ]
@@ -167,238 +81,599 @@
     },
     {
       "kind": "customsearch#result",
-      "title": "1. Markov chains",
-      "htmlTitle": "1. \u003cb\u003eMarkov chains\u003c/b\u003e",
-      "link": "http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-MarkovChains.pdf",
-      "displayLink": "www.stat.yale.edu",
-      "snippet": "Computing stationary distributions is an algebra problem. (1.12) Example. Let's find the stationary distribution for the frog chain, whose probability.",
-      "htmlSnippet": "Computing \u003cb\u003estationary distributions\u003c/b\u003e is an algebra problem. (1.12) \u003cb\u003eExample\u003c/b\u003e. Let&#39;s \u003cb\u003efind the stationary distribution\u003c/b\u003e for the frog \u003cb\u003echain\u003c/b\u003e, whose probability.",
-      "cacheId": "LFogSgsc7VoJ",
-      "formattedUrl": "www.stat.yale.edu/~pollard/Courses/.../Handouts/Chang-MarkovChains.pdf",
-      "htmlFormattedUrl": "www.stat.yale.edu/~pollard/Courses/.../Hand\u003cb\u003eouts\u003c/b\u003e/Chang-\u003cb\u003eMarkovChains\u003c/b\u003e.pdf",
-      "pagemap": {
-        "metatags": [
-          {
-            "moddate": "D:20130110103327-05'00'",
-            "creationdate": "D:20130110103242-05'00'",
-            "creator": "LaTeX with hyperref package",
-            "producer": "dvips + AFPL Ghostscript 8.51"
-          }
-        ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "markov process - What is the difference between \"limiting\" and ...",
-      "htmlTitle": "\u003cb\u003emarkov process\u003c/b\u003e - What is the difference between &quot;\u003cb\u003elimiting\u003c/b\u003e&quot; and ...",
-      "link": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
-      "displayLink": "stats.stackexchange.com",
-      "snippet": "Let Π=(π0,π1,...,πn) be the stationary distribution....\" But I guarantee you to calculate the limiting distribution in the question before, they solved it like ...",
-      "htmlSnippet": "Let Π=(π0,π1,...,πn) be the \u003cb\u003estationary distribution\u003c/b\u003e....&quot; But I guarantee you to \u003cb\u003ecalculate the limiting distribution\u003c/b\u003e in the question before, they \u003cb\u003esolved\u003c/b\u003e it like&nbsp;...",
-      "cacheId": "R_I-wdz3UjgJ",
-      "formattedUrl": "https://stats.stackexchange.com/.../what-is-the-difference-between-limiting- and-stationary-distributions",
-      "htmlFormattedUrl": "https://stats.stackexchange.com/.../what-is-the-difference-between-\u003cb\u003elimiting\u003c/b\u003e- and-\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e",
+      "title": "Bob Saget Cause of Death: How Did Bob Saget Die? How He ...",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Cause of \u003cb\u003eDeath\u003c/b\u003e: \u003cb\u003eHow Did Bob Saget Die\u003c/b\u003e? How He ...",
+      "link": "https://stylecaster.com/bob-saget-cause-of-death/",
+      "displayLink": "stylecaster.com",
+      "snippet": "Jun 8, 2022 ... Here's what we know about when and how Bob Saget died at the age of 65. ... Born in May 1956 as Robert “Bob” Lane Saget in Philadelphia, ...",
+      "htmlSnippet": "Jun 8, 2022 \u003cb\u003e...\u003c/b\u003e Here&#39;s what we know about when and how \u003cb\u003eBob Saget died\u003c/b\u003e at the age of 65. ... Born in May 1956 as \u003cb\u003eRobert\u003c/b\u003e “Bob” \u003cb\u003eLane\u003c/b\u003e Saget in Philadelphia,&nbsp;...",
+      "cacheId": "qV1iSb8s_PIJ",
+      "formattedUrl": "https://stylecaster.com/bob-saget-cause-of-death/",
+      "htmlFormattedUrl": "https://stylecaster.com/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-cause-of-\u003cb\u003edeath\u003c/b\u003e/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQngPojnSCBgCXJ9xA5IzCL0o4xbVkCKvHGSs85eSY3mzzEkxBl342CO3e7",
-            "width": "225",
-            "height": "225"
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJxlOhg_RSQepxJGbxkKuWV6WatLxB3jpR96n5LwWJW2t_yVkiUMQP_wQ",
+            "width": "300",
+            "height": "168"
           }
         ],
-        "qapage": [
-          {
-            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "name": "What is the difference between \"limiting\" and \"stationary\" distributions?",
-            "description": "I'm doing a question on Markov chains and the last two parts say this: Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your"
-          }
+        "xfn": [
+          {}
         ],
-        "question": [
+        "imageobject": [
           {
-            "image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon.png?v=8698dcfb5c72",
-            "upvotecount": "30",
-            "commentcount": "5",
-            "answercount": "3",
-            "name": "What is the difference between \"limiting\" and \"stationary\" distributions?",
-            "datecreated": "2013-01-22T16:34:02",
-            "text": "I'm doing a question on Markov chains and the last two parts say this: Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your...",
-            "url": "Share"
-          }
-        ],
-        "answer": [
-          {
-            "upvotecount": "27",
-            "commentcount": "5",
-            "text": "From An Introduction to Stochastic Modeling by Pinsky and Karlin (2011): A limiting distribution, when it exists, is always a stationary distribution, but the converse is not true. There may...",
-            "datecreated": "2014-07-01T05:38:40",
-            "url": "Share"
-          },
-          {
-            "upvotecount": "19",
-            "commentcount": "3",
-            "text": "A stationary distribution is such a distribution π that if the distribution over states at step k is π, then also the distribution over states at step k+1 is π. That is, π=πP. A limiting...",
-            "datecreated": "2014-07-01T08:10:24",
-            "url": "Share"
-          },
-          {
-            "upvotecount": "14",
-            "commentcount": "4",
-            "text": "Putting notation aside, the word \"stationary\" means \"once you get there, you will stay there\"; while the word \"limiting\" implies \"you will eventually get there if you go far enough\". Just thought...",
-            "datecreated": "2015-07-28T01:05:40",
-            "url": "Share"
-          }
-        ],
-        "person": [
-          {
-            "name": "Kaish"
-          },
-          {
-            "name": "shadowtalker"
-          },
-          {
-            "name": "Juho Kokkala"
-          },
-          {
-            "name": "Khoa"
+            "width": "712",
+            "url": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
+            "height": "400"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc",
-            "twitter:app:url:iphone": "se-zaphod://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
-            "twitter:app:id:googleplay": "com.stackexchange.marvin",
-            "og:type": "website",
-            "twitter:card": "summary",
-            "twitter:title": "What is the difference between \"limiting\" and \"stationary\" distributions?",
-            "og:site_name": "Cross Validated",
-            "twitter:domain": "stats.stackexchange.com",
-            "twitter:app:url:ipad": "se-zaphod://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
-            "twitter:app:id:ipad": "871299723",
-            "twitter:app:name:googleplay": "Stack Exchange Android",
-            "twitter:app:id:iphone": "871299723",
-            "twitter:creator": "@StackStats",
-            "twitter:app:url:googleplay": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
-            "twitter:site": "@StackStats",
-            "twitter:app:name:ipad": "Stack Exchange iOS",
-            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
-            "twitter:app:country": "US",
-            "twitter:description": "I'm doing a question on Markov chains and the last two parts say this:\r\n  \n  Does this Markov chain possess a limiting distribution. If your answer is \"yes\", find the limiting distribution. If your",
-            "og:url": "https://stats.stackexchange.com/questions/48262/what-is-the-difference-between-limiting-and-stationary-distributions",
-            "twitter:app:name:iphone": "Stack Exchange iOS"
+            "og:image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
+            "article:published_time": "2022-06-08T20:24:01+00:00",
+            "og:image:width": "960",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "StyleCaster",
+            "og:description": "An investigation has finally confirmed how he died.",
+            "twitter:creator": "@stylecaster",
+            "article:publisher": "https://www.facebook.com/stylecaster",
+            "twitter:image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
+            "twitter:site": "@stylecaster",
+            "article:modified_time": "2022-06-08T20:29:11+00:00",
+            "news_keywords": "Bob Saget",
+            "twitter:account_id": "55678606",
+            "og:type": "article",
+            "article:section": "Celebrity News",
+            "twitter:title": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
+            "msvalidate.01": "7A34A1C1904BAFB83691E8B3718CA9A2",
+            "author": "Jenzia Burgos",
+            "og:title": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
+            "og:image:height": "540",
+            "fb:pages": "48566051011",
+            "article:author": "Jenzia Burgos",
+            "article:tag": "Entertainment",
+            "fb:app_id": "134683123322801",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "An investigation has finally confirmed how he died.",
+            "og:locale": "en_US",
+            "fb:article_style": "scdefault",
+            "og:url": "https://stylecaster.com/bob-saget-cause-of-death/"
           }
         ],
         "cse_image": [
           {
-            "src": "https://cdn.sstatic.net/Sites/stats/Img/apple-touch-icon@2.png?v=344f57aa10cc"
+            "src": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png"
+          }
+        ],
+        "article": [
+          {
+            "image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-1.jpg?w=451",
+            "articlebody": "Ever since news of his passing first broke, fans have wondered about Bob Saget’s cause of death and searched for the details of how he died. The Full House alum, who also starred in the show’s...",
+            "datemodified": "2022-06-08T16:29:11-04:00",
+            "author": "Jenzia Burgos",
+            "name": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
+            "headline": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
+            "datepublished": "2022-06-08T16:24:01-04:00",
+            "mainentityofpage": "https://stylecaster.com/bob-saget-cause-of-death/"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "11.1. Balance and Detailed Balance — Data 140 Textbook",
-      "htmlTitle": "11.1. Balance and Detailed Balance — Data 140 Textbook",
-      "link": "http://prob140.org/textbook/content/Chapter_11/01_Balance_and_Detailed_Balance.html",
-      "displayLink": "prob140.org",
-      "snippet": "The stationary distribution of a chain is the unique probability distribution ... As before, assume that we have an irreducible, aperiodic Markov chain on a ...",
-      "htmlSnippet": "The \u003cb\u003estationary distribution\u003c/b\u003e of a chain is the unique probability distribution ... As before, assume that we have an irreducible, aperiodic \u003cb\u003eMarkov chain on\u003c/b\u003e a&nbsp;...",
-      "cacheId": "eRtCWxrBI4AJ",
-      "formattedUrl": "prob140.org/textbook/content/.../01_Balance_and_Detailed_Balance.html",
-      "htmlFormattedUrl": "prob140.org/textbook/content/.../01_Balance_and_Detailed_Balance.html",
+      "title": "Bob Saget, Comic Who Starred in the Sitcom 'Full House,' Dies at 65 ...",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, Comic Who Starred in the Sitcom &#39;Full House,&#39; \u003cb\u003eDies\u003c/b\u003e at 65 ...",
+      "link": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+      "displayLink": "www.nytimes.com",
+      "snippet": "Feb 11, 2022 ... Robert Lane Saget was born on May 17, 1956, in Philadelphia. He graduated from Temple University in 1978 before finding his way into comedy ...",
+      "htmlSnippet": "Feb 11, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRobert Lane Saget\u003c/b\u003e was born on May 17, 1956, in Philadelphia. He graduated from Temple University in 1978 before finding his way into comedy&nbsp;...",
+      "formattedUrl": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+      "htmlFormattedUrl": "https://www.nytimes.com/2022/01/09/arts/television/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead.html",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5bJjuO0bTt4XGftHb3GZT_A-n5Ur3r3D0aVmh9CWderZo7L0vdbk1g5T",
-            "width": "225",
-            "height": "225"
-          }
-        ],
-        "metatags": [
-          {
-            "viewport": "width=device-width, initial-scale=1.0",
-            "docsearch:language": "None"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "http://prob140.org/textbook/_static/sp22_ugarte_logo.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Stationary Distributions of Markov Chains | Brilliant Math & Science ...",
-      "htmlTitle": "\u003cb\u003eStationary Distributions\u003c/b\u003e of \u003cb\u003eMarkov Chains\u003c/b\u003e | Brilliant Math &amp; Science ...",
-      "link": "https://brilliant.org/wiki/stationary-distributions/",
-      "displayLink": "brilliant.org",
-      "snippet": "A stationary distribution of a Markov chain is a probability distribution that ... Note that the limiting distribution does not depend on the number of fans ...",
-      "htmlSnippet": "A \u003cb\u003estationary distribution\u003c/b\u003e of a \u003cb\u003eMarkov chain\u003c/b\u003e is a probability distribution that ... Note that the \u003cb\u003elimiting distribution\u003c/b\u003e does not depend \u003cb\u003eon\u003c/b\u003e the number of fans&nbsp;...",
-      "cacheId": "Rrte-Cis8fcJ",
-      "formattedUrl": "https://brilliant.org/wiki/stationary-distributions/",
-      "htmlFormattedUrl": "https://brilliant.org/wiki/\u003cb\u003estationary\u003c/b\u003e-\u003cb\u003edistributions\u003c/b\u003e/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWMFLGXLoniJ1TcEPUvkd13EG-I32bLXUOWtTXIOUTk6hgKBLknvT-Ey4",
-            "width": "311",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG8TmXHHqCRGX7O3tRcR6pAolm3DYGO9KcU3zs64kyfz4xSMDqG7JKRKwD",
+            "width": "310",
             "height": "162"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
-            "og:type": "website",
-            "og:image:alt": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png",
+            "og:image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg",
+            "nyt_uri": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
+            "twitter:app:id:googleplay": "com.nytimes.android",
             "twitter:card": "summary_large_image",
-            "al:ios:app_name": "Brilliant.org",
-            "og:title": "Stationary Distributions of Markov Chains | Brilliant Math & Science Wiki",
-            "al:android:package": "org.brilliant.android",
-            "google": "notranslate",
-            "al:ios:url": "com.brilliant.Brilliant://wiki/stationary-distributions/",
-            "og:description": "A stationary distribution of a Markov chain is a probability distribution that remains unchanged in the Markov chain as time progresses. Typically, it is represented as a row vector ...",
-            "al:ios:app_store_id": "913335252",
-            "al:android:url": "https://brilliant.org/wiki/stationary-distributions/",
-            "fb:app_id": "326254770799145",
-            "twitter:site": "@brilliantorg",
-            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0",
-            "og:url": "https://brilliant.org/wiki/stationary-distributions/",
-            "al:android:app_name": "Brilliant"
+            "article:published_time": "2022-01-10T01:30:29.000Z",
+            "pt": "article",
+            "twitter:url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+            "pdate": "20220109",
+            "articleid": "100000008152525",
+            "al:android:package": "com.nytimes.android",
+            "al:ipad:app_store_id": "357066198",
+            "twitter:app:name:googleplay": "NYTimes",
+            "og:description": "The actor, who had also hosted “America’s Funniest Home Videos,” was found dead in an Orlando hotel room while on tour.",
+            "twitter:image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-videoSixteenByNine3000.jpg",
+            "pst": "Obituary (Obit),Biography",
+            "twitter:image:alt": "Bob Saget in 2008. In contrast to his squeaky-clean image on “Full House” and “America’s Funniest Home Videos,” he delighted in raunchy, profanity-laden stand-up routines.",
+            "al:iphone:app_name": "NYTimes",
+            "article:modified_time": "2022-02-12T01:14:54.556Z",
+            "news_keywords": "Obituary,Bob Saget,Comedy,TV,Full House,Actor",
+            "scg": "television",
+            "article:content_tier": "metered",
+            "msapplication-starturl": "https://www.nytimes.com",
+            "image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg",
+            "og:type": "article",
+            "og:image:alt": "Bob Saget in 2008. In contrast to his squeaky-clean image on “Full House” and “America’s Funniest Home Videos,” he delighted in raunchy, profanity-laden stand-up routines.",
+            "twitter:title": "Bob Saget, Comic Who Starred in the Sitcom ‘Full House,’ Dies at 65",
+            "article:section": "Arts",
+            "cg": "arts",
+            "pubp_event_id": "pubp://event/190c88b66880401daa21c2386f3513da",
+            "og:title": "Bob Saget, Comic Who Starred in the Sitcom ‘Full House,’ Dies at 65",
+            "url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+            "article:tag": "Deaths (Obituaries)",
+            "al:iphone:url": "nytimes://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+            "al:android:url": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
+            "twitter:app:url:googleplay": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
+            "fb:app_id": "9869919170",
+            "al:ipad:url": "nytimes://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+            "byl": "By Jesus Jiménez and Alan Yuhas",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "The actor, who had also hosted “America’s Funniest Home Videos,” was found dead in an Orlando hotel room while on tour.",
+            "al:iphone:app_store_id": "284862083",
+            "al:ipad:app_name": "NYTimes",
+            "og:url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
+            "al:android:app_name": "NYTimes",
+            "article:opinion": "false"
           }
         ],
         "cse_image": [
           {
-            "src": "https://brilliant.org/site_media/version-1a4dfc4f1b/images/open-graph/default.png"
+            "src": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "13 Introduction to Stationary Distributions",
-      "htmlTitle": "13 Introduction to \u003cb\u003eStationary Distributions\u003c/b\u003e",
-      "link": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
-      "displayLink": "mast.queensu.ca",
-      "snippet": "Example: Suppose we have the following transition matrix: 1 2 3 4 5 6 7 8 910 ... Here's how we find a stationary distribution for a Markov chain.",
-      "htmlSnippet": "\u003cb\u003eExample\u003c/b\u003e: Suppose we have the following transition matrix: 1 2 3 4 5 6 7 8 910 ... Here&#39;s how we \u003cb\u003efind\u003c/b\u003e a \u003cb\u003estationary distribution\u003c/b\u003e for a \u003cb\u003eMarkov chain\u003c/b\u003e.",
-      "cacheId": "XVB6YpesvtEJ",
-      "formattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
-      "htmlFormattedUrl": "https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf",
+      "title": "Bob Saget autopsy completed as new details surrounding death are ...",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e autopsy completed as new details surrounding \u003cb\u003edeath\u003c/b\u003e are ...",
+      "link": "https://www.yahoo.com/entertainment/bob-saget-dead-autopsy-hotel-201550624.html",
+      "displayLink": "www.yahoo.com",
+      "snippet": "Jan 10, 2022 ... \"An autopsy was performed this morning on Robert Lane Saget. Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room.",
+      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e &quot;An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e. Mr. \u003cb\u003eSaget is\u003c/b\u003e a 65-year-old male, who was found unresponsive in his hotel room.",
+      "cacheId": "9mlk3CSOhB8J",
+      "formattedUrl": "https://www.yahoo.com/.../bob-saget-dead-autopsy-hotel-201550624.html",
+      "htmlFormattedUrl": "https://www.yahoo.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-autopsy-hotel-201550624.html",
       "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkNccLD2R26OgbD0EjJNeZzaekKcYcXbo81cGBgZnf4fkefdXKw5nY1y9I",
+            "width": "290",
+            "height": "174"
+          }
+        ],
         "metatags": [
           {
-            "moddate": "D:20051118001928-05'00'",
-            "creationdate": "D:20051118001840-05'00'",
-            "creator": "TeX",
-            "producer": "pdfTeX-1.20a"
+            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
+            "og:image": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+            "al:ios:url": "yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
+            "og:description": "Bob Saget was found dead after family members requested a wellness check. Cause and manner of death are pending further studies.",
+            "twitter:creator": "@taryder",
+            "al:ios:app_store_id": "304158842",
+            "twitter:dnt": "on",
+            "twitter:image": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
+            "oath:guce:consent-host": "guce.yahoo.com",
+            "twitter:site": "@Yahoo",
+            "news_keywords": "Bob Saget, Robert Lane Saget, hotel room, manner of death, supine position, Osceola Counties, hotel security, Kelly Rizzo",
+            "twitter:title": "Bob Saget autopsy completed as new details surrounding death are released",
+            "og:type": "article",
+            "al:ios:app_name": "Yahoo",
+            "og:title": "Bob Saget autopsy completed as new details surrounding death are released",
+            "og:image:height": "718",
+            "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
+            "al:android:url": "yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Bob Saget was found dead after family members requested a wellness check. Cause and manner of death are pending further studies.",
+            "og:url": "https://www.yahoo.com/entertainment/bob-saget-dead-autopsy-hotel-201550624.html",
+            "al:android:app_name": "Yahoo"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659"
           }
         ]
-      },
-      "mime": "application/pdf",
-      "fileFormat": "PDF/Adobe Acrobat"
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bob Saget, Comedian and Star of Full House, Dies at 65 - IGN",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, Comedian and Star of Full House, \u003cb\u003eDies\u003c/b\u003e at 65 - IGN",
+      "link": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+      "displayLink": "www.ign.com",
+      "snippet": "Jan 10, 2022 ... Bob Saget, the beloved comedian and star of Full House, has died at the age of 65.",
+      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eBob Saget\u003c/b\u003e, the beloved comedian and star of Full House, \u003cb\u003ehas died\u003c/b\u003e at the age of 65.",
+      "cacheId": "1DMKObsibP4J",
+      "formattedUrl": "https://www.ign.com/.../bob-saget-comedian-and-star-of-full-house-dies-at- 65",
+      "htmlFormattedUrl": "https://www.ign.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-comedian-and-star-of-full-house-\u003cb\u003edies\u003c/b\u003e-at- 65",
+      "pagemap": {
+        "thumbnail": [
+          {
+            "src": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
+            "twitter:app:url:iphone": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "twitter:app:id:googleplay": "com.mobile.ign",
+            "copyright": "IGN Entertainment, Inc.",
+            "theme-color": "#BF1313",
+            "article:published_time": "2022-01-10T00:46:41.441Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "IGN",
+            "twitter:app:url:ipad": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "al:android:package": "com.mobile.ign",
+            "vertical": "Entertainment",
+            "twitter:app:name:googleplay": "IGN",
+            "al:ios:url": "ign://ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "twitter:app:id:iphone": "284819997",
+            "og:description": "Bob Saget, the beloved comedian and star of Full House, has died at the age of 65.",
+            "al:ios:app_store_id": "284819997",
+            "next-head-count": "70",
+            "twitter:site": "@IGN",
+            "og:type": "article",
+            "thumbnail": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
+            "al:ios:app_name": "IGN: Video Game News, Reviews, Guides",
+            "cpid": "5a8bca0b2d985966302b4671c3a001ee",
+            "og:title": "Bob Saget, Comedian and Star of Full House, Dies at 65 - IGN",
+            "twitter:app:id:ipad": "284819997",
+            "al:web:url": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "fb:pages": "59685491632",
+            "article:author": "Adam Bankhurst",
+            "article:tag": "Full House",
+            "facebook-domain-verification": "960w7qsbsscw9stu2hxr2xfaes6cvc",
+            "al:android:url": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "referrer": "always",
+            "fb:app_id": "115982828429116",
+            "twitter:app:url:googleplay": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "twitter:app:name:ipad": "IGN: Video Game News, Reviews, Guides",
+            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+            "twitter:imageurl": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
+            "category": "News",
+            "og:url": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
+            "al:android:app_name": "IGN",
+            "twitter:app:name:iphone": "IGN: Video Game News, Reviews, Guides"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of ...",
+      "htmlTitle": "\u003cb\u003eBob Saget&#39;s\u003c/b\u003e Autopsy Completed After His \u003cb\u003eDeath\u003c/b\u003e: &#39;No Evidence of ...",
+      "link": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
+      "displayLink": "people.com",
+      "snippet": "Jan 10, 2022 ... \"An autopsy was performed this morning on Robert Lane Saget. Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room. At ...",
+      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e &quot;An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e. Mr. \u003cb\u003eSaget is\u003c/b\u003e a 65-year-old male, who was found unresponsive in his hotel room. At&nbsp;...",
+      "cacheId": "jfgGLPcPEAUJ",
+      "formattedUrl": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
+      "htmlFormattedUrl": "https://people.com/tv/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-autopsy-completed/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDoVmlhRhZtdd5XUiFN3hKA_jVKMtNp_tqrAZQaraNAEZOtBWh2qLNWU6u",
+            "width": "278",
+            "height": "181"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg",
+            "twitter:card": "summary_large_image",
+            "msapplication-square70x70logo": "/static/1.26.0/icons/favicons/mstile-70x70.png",
+            "og:site_name": "Peoplemag",
+            "msapplication-wide310x150logo": "/static/1.26.0/icons/favicons/mstile-310x150.png",
+            "msapplication-tileimage": "/static/1.26.0/icons/favicons/mstile-144x144.png",
+            "og:description": "Bob Saget died Sunday at the age of 65 after he was found unresponsive inside his Orlando hotel room",
+            "twitter:image": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg",
+            "twitter:site": "@people",
+            "msapplication-square310x310logo": "/static/1.26.0/icons/favicons/mstile-310x310.png",
+            "emailcontenttype": "STRUCTUREDCONTENT",
+            "msapplication-tilecolor": "#F4F4F4",
+            "article:section": "People",
+            "og:type": "article",
+            "twitter:title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of Drug Use or Foul Play,' Authorities Say",
+            "emailvertical": "PEOPLE",
+            "og:title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of Drug Use or Foul Play,' Authorities Say",
+            "msapplication-square150x150logo": "/static/1.26.0/icons/favicons/mstile-150x150.png",
+            "fb:pages": "95926963131",
+            "article:author": "https://www.facebook.com/peoplemag",
+            "fb:app_id": "610948219662029",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Bob Saget died Sunday at the age of 65 after he was found unresponsive inside his Orlando hotel room",
+            "og:url": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
+            "sailthru.author": "Joelle Goldstein",
+            "article:opinion": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bob Saget Dead at 65 - E! Online",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Dead at 65 - E! Online",
+      "link": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
+      "displayLink": "www.eonline.com",
+      "snippet": "Jan 9, 2022 ... The comedy world has lost a legend: Bob Saget has died. He was 65 years old. The star, best known for his role of Danny Tanner on the '80s ...",
+      "htmlSnippet": "Jan 9, 2022 \u003cb\u003e...\u003c/b\u003e The comedy world \u003cb\u003ehas\u003c/b\u003e lost a legend: \u003cb\u003eBob Saget has died\u003c/b\u003e. He was 65 years old. The star, best known for his role of Danny Tanner on the &#39;80s&nbsp;...",
+      "cacheId": "finhjWOlrgkJ",
+      "formattedUrl": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
+      "htmlFormattedUrl": "https://www.eonline.com/news/1315737/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-at-65",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAgumiynbDTbhK5tcC9eK-1OpSLd-isXjoXHgEelqOj6r2_zLj3u7c5STP",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "sailthru.edition": "us",
+            "og:image:width": "1080",
+            "article:published_time": "2022-01-10T01:01:00.000Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "E! Online",
+            "sailthru.tags": "bob_saget,fuller_house,wochit",
+            "twitter:url": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
+            "sailthru.contenttype": "news",
+            "sailthru.ed.cid": "us_1315737",
+            "og:description": "Fuller House alum and comedian Bob Saget has passed away. He was found dead inside a hotel room while on a standup comedy tour.",
+            "twitter:image": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top",
+            "twitter:site": "https://twitter.com/eonline",
+            "article:modified_time": "2022-01-10T03:33:57.000Z",
+            "sailthru.title": "Bob Saget Dead at 65",
+            "fb:admins": "10101649",
+            "article:content_tier": "free",
+            "sailthru.date": "2022 01 09 17:01:00",
+            "og:type": "article",
+            "twitter:title": "Bob Saget Dead at 65 - E! Online",
+            "msvalidate.01": "564B986CE3CECCAE84779191BEC6B755",
+            "og:title": "Bob Saget Dead at 65 - E! Online",
+            "og:image:height": "1080",
+            "sailthru.cid": "1315737",
+            "fb:pages": "89033370735",
+            "article:tag": "bob_saget,fuller_house,wochit",
+            "tp:enableexternalcontroller": "true",
+            "fb:app_id": "195662528604",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+            "twitter:description": "Fuller House alum and comedian Bob Saget has passed away. He was found dead inside a hotel room while on a standup comedy tour.",
+            "og:locale": "en_US",
+            "og:url": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
+            "sailthru.image.full": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "article:opinion": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Autopsy Shows No Evidence Of Drugs Or Foul Play In Bob Saget ...",
+      "htmlTitle": "Autopsy Shows No Evidence Of Drugs Or Foul Play In \u003cb\u003eBob Saget\u003c/b\u003e ...",
+      "link": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/",
+      "displayLink": "deadline.com",
+      "snippet": "Jan 10, 2022 ... “An autopsy was performed this morning on Robert Lane Saget,” said ... Saget, whose unexpected death yesterday has shocked and saddened his ...",
+      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e “An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e,” said ... \u003cb\u003eSaget\u003c/b\u003e, whose unexpected \u003cb\u003edeath\u003c/b\u003e yesterday \u003cb\u003ehas\u003c/b\u003e shocked and saddened his&nbsp;...",
+      "cacheId": "fku7qD2-IqsJ",
+      "formattedUrl": "https://deadline.com/.../bob-saget-autopsy-no-drugs-foul-play-medical- examiner-1234907634/",
+      "htmlFormattedUrl": "https://deadline.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-autopsy-no-drugs-foul-play-medical- examiner-1234907634/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUDcvwksReQ55KA2tGSzZUbwX1Ewnvfwad1Jk0dATEXm12AoRsZdiaYscd",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "comment_count": "7",
+            "msapplication-config": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/browserconfig.xml",
+            "apple-itunes-app": "app-id=533209613",
+            "og:image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024",
+            "article:published_time": "2022-01-10T20:30:24+00:00",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Deadline",
+            "msapplication-tileimage": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/icons/icon-144x144.png",
+            "title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
+            "body": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play.\r\n\r\n\"An autopsy was performed this morning on Robert Lane Saget,\" said Joshua Stephany, the chief medical examiner of Orange and Osceola Counties, in a statement. \"Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room.\r\n\r\n\"At this time, there is no evidence of drug use or foul play,\" the statement continues. \"The cause and manner of death are pending further studies and investigation which may take up to 10-12 weeks to complete. Our condolences go out to Mr. Saget's loved ones during this difficult time.\"\r\n\r\nThe examiner noted that the media will be notified when the final report has been completed.\r\n\r\nSaget, whose unexpected death yesterday has shocked and saddened his friends and fans across the world, was found dead in his room at Orlando's Ritz-Carlton Hotel Sunday. The Full House and America's",
+            "y_key": "a810be562637c603",
+            "og:description": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play. &#822…",
+            "twitter:creator": "@DEADLINE",
+            "ia:markup_url_dev": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/?ia_markup=1",
+            "twitter:image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024",
+            "twitter:site": "@DEADLINE",
+            "content_type": "Article",
+            "article:modified_time": "2022-01-10T21:33:36+00:00",
+            "news_keywords": "Bob Saget",
+            "published_at": "2022-01-10 12:30:24",
+            "msapplication-tilecolor": "#eff4ff",
+            "image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=296&h=166&crop=1",
+            "og:type": "article",
+            "og:image:alt": "Bob Saget",
+            "twitter:title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
+            "author": "Greg Evans",
+            "topics": "TV",
+            "og:title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
+            "og:image:height": "577",
+            "fb:pages": "105558754896",
+            "tags": "Bob Saget",
+            "fragment": "!",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "post_id": "1234907634",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "onesignal": "wordpress-plugin",
+            "twitter:description": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play. &#822…",
+            "og:locale": "en_US",
+            "og:url": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bob Saget Dead: 'Full House' and 'Fuller House' Star Was 65",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Dead: &#39;Full House&#39; and &#39;Fuller House&#39; Star Was 65",
+      "link": "https://www.cheatsheet.com/entertainment/bob-saget-dead-full-house-fuller-house-star-65.html/",
+      "displayLink": "www.cheatsheet.com",
+      "snippet": "Jan 9, 2022 ... As of this writing, a cause of death for Bob Saget has not been released. However, the Orange County Sheriff's Office confirmed his death in a ...",
+      "htmlSnippet": "Jan 9, 2022 \u003cb\u003e...\u003c/b\u003e As of this writing, a cause of \u003cb\u003edeath\u003c/b\u003e for \u003cb\u003eBob Saget has\u003c/b\u003e not been released. However, the Orange County Sheriff&#39;s Office confirmed his \u003cb\u003edeath\u003c/b\u003e in a&nbsp;...",
+      "cacheId": "0Wmlu9Ge0l0J",
+      "formattedUrl": "https://www.cheatsheet.com/.../bob-saget-dead-full-house-fuller-house-star- 65.html/",
+      "htmlFormattedUrl": "https://www.cheatsheet.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-full-house-fuller-house-star- 65.html/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZcBhY35MudAZRLRMMVrcS97U4syw56FNeaXxWTNMRU7hcRUz3kwXAMoaN",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "person": [
+          {
+            "name": "Bernadette Giacomazzo",
+            "url": "Bernadette Giacomazzo"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Showbiz Cheat Sheet",
+            "url": "Showbiz Cheat Sheet"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cheatsheet.com/wp-content/uploads/2022/01/Bob-Saget-1200x800.jpg?w=1200",
+            "og:type": "article",
+            "article:published_time": "2022-01-10T01:26:09+00:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Showbiz Cheat Sheet",
+            "author": "Bernadette Giacomazzo",
+            "og:title": "Bob Saget Dead: 'Full House' and 'Fuller House' Star Was 65",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:description": "He rose to fame as the star of 'Full House' and 'Fuller House.' But today, Bob Saget was found dead in his hotel room in Florida.",
+            "twitter:creator": "@BgWritesStuff",
+            "article:publisher": "https://www.facebook.com/ShowbizCheatsheet",
+            "twitter:data1": "Bernadette Giacomazzo",
+            "twitter:data2": "3 minutes",
+            "twitter:site": "@cheatsheet",
+            "article:modified_time": "2022-01-10T01:38:35+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://www.cheatsheet.com/entertainment/bob-saget-dead-full-house-fuller-house-star-65.html/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cheatsheet.com/wp-content/uploads/2022/01/Bob-Saget.jpg?w=1200&h=800"
+          }
+        ],
+        "blog": [
+          {
+            "about": "Tags:Full House Fuller House Netflix tv shows",
+            "text": "One of the breakout stars of Full House was Robert Lane Saget, best known as Bob Saget. The comedian portrayed Danny Tanner, the beleaguered and beloved single father to three precocious little..."
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
+      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, comedian and &#39;Full House&#39; star, dead at 65 | CNN",
+      "link": "https://www.cnn.com/2022/01/09/entertainment/bob-saget-death-full-house/index.html",
+      "displayLink": "www.cnn.com",
+      "snippet": "Jan 10, 2022 ... Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, ...",
+      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eBob Saget\u003c/b\u003e, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom &quot;Full House,&quot; \u003cb\u003ehas died\u003c/b\u003e,&nbsp;...",
+      "formattedUrl": "https://www.cnn.com/2022/01/09/.../bob-saget-death-full-house/index.html",
+      "htmlFormattedUrl": "https://www.cnn.com/2022/01/09/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-\u003cb\u003edeath\u003c/b\u003e-full-house/index.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMqE3iVA9UfnwMOVYqPKC833SWnvJap8GTHX9KbVUiaOFBvodbxMHx45YK",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill",
+            "twitter:title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2022-01-10T01:19:48Z",
+            "og:site_name": "CNN",
+            "author": "Sandra Gonzalez",
+            "og:title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
+            "meta-section": "entertainment",
+            "type": "article",
+            "og:description": "Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, his family confirmed in a statement to CNN.",
+            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill",
+            "article:publisher": "https://www.facebook.com/CNN",
+            "article:tag": "arts and entertainment, bob saget, celebrities, death and dying, deaths and fatalities, society, television comedies, television programming, comedians and comedy, companies, internet and www, social media, technology, twitter",
+            "fb:app_id": "80401312489",
+            "twitter:site": "@CNNent",
+            "article:modified_time": "2022-01-10T12:21:13Z",
+            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+            "twitter:description": "Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, his family confirmed in a statement to CNN.",
+            "template_type": "article_leaf",
+            "theme": "entertainment",
+            "og:url": "https://www.cnn.com/2022/01/09/entertainment/bob-saget-death-full-house/index.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill"
+          }
+        ]
+      }
     }
   ]
 }

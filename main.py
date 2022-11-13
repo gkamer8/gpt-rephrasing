@@ -228,8 +228,8 @@ def make_test_html():
     gen_test(queries)
 
 
-# produce(rerun_gpt=True, rerun_search=True)
+produce(rerun_gpt=True, rerun_search=True)
 # produce(rerun_gpt=True, rerun_search=True, limit=3)
-produce()
+# produce()
 
 make_test_html()

@@ -1,6 +1,6 @@
 how to find stationary distribution of Markov chain
 
-find steady state distribution of Markov chain
-how to calculate limiting distribution from transition matrix
-Markov chains: finding the stationary distribution worked out examples
+find limiting distribution of Markov chain
+Deriving the stationary distribution of a Markov Chain
+How to calculate steady state probabilities for a markov chain?
 <Parse Error>
