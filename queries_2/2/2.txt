@@ -1,0 +1,6 @@
+winograd schema
+
+What is the Winograd schema?
+How does the Winograd schema work?
+Winograd algorithm information
+<Parse Error>
