@@ -7,9 +7,9 @@
   "queries": {
     "request": [
       {
-        "title": "Google Custom Search - How did Robert Lane 'Bob' Saget die?",
-        "totalResults": "233000",
-        "searchTerms": "How did Robert Lane 'Bob' Saget die?",
+        "title": "Google Custom Search - list of films where Natalie Portman is not the lead actress",
+        "totalResults": "23200000",
+        "searchTerms": "list of films where Natalie Portman is not the lead actress",
         "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
     ],
     "nextPage": [
       {
-        "title": "Google Custom Search - How did Robert Lane 'Bob' Saget die?",
-        "totalResults": "233000",
-        "searchTerms": "How did Robert Lane 'Bob' Saget die?",
+        "title": "Google Custom Search - list of films where Natalie Portman is not the lead actress",
+        "totalResults": "23200000",
+        "searchTerms": "list of films where Natalie Portman is not the lead actress",
         "count": 10,
         "startIndex": 11,
         "inputEncoding": "utf8",
@@ -36,44 +36,49 @@
     "title": "CS222"
   },
   "searchInformation": {
-    "searchTime": 0.530315,
-    "formattedSearchTime": "0.53",
-    "totalResults": "233000",
-    "formattedTotalResults": "233,000"
+    "searchTime": 0.449624,
+    "formattedSearchTime": "0.45",
+    "totalResults": "23200000",
+    "formattedTotalResults": "23,200,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Bob Saget - Wikipedia",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e - Wikipedia",
-      "link": "https://en.wikipedia.org/wiki/Bob_Saget",
+      "title": "Natalie Portman - Wikipedia",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Natalie_Portman",
       "displayLink": "en.wikipedia.org",
-      "snippet": "Robert Lane Saget (May 17, 1956 – January 9, 2022) was an American stand-up comedian, actor, and television host. From 1987 to 1995, Saget played Danny ...",
-      "htmlSnippet": "\u003cb\u003eRobert Lane Saget\u003c/b\u003e (May 17, 1956 – January 9, 2022) was an American stand-up comedian, actor, and television host. From 1987 to 1995, \u003cb\u003eSaget\u003c/b\u003e played Danny&nbsp;...",
-      "cacheId": "UDcGzd8EikEJ",
-      "formattedUrl": "https://en.wikipedia.org/wiki/Bob_Saget",
-      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBob\u003c/b\u003e_\u003cb\u003eSaget\u003c/b\u003e",
+      "snippet": "Natalie Portman is an Israeli-born American actress. She has had a prolific film career since her teenage years and has starred in various blockbusters and ...",
+      "htmlSnippet": "\u003cb\u003eNatalie Portman\u003c/b\u003e is an Israeli-born American \u003cb\u003eactress\u003c/b\u003e. She has had a prolific \u003cb\u003efilm\u003c/b\u003e career since her teenage years and has starred in various blockbusters and&nbsp;...",
+      "cacheId": "YYhENpsthlgJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Natalie_Portman",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eNatalie\u003c/b\u003e_\u003cb\u003ePortman\u003c/b\u003e",
       "pagemap": {
         "hcard": [
           {
-            "url_text": "bobsaget.com",
-            "bday": "1956-05-17",
-            "fn": "Bob Saget",
-            "nickname": "Robert Lane Saget",
-            "category": "Stand-uptelevisionfilm",
-            "url": "bobsaget.com"
+            "role": "Actressdirectorproducer",
+            "bday": "1981-06-09",
+            "fn": "Natalie Portman",
+            "nickname": "Natalie Hershlag",
+            "category": "IsraelUnited States"
+          }
+        ],
+        "person": [
+          {
+            "role": "Actressdirectorproducer",
+            "org": "Democratic"
           }
         ],
         "metatags": [
           {
             "referrer": "origin",
-            "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob_Saget%2C_Behind_The_Velvet_Rope_TV_.05.jpg",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Natalie_Portman_%2848470988352%29_%28cropped%29.jpg/1200px-Natalie_Portman_%2848470988352%29_%28cropped%29.jpg",
             "theme-color": "#eaecf0",
             "og:image:width": "1200",
             "og:type": "website",
             "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "Bob Saget - Wikipedia",
-            "og:image:height": "1608",
+            "og:title": "Natalie Portman - Wikipedia",
+            "og:image:height": "1686",
             "format-detection": "telephone=no"
           }
         ]
@@ -81,596 +86,495 @@
     },
     {
       "kind": "customsearch#result",
-      "title": "Bob Saget Cause of Death: How Did Bob Saget Die? How He ...",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Cause of \u003cb\u003eDeath\u003c/b\u003e: \u003cb\u003eHow Did Bob Saget Die\u003c/b\u003e? How He ...",
-      "link": "https://stylecaster.com/bob-saget-cause-of-death/",
-      "displayLink": "stylecaster.com",
-      "snippet": "Jun 8, 2022 ... Here's what we know about when and how Bob Saget died at the age of 65. ... Born in May 1956 as Robert “Bob” Lane Saget in Philadelphia, ...",
-      "htmlSnippet": "Jun 8, 2022 \u003cb\u003e...\u003c/b\u003e Here&#39;s what we know about when and how \u003cb\u003eBob Saget died\u003c/b\u003e at the age of 65. ... Born in May 1956 as \u003cb\u003eRobert\u003c/b\u003e “Bob” \u003cb\u003eLane\u003c/b\u003e Saget in Philadelphia,&nbsp;...",
-      "cacheId": "qV1iSb8s_PIJ",
-      "formattedUrl": "https://stylecaster.com/bob-saget-cause-of-death/",
-      "htmlFormattedUrl": "https://stylecaster.com/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-cause-of-\u003cb\u003edeath\u003c/b\u003e/",
+      "title": "Natalie Portman Responded to Rose McGowan Over Oscars Cape ...",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e Responded to Rose McGowan Over Oscars Cape ...",
+      "link": "https://www.insider.com/rose-mcgowan-natalie-portmans-oscars-cape-deeply-offensive-portman-responded-2020-2",
+      "displayLink": "www.insider.com",
+      "snippet": "Feb 13, 2020 ... Natalie Portman's dress featured the names of female directors whose work ... for only hiring one female film director — Portman herself.",
+      "htmlSnippet": "Feb 13, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNatalie Portman&#39;s\u003c/b\u003e dress featured the \u003cb\u003enames\u003c/b\u003e of \u003cb\u003efemale\u003c/b\u003e directors whose work ... for only hiring one \u003cb\u003efemale film\u003c/b\u003e director — Portman herself.",
+      "cacheId": "Q60WFs6jJrYJ",
+      "formattedUrl": "https://www.insider.com/rose-mcgowan-natalie-portmans-oscars-cape-deeply- offensive-portman-responded-2020-2",
+      "htmlFormattedUrl": "https://www.insider.com/rose-mcgowan-\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportmans\u003c/b\u003e-oscars-cape-deeply- offensive-\u003cb\u003eportman\u003c/b\u003e-responded-2020-2",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJxlOhg_RSQepxJGbxkKuWV6WatLxB3jpR96n5LwWJW2t_yVkiUMQP_wQ",
-            "width": "300",
-            "height": "168"
-          }
-        ],
-        "xfn": [
-          {}
-        ],
-        "imageobject": [
-          {
-            "width": "712",
-            "url": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
-            "height": "400"
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT255mVfsi45y8VdRhNEkDqln0ExLZ2FYgWD4QN4-ExLp_hyb1UfKsSYqny",
+            "width": "318",
+            "height": "159"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
-            "article:published_time": "2022-06-08T20:24:01+00:00",
-            "og:image:width": "960",
+            "og:image": "https://i.insider.com/5e45240896eee64ba671a9c2?width=1200&format=jpeg",
+            "msapplication-config": "/public/assets/INSIDER/US/favicons/browserconfig.xml?v=2021-08",
             "twitter:card": "summary_large_image",
-            "og:site_name": "StyleCaster",
-            "og:description": "An investigation has finally confirmed how he died.",
-            "twitter:creator": "@stylecaster",
-            "article:publisher": "https://www.facebook.com/stylecaster",
-            "twitter:image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png",
-            "twitter:site": "@stylecaster",
-            "article:modified_time": "2022-06-08T20:29:11+00:00",
-            "news_keywords": "Bob Saget",
-            "twitter:account_id": "55678606",
-            "og:type": "article",
-            "article:section": "Celebrity News",
-            "twitter:title": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
-            "msvalidate.01": "7A34A1C1904BAFB83691E8B3718CA9A2",
-            "author": "Jenzia Burgos",
-            "og:title": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
-            "og:image:height": "540",
-            "fb:pages": "48566051011",
-            "article:author": "Jenzia Burgos",
-            "article:tag": "Entertainment",
-            "fb:app_id": "134683123322801",
-            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
-            "twitter:description": "An investigation has finally confirmed how he died.",
-            "og:locale": "en_US",
-            "fb:article_style": "scdefault",
-            "og:url": "https://stylecaster.com/bob-saget-cause-of-death/"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-cause-of-death.png"
-          }
-        ],
-        "article": [
-          {
-            "image": "https://stylecaster.com/wp-content/uploads/2022/01/bob-saget-1.jpg?w=451",
-            "articlebody": "Ever since news of his passing first broke, fans have wondered about Bob Saget’s cause of death and searched for the details of how he died. The Full House alum, who also starred in the show’s...",
-            "datemodified": "2022-06-08T16:29:11-04:00",
-            "author": "Jenzia Burgos",
-            "name": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
-            "headline": "Bob Saget’s Official Cause of Death Reveals if Those Heart Attack Rumors Were True",
-            "datepublished": "2022-06-08T16:24:01-04:00",
-            "mainentityofpage": "https://stylecaster.com/bob-saget-cause-of-death/"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Bob Saget, Comic Who Starred in the Sitcom 'Full House,' Dies at 65 ...",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, Comic Who Starred in the Sitcom &#39;Full House,&#39; \u003cb\u003eDies\u003c/b\u003e at 65 ...",
-      "link": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-      "displayLink": "www.nytimes.com",
-      "snippet": "Feb 11, 2022 ... Robert Lane Saget was born on May 17, 1956, in Philadelphia. He graduated from Temple University in 1978 before finding his way into comedy ...",
-      "htmlSnippet": "Feb 11, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRobert Lane Saget\u003c/b\u003e was born on May 17, 1956, in Philadelphia. He graduated from Temple University in 1978 before finding his way into comedy&nbsp;...",
-      "formattedUrl": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-      "htmlFormattedUrl": "https://www.nytimes.com/2022/01/09/arts/television/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead.html",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG8TmXHHqCRGX7O3tRcR6pAolm3DYGO9KcU3zs64kyfz4xSMDqG7JKRKwD",
-            "width": "310",
-            "height": "162"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg",
-            "nyt_uri": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
-            "twitter:app:id:googleplay": "com.nytimes.android",
-            "twitter:card": "summary_large_image",
-            "article:published_time": "2022-01-10T01:30:29.000Z",
-            "pt": "article",
-            "twitter:url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-            "pdate": "20220109",
-            "articleid": "100000008152525",
-            "al:android:package": "com.nytimes.android",
-            "al:ipad:app_store_id": "357066198",
-            "twitter:app:name:googleplay": "NYTimes",
-            "og:description": "The actor, who had also hosted “America’s Funniest Home Videos,” was found dead in an Orlando hotel room while on tour.",
-            "twitter:image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-videoSixteenByNine3000.jpg",
-            "pst": "Obituary (Obit),Biography",
-            "twitter:image:alt": "Bob Saget in 2008. In contrast to his squeaky-clean image on “Full House” and “America’s Funniest Home Videos,” he delighted in raunchy, profanity-laden stand-up routines.",
-            "al:iphone:app_name": "NYTimes",
-            "article:modified_time": "2022-02-12T01:14:54.556Z",
-            "news_keywords": "Obituary,Bob Saget,Comedy,TV,Full House,Actor",
-            "scg": "television",
-            "article:content_tier": "metered",
-            "msapplication-starturl": "https://www.nytimes.com",
-            "image": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg",
-            "og:type": "article",
-            "og:image:alt": "Bob Saget in 2008. In contrast to his squeaky-clean image on “Full House” and “America’s Funniest Home Videos,” he delighted in raunchy, profanity-laden stand-up routines.",
-            "twitter:title": "Bob Saget, Comic Who Starred in the Sitcom ‘Full House,’ Dies at 65",
-            "article:section": "Arts",
-            "cg": "arts",
-            "pubp_event_id": "pubp://event/190c88b66880401daa21c2386f3513da",
-            "og:title": "Bob Saget, Comic Who Starred in the Sitcom ‘Full House,’ Dies at 65",
-            "url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-            "article:tag": "Deaths (Obituaries)",
-            "al:iphone:url": "nytimes://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-            "al:android:url": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
-            "twitter:app:url:googleplay": "nyt://article/960bacd2-8e63-5abc-9fbc-d124e34bb00c",
-            "fb:app_id": "9869919170",
-            "al:ipad:url": "nytimes://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-            "byl": "By Jesus Jiménez and Alan Yuhas",
-            "viewport": "width=device-width, initial-scale=1",
-            "twitter:description": "The actor, who had also hosted “America’s Funniest Home Videos,” was found dead in an Orlando hotel room while on tour.",
-            "al:iphone:app_store_id": "284862083",
-            "al:ipad:app_name": "NYTimes",
-            "og:url": "https://www.nytimes.com/2022/01/09/arts/television/bob-saget-dead.html",
-            "al:android:app_name": "NYTimes",
-            "article:opinion": "false"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://static01.nyt.com/images/2022/01/11/multimedia/09xp-saget-swap-print3/09xp-saget-swap-facebookJumbo.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Bob Saget autopsy completed as new details surrounding death are ...",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e autopsy completed as new details surrounding \u003cb\u003edeath\u003c/b\u003e are ...",
-      "link": "https://www.yahoo.com/entertainment/bob-saget-dead-autopsy-hotel-201550624.html",
-      "displayLink": "www.yahoo.com",
-      "snippet": "Jan 10, 2022 ... \"An autopsy was performed this morning on Robert Lane Saget. Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room.",
-      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e &quot;An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e. Mr. \u003cb\u003eSaget is\u003c/b\u003e a 65-year-old male, who was found unresponsive in his hotel room.",
-      "cacheId": "9mlk3CSOhB8J",
-      "formattedUrl": "https://www.yahoo.com/.../bob-saget-dead-autopsy-hotel-201550624.html",
-      "htmlFormattedUrl": "https://www.yahoo.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-autopsy-hotel-201550624.html",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkNccLD2R26OgbD0EjJNeZzaekKcYcXbo81cGBgZnf4fkefdXKw5nY1y9I",
-            "width": "290",
-            "height": "174"
-          }
-        ],
-        "metatags": [
-          {
-            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
-            "og:image": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
-            "og:image:width": "1200",
-            "twitter:card": "summary_large_image",
-            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
-            "al:ios:url": "yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
-            "og:description": "Bob Saget was found dead after family members requested a wellness check. Cause and manner of death are pending further studies.",
-            "twitter:creator": "@taryder",
-            "al:ios:app_store_id": "304158842",
-            "twitter:dnt": "on",
-            "twitter:image": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
-            "oath:guce:consent-host": "guce.yahoo.com",
-            "twitter:site": "@Yahoo",
-            "news_keywords": "Bob Saget, Robert Lane Saget, hotel room, manner of death, supine position, Osceola Counties, hotel security, Kelly Rizzo",
-            "twitter:title": "Bob Saget autopsy completed as new details surrounding death are released",
-            "og:type": "article",
-            "al:ios:app_name": "Yahoo",
-            "og:title": "Bob Saget autopsy completed as new details surrounding death are released",
-            "og:image:height": "718",
-            "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659",
-            "al:android:url": "yahoo://article/view?uuid=c422c45a-935a-4e2c-b5c2-5b2e19e71c11&src=web",
-            "viewport": "width=device-width, initial-scale=1",
-            "twitter:description": "Bob Saget was found dead after family members requested a wellness check. Cause and manner of death are pending further studies.",
-            "og:url": "https://www.yahoo.com/entertainment/bob-saget-dead-autopsy-hotel-201550624.html",
-            "al:android:app_name": "Yahoo"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://s.yimg.com/ny/api/res/1.2/osXUfDyI5jwS2CGfqkYyeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/87c1c330-71b3-11ec-bdbe-4c1085174659"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Bob Saget, Comedian and Star of Full House, Dies at 65 - IGN",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, Comedian and Star of Full House, \u003cb\u003eDies\u003c/b\u003e at 65 - IGN",
-      "link": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-      "displayLink": "www.ign.com",
-      "snippet": "Jan 10, 2022 ... Bob Saget, the beloved comedian and star of Full House, has died at the age of 65.",
-      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eBob Saget\u003c/b\u003e, the beloved comedian and star of Full House, \u003cb\u003ehas died\u003c/b\u003e at the age of 65.",
-      "cacheId": "1DMKObsibP4J",
-      "formattedUrl": "https://www.ign.com/.../bob-saget-comedian-and-star-of-full-house-dies-at- 65",
-      "htmlFormattedUrl": "https://www.ign.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-comedian-and-star-of-full-house-\u003cb\u003edies\u003c/b\u003e-at- 65",
-      "pagemap": {
-        "thumbnail": [
-          {
-            "src": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
-            "twitter:app:url:iphone": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "twitter:app:id:googleplay": "com.mobile.ign",
-            "copyright": "IGN Entertainment, Inc.",
-            "theme-color": "#BF1313",
-            "article:published_time": "2022-01-10T00:46:41.441Z",
-            "twitter:card": "summary_large_image",
-            "og:site_name": "IGN",
-            "twitter:app:url:ipad": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "al:android:package": "com.mobile.ign",
-            "vertical": "Entertainment",
-            "twitter:app:name:googleplay": "IGN",
-            "al:ios:url": "ign://ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "twitter:app:id:iphone": "284819997",
-            "og:description": "Bob Saget, the beloved comedian and star of Full House, has died at the age of 65.",
-            "al:ios:app_store_id": "284819997",
-            "next-head-count": "70",
-            "twitter:site": "@IGN",
-            "og:type": "article",
-            "thumbnail": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
-            "al:ios:app_name": "IGN: Video Game News, Reviews, Guides",
-            "cpid": "5a8bca0b2d985966302b4671c3a001ee",
-            "og:title": "Bob Saget, Comedian and Star of Full House, Dies at 65 - IGN",
-            "twitter:app:id:ipad": "284819997",
-            "al:web:url": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "fb:pages": "59685491632",
-            "article:author": "Adam Bankhurst",
-            "article:tag": "Full House",
-            "facebook-domain-verification": "960w7qsbsscw9stu2hxr2xfaes6cvc",
-            "al:android:url": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "referrer": "always",
-            "fb:app_id": "115982828429116",
-            "twitter:app:url:googleplay": "ign://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "twitter:app:name:ipad": "IGN: Video Game News, Reviews, Guides",
-            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
-            "twitter:imageurl": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
-            "category": "News",
-            "og:url": "https://www.ign.com/articles/bob-saget-comedian-and-star-of-full-house-dies-at-65",
-            "al:android:app_name": "IGN",
-            "twitter:app:name:iphone": "IGN: Video Game News, Reviews, Guides"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://assets-prd.ignimgs.com/2022/01/10/bob3-1641775487521.png?width=1280",
-            "width": "300",
-            "type": "1",
-            "height": "168"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of ...",
-      "htmlTitle": "\u003cb\u003eBob Saget&#39;s\u003c/b\u003e Autopsy Completed After His \u003cb\u003eDeath\u003c/b\u003e: &#39;No Evidence of ...",
-      "link": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
-      "displayLink": "people.com",
-      "snippet": "Jan 10, 2022 ... \"An autopsy was performed this morning on Robert Lane Saget. Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room. At ...",
-      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e &quot;An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e. Mr. \u003cb\u003eSaget is\u003c/b\u003e a 65-year-old male, who was found unresponsive in his hotel room. At&nbsp;...",
-      "cacheId": "jfgGLPcPEAUJ",
-      "formattedUrl": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
-      "htmlFormattedUrl": "https://people.com/tv/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-autopsy-completed/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDoVmlhRhZtdd5XUiFN3hKA_jVKMtNp_tqrAZQaraNAEZOtBWh2qLNWU6u",
-            "width": "278",
-            "height": "181"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg",
-            "twitter:card": "summary_large_image",
-            "msapplication-square70x70logo": "/static/1.26.0/icons/favicons/mstile-70x70.png",
-            "og:site_name": "Peoplemag",
-            "msapplication-wide310x150logo": "/static/1.26.0/icons/favicons/mstile-310x150.png",
-            "msapplication-tileimage": "/static/1.26.0/icons/favicons/mstile-144x144.png",
-            "og:description": "Bob Saget died Sunday at the age of 65 after he was found unresponsive inside his Orlando hotel room",
-            "twitter:image": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg",
-            "twitter:site": "@people",
-            "msapplication-square310x310logo": "/static/1.26.0/icons/favicons/mstile-310x310.png",
-            "emailcontenttype": "STRUCTUREDCONTENT",
-            "msapplication-tilecolor": "#F4F4F4",
-            "article:section": "People",
-            "og:type": "article",
-            "twitter:title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of Drug Use or Foul Play,' Authorities Say",
-            "emailvertical": "PEOPLE",
-            "og:title": "Bob Saget's Autopsy Completed After His Death: 'No Evidence of Drug Use or Foul Play,' Authorities Say",
-            "msapplication-square150x150logo": "/static/1.26.0/icons/favicons/mstile-150x150.png",
-            "fb:pages": "95926963131",
-            "article:author": "https://www.facebook.com/peoplemag",
-            "fb:app_id": "610948219662029",
-            "viewport": "width=device-width, initial-scale=1.0",
-            "twitter:description": "Bob Saget died Sunday at the age of 65 after he was found unresponsive inside his Orlando hotel room",
-            "og:url": "https://people.com/tv/bob-saget-dead-autopsy-completed/",
-            "sailthru.author": "Joelle Goldstein",
-            "article:opinion": "false"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://people.com/thmb/ot-bzqJjZfdFN5KqGLevoaLQLAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/bob-saget-3-3bdd5007f5904010bc7459d39a792664.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Bob Saget Dead at 65 - E! Online",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Dead at 65 - E! Online",
-      "link": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
-      "displayLink": "www.eonline.com",
-      "snippet": "Jan 9, 2022 ... The comedy world has lost a legend: Bob Saget has died. He was 65 years old. The star, best known for his role of Danny Tanner on the '80s ...",
-      "htmlSnippet": "Jan 9, 2022 \u003cb\u003e...\u003c/b\u003e The comedy world \u003cb\u003ehas\u003c/b\u003e lost a legend: \u003cb\u003eBob Saget has died\u003c/b\u003e. He was 65 years old. The star, best known for his role of Danny Tanner on the &#39;80s&nbsp;...",
-      "cacheId": "finhjWOlrgkJ",
-      "formattedUrl": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
-      "htmlFormattedUrl": "https://www.eonline.com/news/1315737/\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-at-65",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAgumiynbDTbhK5tcC9eK-1OpSLd-isXjoXHgEelqOj6r2_zLj3u7c5STP",
-            "width": "225",
-            "height": "225"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "sailthru.edition": "us",
-            "og:image:width": "1080",
-            "article:published_time": "2022-01-10T01:01:00.000Z",
-            "twitter:card": "summary_large_image",
-            "og:site_name": "E! Online",
-            "sailthru.tags": "bob_saget,fuller_house,wochit",
-            "twitter:url": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
-            "sailthru.contenttype": "news",
-            "sailthru.ed.cid": "us_1315737",
-            "og:description": "Fuller House alum and comedian Bob Saget has passed away. He was found dead inside a hotel room while on a standup comedy tour.",
-            "twitter:image": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top",
-            "twitter:site": "https://twitter.com/eonline",
-            "article:modified_time": "2022-01-10T03:33:57.000Z",
-            "sailthru.title": "Bob Saget Dead at 65",
-            "fb:admins": "10101649",
+            "theme-color": "#ffffff",
+            "sailthru.tags": "Natalie Portman, Rose McGowan, Oscars, Oscars 2020, Lifestyle UK, Entertainment UK, Jacob Sarkisian",
+            "og:site_name": "Insider",
+            "apple-mobile-web-app-title": "Insider",
+            "title": "Natalie Portman responded to Rose McGowan calling her Oscars cape with female director names 'deeply offensive'",
+            "og:description": "McGowan wrote: \"I find Portman's type of activism deeply offensive to those of us who actually do the work.\"",
+            "article:publisher": "insider",
+            "datemodified": "2020-02-13T13:42:32Z",
+            "news_keywords": "Natalie Portman, Rose McGowan, Oscars, Oscars 2020, Lifestyle UK, Entertainment UK, Jacob Sarkisian",
+            "sailthru.title": "Natalie Portman responded to Rose McGowan calling her Oscars cape with female director names 'deeply offensive'",
             "article:content_tier": "free",
-            "sailthru.date": "2022 01 09 17:01:00",
+            "datepublished": "2020-02-13T13:42:27Z",
+            "sailthru.verticals": "entertainment",
+            "insider": "Snapchat",
+            "sailthru.date": "2020-02-13",
             "og:type": "article",
-            "twitter:title": "Bob Saget Dead at 65 - E! Online",
-            "msvalidate.01": "564B986CE3CECCAE84779191BEC6B755",
-            "og:title": "Bob Saget Dead at 65 - E! Online",
-            "og:image:height": "1080",
-            "sailthru.cid": "1315737",
-            "fb:pages": "89033370735",
-            "article:tag": "bob_saget,fuller_house,wochit",
-            "tp:enableexternalcontroller": "true",
-            "fb:app_id": "195662528604",
-            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
-            "twitter:description": "Fuller House alum and comedian Bob Saget has passed away. He was found dead inside a hotel room while on a standup comedy tour.",
-            "og:locale": "en_US",
-            "og:url": "https://www.eonline.com/news/1315737/bob-saget-dead-at-65",
-            "sailthru.image.full": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "cxenseparse:recs:bii-imgalt": "Natalie Portman Rose McGowan",
+            "author": "Jacob Sarkisian",
+            "tbi-vertical": "Entertainment",
+            "natalie portman responded to rose mcgowan calling her oscars cape with female director names 'deeply offensive'": "The Fastest Way to Share a Moment!",
+            "og:title": "Natalie Portman responded to Rose McGowan calling her Oscars cape with female director names 'deeply offensive'",
+            "ia:markup_url": "https://www.insider.com/rose-mcgowan-natalie-portmans-oscars-cape-deeply-offensive-portman-responded-2020-2?fbia",
+            "sailthru.image.thumb": "https://i.insider.com/5e4523aa96eee64b710819e3?width=160&format=jpeg",
+            "fb:pages": "1413475698959824",
+            "sailthru.description": "McGowan wrote: \"I find Portman's type of activism deeply offensive to those of us who actually do the work.\"",
+            "linkedin:owner": "mid:1d5f7b",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:url": "https://www.insider.com/rose-mcgowan-natalie-portmans-oscars-cape-deeply-offensive-portman-responded-2020-2",
+            "sailthru.author": "Jacob Sarkisian",
+            "sailthru.image.full": "https://i.insider.com/5e4523aa96eee64b710819e3?width=1200&format=jpeg",
             "article:opinion": "false"
           }
         ],
         "cse_image": [
           {
-            "src": "https://akns-images.eonline.com/eol_images/Entire_Site/202209/rs_1200x1200-220109164733-1200-bob1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+            "src": "https://i.insider.com/5e45240896eee64ba671a9c2?width=1200&format=jpeg"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Autopsy Shows No Evidence Of Drugs Or Foul Play In Bob Saget ...",
-      "htmlTitle": "Autopsy Shows No Evidence Of Drugs Or Foul Play In \u003cb\u003eBob Saget\u003c/b\u003e ...",
-      "link": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/",
-      "displayLink": "deadline.com",
-      "snippet": "Jan 10, 2022 ... “An autopsy was performed this morning on Robert Lane Saget,” said ... Saget, whose unexpected death yesterday has shocked and saddened his ...",
-      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e “An autopsy was performed this morning on \u003cb\u003eRobert Lane Saget\u003c/b\u003e,” said ... \u003cb\u003eSaget\u003c/b\u003e, whose unexpected \u003cb\u003edeath\u003c/b\u003e yesterday \u003cb\u003ehas\u003c/b\u003e shocked and saddened his&nbsp;...",
-      "cacheId": "fku7qD2-IqsJ",
-      "formattedUrl": "https://deadline.com/.../bob-saget-autopsy-no-drugs-foul-play-medical- examiner-1234907634/",
-      "htmlFormattedUrl": "https://deadline.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-autopsy-no-drugs-foul-play-medical- examiner-1234907634/",
+      "title": "List of awards and nominations received by Natalie Portman ...",
+      "htmlTitle": "\u003cb\u003eList\u003c/b\u003e of awards and nominations received by \u003cb\u003eNatalie Portman\u003c/b\u003e ...",
+      "link": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Natalie_Portman",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Louis Gateway Film Critics Association Award for Best Actress, and nominations for the Satellite Award for Best Supporting Actress – Motion Picture, and the ...",
+      "htmlSnippet": "Louis Gateway \u003cb\u003eFilm\u003c/b\u003e Critics Association Award for \u003cb\u003eBest Actress\u003c/b\u003e, and nominations for the Satellite Award for Best Supporting Actress – Motion Picture, and the&nbsp;...",
+      "cacheId": "ENR8Sau6470J",
+      "formattedUrl": "https://en.wikipedia.org/.../List_of_awards_and_nominations_received_by_ Natalie_Portman",
+      "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eList\u003c/b\u003e_of_awards_and_nominations_received_by_ \u003cb\u003eNatalie\u003c/b\u003e_\u003cb\u003ePortman\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Natalie_Portman_AA_2011.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "List of awards and nominations received by Natalie Portman - Wikipedia",
+            "og:image:height": "1669",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Natalie Portman wears cape to Oscars with names of snubbed ...",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e wears cape to Oscars with \u003cb\u003enames\u003c/b\u003e of snubbed ...",
+      "link": "https://www.goodmorningamerica.com/culture/story/natalie-portman-wears-cape-oscars-names-snubbed-female-68750536",
+      "displayLink": "www.goodmorningamerica.com",
+      "snippet": "Feb 10, 2020 ... Actress Natalie Portman wears a cape embroidered with the names of female film directors who were not nominated for Oscars as she arrives ...",
+      "htmlSnippet": "Feb 10, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eActress Natalie Portman\u003c/b\u003e wears a cape embroidered with the \u003cb\u003enames\u003c/b\u003e of \u003cb\u003efemale film\u003c/b\u003e directors who were \u003cb\u003enot\u003c/b\u003e nominated for Oscars as she arrives&nbsp;...",
+      "cacheId": "URGm-WhfoJUJ",
+      "formattedUrl": "https://www.goodmorningamerica.com/.../natalie-portman-wears-cape-oscars- names-snubbed-female-68750536",
+      "htmlFormattedUrl": "https://www.goodmorningamerica.com/.../\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-wears-cape-oscars- \u003cb\u003enames\u003c/b\u003e-snubbed-\u003cb\u003efemale\u003c/b\u003e-68750536",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUDcvwksReQ55KA2tGSzZUbwX1Ewnvfwad1Jk0dATEXm12AoRsZdiaYscd",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIH6isVRzSS3Kd6Mh12CcShK5mGmiGXO0A-4zUyZo-vmEHAWHVRY0Ww8LF",
             "width": "300",
             "height": "168"
           }
         ],
         "metatags": [
           {
-            "comment_count": "7",
+            "og:image": "https://s.abcnews.com/images/GMA/natalie-portman-oscars-ap-jef-200209_hpMain_16x9_608.jpg",
+            "copyright": "2022 ABC News Internet Ventures. All rights reserved.",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Good Morning America",
+            "twitter:url": "https://goodmorningamerica.com/culture/story/natalie-portman-wears-cape-oscars-names-snubbed-female-68750536",
+            "twitter:image:height": "360",
+            "og:description": "Natalie Portman hit the Oscars red carpet with a cape embroidered with the names of female directors who weren't nominated, she told the Los Angeles Times.",
+            "twitter:creator": "Good Morning America",
+            "twitter:image": "https://s.abcnews.com/images/GMA/natalie-portman-oscars-ap-jef-200209_hpMain_16x9_608.jpg",
+            "lastpublisheddate": "2020-02-12T08:41:05Z",
+            "twitter:image:alt": "PHOTO: Natalie Portman attends the 92nd annual Academy Awards, Feb. 9, 2020, in Hollywood, Calif.",
+            "twitter:site": "@gma",
+            "twitter:image:width": "640",
+            "fb:admins": "704409894",
+            "article:content_tier": "free",
+            "fb_title": "Natalie Portman wears cape to Oscars with names of snubbed female directors",
+            "og:type": "article",
+            "twitter:title": "Natalie Portman wears cape to Oscars with names of snubbed female directors",
+            "author": "Good Morning America",
+            "og:title": "Natalie Portman wears cape to Oscars with names of snubbed female directors",
+            "fb:app_id": "158648651465482",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "Natalie Portman hit the Oscars red carpet with a cape embroidered with the names of female directors who weren't nominated, she told the Los Angeles Times.",
+            "og:locale": "en_US",
+            "og:url": "https://www.goodmorningamerica.com/culture/story/natalie-portman-wears-cape-oscars-names-snubbed-female-68750536",
+            "article:opinion": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s.abcnews.com/images/GMA/natalie-portman-oscars-ap-jef-200209_hpMain_16x9_608.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Natalie Portman, Kristen Stewart Top Forbes List Of Hollywood's ...",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e, Kristen Stewart Top Forbes \u003cb\u003eList\u003c/b\u003e Of Hollywood&#39;s ...",
+      "link": "https://www.forbes.com/sites/dorothypomerantz/2012/12/26/natalie-portman-and-kristen-stewart-top-our-list-of-hollywoods-best-actors-for-the-buck/",
+      "displayLink": "www.forbes.com",
+      "snippet": "Dec 26, 2012 ... Not only did the film help star Natalie Portman win her first Best Actress Oscar, but the fantastic financial return helped land her at the ...",
+      "htmlSnippet": "Dec 26, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNot\u003c/b\u003e only did the \u003cb\u003efilm\u003c/b\u003e help star \u003cb\u003eNatalie Portman\u003c/b\u003e win her first \u003cb\u003eBest Actress\u003c/b\u003e Oscar, but the fantastic financial return helped land her at the&nbsp;...",
+      "cacheId": "QhKhsDkNruoJ",
+      "formattedUrl": "https://www.forbes.com/.../natalie-portman-and-kristen-stewart-top-our-list-of -hollywoods-best-actors-for-the-buck/",
+      "htmlFormattedUrl": "https://www.forbes.com/.../\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-and-kristen-stewart-top-our-\u003cb\u003elist\u003c/b\u003e-of -hollywoods-\u003cb\u003ebest\u003c/b\u003e-\u003cb\u003eactors\u003c/b\u003e-for-the-buck/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQloLnQlEV73lEiVtkBymNhy7KcUR4Bzakk1LPTJBBYknabD4ulC1N_",
+            "width": "96",
+            "height": "96"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=588647136",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Forbes",
+            "article:id": "blogAndPostId/blog/post/928-10337",
+            "og:description": "For every dollar Portman earns from the studios, she returns an average $42.70.",
+            "twitter:creator": "@DorothyPWrites",
+            "article:publisher": "https://www.facebook.com/forbes",
+            "twitter:image": "https://imageio.forbes.com/blogs-images/thumbnails/blog_928/pt_928_10337_o.jpg?format=jpg&width=1200",
+            "twitter:site": "@forbes",
+            "news_keywords": "Business,Celebrity 100,Lists,Media  Entertainment,Media &amp; Entertainment,Black Swan,Box Office Mojo,Eddie Murphy,Kristen Stewart,Natalie Portman,Robert Pattinson,Taylor Lautner,Twilight",
+            "article:published": "2012-12-26",
+            "article:channel": "Business",
+            "image": "https://imageio.forbes.com/blogs-images/thumbnails/blog_928/pt_928_10337_o.jpg?format=jpg&width=1200",
+            "article:section": "Business",
+            "og:type": "article",
+            "twitter:title": "Natalie Portman, Kristen Stewart Top Forbes List Of Hollywood's Best Actors For The Buck",
+            "author": "Dorothy Pomerantz",
+            "article:section_url": "https://www.forbes.com/business/",
+            "og:title": "Natalie Portman, Kristen Stewart Top Forbes List Of Hollywood's Best Actors For The Buck",
+            "og:updated_time": "2012-12-28T09:07:15.684-05:00",
+            "article:author": "Dorothy Pomerantz",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "123694841080850",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+            "twitter:description": "For every dollar Portman earns from the studios, she returns an average $42.70.",
+            "og:url": "https://www.forbes.com/sites/dorothypomerantz/2012/12/26/natalie-portman-and-kristen-stewart-top-our-list-of-hollywoods-best-actors-for-the-buck/",
+            "article:modified": "2012-12-28"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://imageio.forbes.com/specials-images/imageserve/07PYc0H0F5dK3/960x960.jpg?format=jpg&width=96"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Natalie Portman Movies: 15 greatest films ranked worst to best ...",
+      "htmlTitle": "\u003cb\u003eNatalie Portman Movies\u003c/b\u003e: 15 greatest \u003cb\u003efilms\u003c/b\u003e ranked worst to \u003cb\u003ebest\u003c/b\u003e ...",
+      "link": "https://www.goldderby.com/gallery/natalie-portman-best-movies-ranked/",
+      "displayLink": "www.goldderby.com",
+      "snippet": "Jun 4, 2022 ... Natalie Portman is an Oscar-winning actress who has been quite prolific ... 15 greatest films, and see if your favorite tops the list, ...",
+      "htmlSnippet": "Jun 4, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNatalie Portman\u003c/b\u003e is an Oscar-winning \u003cb\u003eactress\u003c/b\u003e who has been quite prolific ... 15 greatest \u003cb\u003efilms\u003c/b\u003e, and see if your favorite tops the \u003cb\u003elist\u003c/b\u003e,&nbsp;...",
+      "cacheId": "3800URm-oX8J",
+      "formattedUrl": "https://www.goldderby.com/gallery/natalie-portman-best-movies-ranked/",
+      "htmlFormattedUrl": "https://www.goldderby.com/gallery/\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-\u003cb\u003ebest\u003c/b\u003e-\u003cb\u003emovies\u003c/b\u003e-ranked/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjXxrDOR9O6dv8PmVbkHyFz0hl2y9pLmLJI3pIbZ8CK0QlonnI1o8X3vue",
+            "width": "295",
+            "height": "171"
+          }
+        ],
+        "metatags": [
+          {
+            "comment_count": "1",
+            "apple-itunes-app": "app-id=1460576753",
+            "og:image": "https://www.goldderby.com/wp-content/uploads/2018/12/Natalie-Portman.jpg",
+            "article:published_time": "2022-06-04T18:42:45+00:00",
+            "og:image:width": "620",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "GoldDerby",
+            "title": "Natalie Portman movies: 15 greatest films ranked worst to best",
+            "body": "Natalie Portman is an Oscar-winning actress who has been quite prolific throughout her three decade film career, but how many of her titles remain classics? Let's take a look back at 15 of Portman's greatest movies, ranked worst to best.\r\n\r\nPortman made her acting debut when she was just 13-years-old with \"Leon: The Professional\" (1994), which cast her as a teenager teaming up with a hitman (Jean Reno) to avenge her family's murder.\r\n\r\nHer first Oscar nomination came just 10 years later: Best Supporting Actress for \"Closer\" (2004). The role of Alice, a stripper dating a writer (Jude Law) in love with another woman (Julia Roberts), brought her a Golden Globe victory, though the Academy went with Cate Blanchett (\"The Aviator\") instead.\r\n\r\nPortman didn't go Oscar-less for too long. Just six years later, she reaped a Best Actress victory for playing an obsessive ballerina in the psychological thriller \"Black Swan\" (2010). An additional nomination came in 2016 for her uncanny portrayal of First Lady Jackie Kenned",
+            "msapplication-tileimage": "https://www.goldderby.com/wp-content/uploads/2018/04/cropped-gd_favicon-1.png?w=270",
+            "og:description": "Natalie Portman is an Oscar-winning actress who has been quite prolific throughout her three decade film career, but how many of her titles remain classics? Let’s take a look back at 15 of Po…",
+            "twitter:image": "https://www.goldderby.com/wp-content/uploads/2018/12/Natalie-Portman.jpg?w=640",
+            "twitter:text:title": "Natalie Portman movies: 15 greatest films ranked worst to best",
+            "twitter:image:alt": "Natalie-Portman-Movies-Ranked",
+            "twitter:site": "@GoldDerby",
+            "content_type": "Gallery",
+            "article:modified_time": "2022-06-05T02:05:50+00:00",
+            "news_keywords": "Black Swan, FYC, Natalie Portman",
+            "published_at": "2022-06-04 11:42:45",
+            "image": "https://www.goldderby.com/wp-content/uploads/2018/12/Natalie-Portman.jpg?w=300",
+            "og:type": "article",
+            "og:image:alt": "Natalie-Portman-Movies-Ranked",
+            "msvalidate.01": "87B78205BB25666E656DA3EB49F3FD42",
+            "author": "Zach Laws,Chris Beachum",
+            "topics": "Film",
+            "og:title": "Natalie Portman movies: 15 greatest films ranked worst to best",
+            "og:image:height": "360",
+            "fb:pages": "114131918640206",
+            "tags": "Black Swan",
+            "post_id": "1202690472",
+            "viewport": "width=device-width",
+            "og:locale": "en_US",
+            "og:url": "https://www.goldderby.com/gallery/natalie-portman-best-movies-ranked/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.goldderby.com/wp-content/uploads/2018/12/Natalie-Portman.jpg"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Natalie Portman calls out 'all male nominees' for best director | CNN",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e calls out &#39;all male nominees&#39; for \u003cb\u003ebest\u003c/b\u003e director | CNN",
+      "link": "https://www.cnn.com/2018/01/08/entertainment/natalie-portman-all-male-director",
+      "displayLink": "www.cnn.com",
+      "snippet": "Jan 8, 2018 ... While presenting the Best Director award alongside Ron Howard, Natalie Portman took the opportunity to point out the obvious: Not a single ...",
+      "htmlSnippet": "Jan 8, 2018 \u003cb\u003e...\u003c/b\u003e While presenting the \u003cb\u003eBest\u003c/b\u003e Director award alongside Ron Howard, \u003cb\u003eNatalie Portman\u003c/b\u003e took the opportunity to point out the obvious: \u003cb\u003eNot\u003c/b\u003e a single&nbsp;...",
+      "formattedUrl": "https://www.cnn.com/2018/01/08/.../natalie-portman-all-male-director",
+      "htmlFormattedUrl": "https://www.cnn.com/2018/01/08/.../\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-all-male-director",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdL8xRYwfkPSQm0WqIZ2PdRkY9OlyB6rVlpzkRZkIy-A9ZpM_asRNt-9M",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/180108224811-portman-howard.jpg?q=x_7,y_231,h_1057,w_1880,c_crop/w_800",
+            "twitter:title": "Natalie Portman calls out 'all male nominees' for best director | CNN",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2018-01-08T11:03:56Z",
+            "og:site_name": "CNN",
+            "author": "Susannah Cullinane",
+            "og:title": "Natalie Portman calls out 'all male nominees' for best director | CNN",
+            "meta-section": "entertainment",
+            "type": "article",
+            "og:description": "While presenting the Best Director award alongside Ron Howard, Natalie Portman took the opportunity to point out the obvious: Not a single woman was nominated.",
+            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/180108224811-portman-howard.jpg?q=x_7,y_231,h_1057,w_1880,c_crop/w_800",
+            "article:publisher": "https://www.facebook.com/CNN",
+            "article:tag": "arts and entertainment, awards and prizes, celebrities, entertainment and arts awards, golden globe awards, movie awards, movies, natalie portman",
+            "fb:app_id": "80401312489",
+            "twitter:site": "@CNNent",
+            "article:modified_time": "2018-01-08T23:46:40Z",
+            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+            "twitter:description": "While presenting the Best Director award alongside Ron Howard, Natalie Portman took the opportunity to point out the obvious: Not a single woman was nominated.",
+            "template_type": "article_leaf",
+            "meta-branding": "golden-globes",
+            "theme": "entertainment",
+            "og:url": "https://www.cnn.com/2018/01/08/entertainment/natalie-portman-all-male-director/index.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.cnn.com/api/v1/images/stellar/prod/180108224811-portman-howard.jpg?q=x_7,y_231,h_1057,w_1880,c_crop/w_800"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Oscars: Natalie Portman Wears Cape With Embroidered Names Of ...",
+      "htmlTitle": "Oscars: \u003cb\u003eNatalie Portman\u003c/b\u003e Wears Cape With Embroidered \u003cb\u003eNames\u003c/b\u003e Of ...",
+      "link": "https://deadline.com/2020/02/oscars-natalie-portman-cape-embroidered-names-snubbed-female-directors-1202855381/",
+      "displayLink": "deadline.com",
+      "snippet": "Feb 9, 2020 ... she ought to use her star power to have female directors helm some of her upcoming movies. Or, she can wear a cape. Anonymous on February 10, ...",
+      "htmlSnippet": "Feb 9, 2020 \u003cb\u003e...\u003c/b\u003e she ought to use her star power to have \u003cb\u003efemale\u003c/b\u003e directors helm some of her upcoming \u003cb\u003emovies\u003c/b\u003e. Or, she can wear a cape. Anonymous on February 10,&nbsp;...",
+      "cacheId": "k2dhq_UrmGQJ",
+      "formattedUrl": "https://deadline.com/.../oscars-natalie-portman-cape-embroidered-names- snubbed-female-directors-1202855381/",
+      "htmlFormattedUrl": "https://deadline.com/.../oscars-\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-cape-embroidered-\u003cb\u003enames\u003c/b\u003e- snubbed-\u003cb\u003efemale\u003c/b\u003e-directors-1202855381/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCweFqIoiGSSRUSZ48qyFenD4vCD0ET9oMxk4IVIJHXAMRlvuKmdNzV7vb",
+            "width": "302",
+            "height": "167"
+          }
+        ],
+        "metatags": [
+          {
+            "comment_count": "11",
             "msapplication-config": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/browserconfig.xml",
             "apple-itunes-app": "app-id=533209613",
-            "og:image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024",
-            "article:published_time": "2022-01-10T20:30:24+00:00",
+            "og:image": "https://deadline.com/wp-content/uploads/2020/02/shutterstock_editorial_10544110ie-e1581298505952.jpg?w=1024",
+            "article:published_time": "2020-02-10T01:31:15+00:00",
             "og:image:width": "1024",
             "twitter:card": "summary_large_image",
             "og:site_name": "Deadline",
             "msapplication-tileimage": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/icons/icon-144x144.png",
-            "title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
-            "body": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play.\r\n\r\n\"An autopsy was performed this morning on Robert Lane Saget,\" said Joshua Stephany, the chief medical examiner of Orange and Osceola Counties, in a statement. \"Mr. Saget is a 65-year-old male, who was found unresponsive in his hotel room.\r\n\r\n\"At this time, there is no evidence of drug use or foul play,\" the statement continues. \"The cause and manner of death are pending further studies and investigation which may take up to 10-12 weeks to complete. Our condolences go out to Mr. Saget's loved ones during this difficult time.\"\r\n\r\nThe examiner noted that the media will be notified when the final report has been completed.\r\n\r\nSaget, whose unexpected death yesterday has shocked and saddened his friends and fans across the world, was found dead in his room at Orlando's Ritz-Carlton Hotel Sunday. The Full House and America's",
+            "title": "Oscars: Natalie Portman Wears Cape Embroidered With Names Of Snubbed Female Directors",
+            "body": "Natalie Portman paid tribute to women directors on the Oscars red carpet, wearing a black Dior cape with the names of those who were not nominated this year.\r\n\r\nEmbroidered in gold on the cape were names such as Lulu Wang, who directed The Farewell, Greta Gerwig (Little Women),  Melina Matsoukas (Queen & Slim), Kasi Lemmons (Harriet), Lorene Scafaria (Hustlers), Marielle Heller (A Beautiful Day in the Neighborhood) and Alma Har'el (Honey Boy).\r\n\r\n\"I wanted to recognize the women who were not recognized for their incredible work this year, in my subtle way,\" she told L.A. Times reporter Amy Kaufman.\r\n\r\nKirsten Schaffer, Executive Director of Women in Film, LA released a statement when the nominations were announced in regards to the lack of women in the Best Director category: “It’s disheartening that even as the number of women nominated for awards in documentary, short film, and technical categories increases, there have still only been five women considered for the Best Directing award in its 92-year hi",
             "y_key": "a810be562637c603",
-            "og:description": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play. &#822…",
-            "twitter:creator": "@DEADLINE",
-            "ia:markup_url_dev": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/?ia_markup=1",
-            "twitter:image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024",
+            "og:description": "Natalie Portman paid tribute to women directors on the Oscars red carpet, wearing a black Dior cape with the names of those who were not nominated this year. Embroidered in gold on the cape were na…",
+            "twitter:image": "https://deadline.com/wp-content/uploads/2020/02/shutterstock_editorial_10544110ie-e1581298505952.jpg?w=1024",
             "twitter:site": "@DEADLINE",
             "content_type": "Article",
-            "article:modified_time": "2022-01-10T21:33:36+00:00",
-            "news_keywords": "Bob Saget",
-            "published_at": "2022-01-10 12:30:24",
+            "article:modified_time": "2020-02-10T01:35:38+00:00",
+            "news_keywords": "Natalie Portman, Oscars, women directors",
+            "published_at": "2020-02-09 17:31:15",
             "msapplication-tilecolor": "#eff4ff",
-            "image": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=296&h=166&crop=1",
+            "image": "https://deadline.com/wp-content/uploads/2020/02/shutterstock_editorial_10544110ie-e1581298505952.jpg?w=296&h=166&crop=1",
             "og:type": "article",
-            "og:image:alt": "Bob Saget",
-            "twitter:title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
-            "author": "Greg Evans",
-            "topics": "TV",
-            "og:title": "Autopsy Indicates No Evidence Of Drugs Or Foul Play In Bob Saget Death, Florida Medical Examiner Confirms",
-            "og:image:height": "577",
+            "twitter:title": "Oscars: Natalie Portman Wears Cape Embroidered With Names Of Snubbed Female Directors",
+            "author": "Denise Petski",
+            "topics": "Awardsline",
+            "og:title": "Oscars: Natalie Portman Wears Cape Embroidered With Names Of Snubbed Female Directors",
+            "og:image:height": "569",
             "fb:pages": "105558754896",
-            "tags": "Bob Saget",
+            "tags": "Natalie Portman",
             "fragment": "!",
             "apple-mobile-web-app-status-bar-style": "black-translucent",
-            "post_id": "1234907634",
+            "post_id": "1202855381",
             "viewport": "width=device-width, initial-scale=1.0",
             "onesignal": "wordpress-plugin",
-            "twitter:description": "The Florida chief medical examiner in charge of investigating the death of comedian Bob Saget said today that an autopsy performed this morning indicates no evidence of drug use or foul play. &#822…",
+            "twitter:description": "Natalie Portman paid tribute to women directors on the Oscars red carpet, wearing a black Dior cape with the names of those who were not nominated this year.",
             "og:locale": "en_US",
-            "og:url": "https://deadline.com/2022/01/bob-saget-autopsy-no-drugs-foul-play-medical-examiner-1234907634/"
+            "og:url": "https://deadline.com/2020/02/oscars-natalie-portman-cape-embroidered-names-snubbed-female-directors-1202855381/"
           }
         ],
         "cse_image": [
           {
-            "src": "https://deadline.com/wp-content/uploads/2022/01/P4DBOSA_EC001-e1641779118460.jpg?w=1024"
+            "src": "https://deadline.com/wp-content/uploads/2020/02/shutterstock_editorial_10544110ie-e1581298505952.jpg?w=1024"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Bob Saget Dead: 'Full House' and 'Fuller House' Star Was 65",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e Dead: &#39;Full House&#39; and &#39;Fuller House&#39; Star Was 65",
-      "link": "https://www.cheatsheet.com/entertainment/bob-saget-dead-full-house-fuller-house-star-65.html/",
-      "displayLink": "www.cheatsheet.com",
-      "snippet": "Jan 9, 2022 ... As of this writing, a cause of death for Bob Saget has not been released. However, the Orange County Sheriff's Office confirmed his death in a ...",
-      "htmlSnippet": "Jan 9, 2022 \u003cb\u003e...\u003c/b\u003e As of this writing, a cause of \u003cb\u003edeath\u003c/b\u003e for \u003cb\u003eBob Saget has\u003c/b\u003e not been released. However, the Orange County Sheriff&#39;s Office confirmed his \u003cb\u003edeath\u003c/b\u003e in a&nbsp;...",
-      "cacheId": "0Wmlu9Ge0l0J",
-      "formattedUrl": "https://www.cheatsheet.com/.../bob-saget-dead-full-house-fuller-house-star- 65.html/",
-      "htmlFormattedUrl": "https://www.cheatsheet.com/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-dead-full-house-fuller-house-star- 65.html/",
+      "title": "Rose McGowan: Natalie Portman's Oscars dress protest 'deeply ...",
+      "htmlTitle": "Rose McGowan: \u003cb\u003eNatalie Portman&#39;s\u003c/b\u003e Oscars dress protest &#39;deeply ...",
+      "link": "https://www.theguardian.com/film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors",
+      "displayLink": "www.theguardian.com",
+      "snippet": "Feb 12, 2020 ... Portman's A Tale of Love and Darkness is the only female-directed film on its list, while Lynne Ramsay left Jane Got a Gun and was replaced ...",
+      "htmlSnippet": "Feb 12, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003ePortman&#39;s\u003c/b\u003e A Tale of Love and Darkness is the only \u003cb\u003efemale\u003c/b\u003e-directed \u003cb\u003efilm\u003c/b\u003e on its \u003cb\u003elist\u003c/b\u003e, while Lynne Ramsay left Jane Got a Gun and was replaced&nbsp;...",
+      "cacheId": "TKACf0IEXDoJ",
+      "formattedUrl": "https://www.theguardian.com/film/.../rose-mcgowan-natalie-portman-oscars- dress-protest-female-directors",
+      "htmlFormattedUrl": "https://www.theguardian.com/\u003cb\u003efilm\u003c/b\u003e/.../rose-mcgowan-\u003cb\u003enatalie\u003c/b\u003e-\u003cb\u003eportman\u003c/b\u003e-oscars- dress-protest-\u003cb\u003efemale\u003c/b\u003e-directors",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZcBhY35MudAZRLRMMVrcS97U4syw56FNeaXxWTNMRU7hcRUz3kwXAMoaN",
-            "width": "275",
-            "height": "183"
-          }
-        ],
-        "person": [
-          {
-            "name": "Bernadette Giacomazzo",
-            "url": "Bernadette Giacomazzo"
-          }
-        ],
-        "organization": [
-          {
-            "name": "Showbiz Cheat Sheet",
-            "url": "Showbiz Cheat Sheet"
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYSdKbTtd0SaAkLQeJW0YDU2lOQvJZM_dmopGCXAD9Z_va_IkahtKK8ZXH",
+            "width": "310",
+            "height": "163"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://www.cheatsheet.com/wp-content/uploads/2022/01/Bob-Saget-1200x800.jpg?w=1200",
-            "og:type": "article",
-            "article:published_time": "2022-01-10T01:26:09+00:00",
+            "og:image": "https://i.guim.co.uk/img/media/c3d16379f621fd223fde04e3fdcc64c70143417b/0_109_1994_1196/master/1994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=d30898783995c1fe1d1023eb1aebdd18",
+            "twitter:app:id:googleplay": "com.guardian",
+            "twitter:app:url:iphone": "gnmguardian://film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors?contenttype=Article&source=twitter",
+            "theme-color": "#052962",
+            "og:image:width": "1200",
+            "article:published_time": "2020-02-12T22:13:43.000Z",
             "twitter:card": "summary_large_image",
-            "og:site_name": "Showbiz Cheat Sheet",
-            "author": "Bernadette Giacomazzo",
-            "og:title": "Bob Saget Dead: 'Full House' and 'Fuller House' Star Was 65",
-            "twitter:label1": "Written by",
-            "twitter:label2": "Est. reading time",
-            "og:description": "He rose to fame as the star of 'Full House' and 'Fuller House.' But today, Bob Saget was found dead in his hotel room in Florida.",
-            "twitter:creator": "@BgWritesStuff",
-            "article:publisher": "https://www.facebook.com/ShowbizCheatsheet",
-            "twitter:data1": "Bernadette Giacomazzo",
-            "twitter:data2": "3 minutes",
-            "twitter:site": "@cheatsheet",
-            "article:modified_time": "2022-01-10T01:38:35+00:00",
-            "viewport": "width=device-width, initial-scale=1",
-            "og:locale": "en_US",
-            "og:url": "https://www.cheatsheet.com/entertainment/bob-saget-dead-full-house-fuller-house-star-65.html/"
+            "og:site_name": "the Guardian",
+            "twitter:app:url:ipad": "gnmguardian://film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors?contenttype=Article&source=twitter",
+            "twitter:app:name:googleplay": "The Guardian",
+            "al:ios:url": "gnmguardian://film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors?contenttype=Article&source=applinks",
+            "twitter:app:id:iphone": "409128287",
+            "og:description": "McGowan strongly criticizes Portman, who responds by saying ‘I agree with Ms McGowan that it is inaccurate to call me brave’",
+            "twitter:creator": "@Andrew_Pulver",
+            "article:publisher": "https://www.facebook.com/theguardian",
+            "al:ios:app_store_id": "409128287",
+            "twitter:dnt": "on",
+            "twitter:image": "https://i.guim.co.uk/img/media/c3d16379f621fd223fde04e3fdcc64c70143417b/0_109_1994_1196/master/1994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&s=92fd8176a1295c114f856792650f09eb",
+            "twitter:site": "@guardian",
+            "article:modified_time": "2020-02-14T16:34:35.000Z",
+            "og:type": "article",
+            "article:section": "Film",
+            "al:ios:app_name": "The Guardian",
+            "og:title": "Rose McGowan: Natalie Portman's Oscars dress protest 'deeply offensive'",
+            "og:image:height": "720",
+            "twitter:app:id:ipad": "409128287",
+            "article:author": "https://www.theguardian.com/profile/andrewpulver",
+            "article:tag": "Rose McGowan,Natalie Portman,Women,Film,Oscars 2020,Oscars,Fashion,Life and style,Culture,Awards and prizes,US news,Feminism",
+            "fb:app_id": "180444840287",
+            "twitter:app:url:googleplay": "guardian://www.theguardian.com/film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors",
+            "twitter:app:name:ipad": "The Guardian",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "og:url": "http://www.theguardian.com/film/2020/feb/12/rose-mcgowan-natalie-portman-oscars-dress-protest-female-directors",
+            "twitter:app:name:iphone": "The Guardian"
           }
         ],
         "cse_image": [
           {
-            "src": "https://www.cheatsheet.com/wp-content/uploads/2022/01/Bob-Saget.jpg?w=1200&h=800"
-          }
-        ],
-        "blog": [
-          {
-            "about": "Tags:Full House Fuller House Netflix tv shows",
-            "text": "One of the breakout stars of Full House was Robert Lane Saget, best known as Bob Saget. The comedian portrayed Danny Tanner, the beleaguered and beloved single father to three precocious little..."
-          }
-        ],
-        "listitem": [
-          {
-            "item": "Home",
-            "name": "Home",
-            "position": "1"
+            "src": "https://i.guim.co.uk/img/media/c3d16379f621fd223fde04e3fdcc64c70143417b/0_109_1994_1196/master/1994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=d30898783995c1fe1d1023eb1aebdd18"
           }
         ]
       }
     },
     {
       "kind": "customsearch#result",
-      "title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
-      "htmlTitle": "\u003cb\u003eBob Saget\u003c/b\u003e, comedian and &#39;Full House&#39; star, dead at 65 | CNN",
-      "link": "https://www.cnn.com/2022/01/09/entertainment/bob-saget-death-full-house/index.html",
-      "displayLink": "www.cnn.com",
-      "snippet": "Jan 10, 2022 ... Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, ...",
-      "htmlSnippet": "Jan 10, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eBob Saget\u003c/b\u003e, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom &quot;Full House,&quot; \u003cb\u003ehas died\u003c/b\u003e,&nbsp;...",
-      "formattedUrl": "https://www.cnn.com/2022/01/09/.../bob-saget-death-full-house/index.html",
-      "htmlFormattedUrl": "https://www.cnn.com/2022/01/09/.../\u003cb\u003ebob\u003c/b\u003e-\u003cb\u003esaget\u003c/b\u003e-\u003cb\u003edeath\u003c/b\u003e-full-house/index.html",
+      "title": "Natalie Portman - IMDb",
+      "htmlTitle": "\u003cb\u003eNatalie Portman\u003c/b\u003e - IMDb",
+      "link": "https://www.imdb.com/name/nm0000204/",
+      "displayLink": "www.imdb.com",
+      "snippet": "Natalie Portman, Actress: Black Swan. Natalie Portman is the first person born in the 1980s to have won the Academy Award for Best Actress (for Black Swan ...",
+      "htmlSnippet": "\u003cb\u003eNatalie Portman\u003c/b\u003e, Actress: Black Swan. \u003cb\u003eNatalie Portman\u003c/b\u003e is the first person born in the 1980s to have won the Academy Award for \u003cb\u003eBest Actress\u003c/b\u003e (for Black Swan&nbsp;...",
+      "cacheId": "OaH4BUv5gK0J",
+      "formattedUrl": "https://www.imdb.com/name/nm0000204/",
+      "htmlFormattedUrl": "https://www.imdb.com/name/nm0000204/",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMqE3iVA9UfnwMOVYqPKC833SWnvJap8GTHX9KbVUiaOFBvodbxMHx45YK",
-            "width": "300",
-            "height": "168"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFG_er2Tx4uo11Ze70ilD00NU3MfAhpaqzcN7e0Og-zhwtC3s6HfCNOyX",
+            "width": "163",
+            "height": "310"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill",
-            "twitter:title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
-            "og:type": "article",
-            "twitter:card": "summary_large_image",
-            "article:published_time": "2022-01-10T01:19:48Z",
-            "og:site_name": "CNN",
-            "author": "Sandra Gonzalez",
-            "og:title": "Bob Saget, comedian and 'Full House' star, dead at 65 | CNN",
-            "meta-section": "entertainment",
-            "type": "article",
-            "og:description": "Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, his family confirmed in a statement to CNN.",
-            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill",
-            "article:publisher": "https://www.facebook.com/CNN",
-            "article:tag": "arts and entertainment, bob saget, celebrities, death and dying, deaths and fatalities, society, television comedies, television programming, comedians and comedy, companies, internet and www, social media, technology, twitter",
-            "fb:app_id": "80401312489",
-            "twitter:site": "@CNNent",
-            "article:modified_time": "2022-01-10T12:21:13Z",
-            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
-            "twitter:description": "Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom \"Full House,\" has died, his family confirmed in a statement to CNN.",
-            "template_type": "article_leaf",
-            "theme": "entertainment",
-            "og:url": "https://www.cnn.com/2022/01/09/entertainment/bob-saget-death-full-house/index.html"
+            "pagetype": "name",
+            "subpagetype": "main",
+            "og:image": "https://m.media-amazon.com/images/M/MV5BYzU0ZGRhZWItMGJlNy00YzlkLWIzOWYtNDA2NzlhMDg3YjMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+            "og:type": "actor",
+            "fb:app_id": "115109575169727",
+            "og:site_name": "IMDb",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "og:title": "Natalie Portman - IMDb",
+            "pageid": "nm0000204",
+            "title": "Natalie Portman - IMDb",
+            "og:description": "Natalie Portman, Actress: Black Swan. Natalie Portman is the first person born in the 1980s to have won the Academy Award for Best Actress (for Black Swan (2010)). Natalie was born Natalie Hershlag on June 9, 1981, in Jerusalem, Israel. She is the only child of Avner Hershlag, an Israeli-born doctor, and Shelley Stevens, an American-born artist (from Cincinnati, Ohio), who also acts as...",
+            "request_id": "FJY2TZ0W8WFQRRK4HQ0J"
           }
         ],
         "cse_image": [
           {
-            "src": "https://media.cnn.com/api/v1/images/stellar/prod/220109203303-04-bob-saget-lead-image.jpg?c=16x9&q=w_800,c_fill"
+            "src": "https://m.media-amazon.com/images/M/MV5BYzU0ZGRhZWItMGJlNy00YzlkLWIzOWYtNDA2NzlhMDg3YjMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
           }
         ]
       }

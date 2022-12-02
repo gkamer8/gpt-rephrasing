@@ -1,6 +1,5 @@
-how to find stationary distribution of Markov chain
-
-find limiting distribution of Markov chain
-Deriving the stationary distribution of a Markov Chain
-How to calculate steady state probabilities for a markov chain?
+not Natalie Portman
+actors not named Natalie Portman
+movies not starring Natalie Portman
+list of films where Natalie Portman is not the lead actress
 <Parse Error>

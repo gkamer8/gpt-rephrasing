@@ -1,6 +1,6 @@
-python api bearer authentication
+Portland not in maine
 
-how to use python api with bearer authentication
-python example code for api authentication using a bearer token
-What is Bearer Authentication and how does it work with Python APIs?
+No, Portland is not in Maine
+What state is Portland actually in?
+Why people think Portland is in Maine
 <Parse Error>
